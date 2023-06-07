@@ -1,0 +1,672 @@
+,text_clean,confidence,file_name,prompt,severity,keep,word_count,text_clean_extra_clean,phrease_copy
+0,a terrible fall in hair,0.99010324,1249120_43577102_62787251.wav,dermatology,0.0,Yes,5,a terrible fall in hair,terrible fall hair
+1,after a breakup i feel something strange in me,0.83041412,1249120_44093933_109330064.wav,psycology,0.0,Yes,9,after a breakup i feel something strange in me,breakup feel something strange
+3,after eating i have burning sensation inside of me,0.98762906,1249120_43856216_87143624.wav,gastroenterology,1.0,Yes,9,after eating i have burning sensation inside of me,eating burning sensation inside
+4,after playing football i have muscle pain with my both legs,0.99508691,1249120_41841195_57027955.wav,orthopedy,0.0,Yes,11,after playing football i have muscle pain with my both legs,playing football muscle pain legs
+5,after playing tennis i had a powerful sensation close to my neck,0.98820281,1249120_33905644_36396763.wav,orthopedy,0.0,Yes,12,after playing tennis i had a powerful sensation close to my neck,playing tennis powerful sensation close neck
+6,i have something under my phone,0.987629,1249120_41150153_24680575.wav,orthopedy,1.0,Yes,6,i have something under my phone,something phone
+7,all my body is in a bad case and i need a good treatment,0.9821139,1249120_43612961_102666445.wav,rheumatology,1.0,Yes,14,all my body is in a bad case and i need a good treatment,body bad case need good treatment
+8,all of a sudden i felt dizzy when i stood up,0.987629,1249120_43172391_109808955.wav,general,1.0,Yes,11,all of a sudden i felt dizzy when i stood up,sudden felt dizzy stood
+9,annoying starts suddenly often after an injury or exercise,0.94651973,1249120_29289135_85619300.wav,orthopedy,1.0,Yes,9,annoying starts suddenly often after an injury or exercise,annoying starts suddenly often injury exercise
+10,anytime i play tennis i feel a shoulder pain,0.94445729,1249120_18172663_27352533.wav,orthopedy,1.0,Yes,9,anytime i play tennis i feel a shoulder pain,anytime play tennis feel shoulder pain
+11,at first it feels really numb better than a thousand needles start to pick up food,0.87634534,1249120_40184183_33749320.wav,orthopedy,1.0,Yes,16,at first it feels really numb better than a thousand needles start to pick up food,first feels really numb better thousand needles start pick food
+12,can't do any exercise i feel weak,0.95379227,1249120_17632529_80819339.wav,general,1.0,Yes,7,cant do any exercise i feel weak,cant exercise feel weak
+14,chronic bone disease at the level of the doubles of the lower extremities,0.987629,1249120_18386513_59195575.wav,orthopedy,1.0,Yes,13,chronic bone disease at the level of the doubles of the lower extremities,chronic bone disease level doubles lower extremities
+16,chronic disease of hair follicles and sebaceous glands,0.95194525,1249120_43620482_36193265.wav,dermatology,1.0,Yes,8,chronic disease of hair follicles and sebaceous glands,chronic disease hair follicles sebaceous glands
+17,chronic disease of hair follicles and sebaceous glands,0.94291735,1249120_36929821_22772305.wav,dermatology,1.0,Yes,8,chronic disease of hair follicles and sebaceous glands,chronic disease hair follicles sebaceous glands
+18,cramps along the whole abdomen,0.77993405,1249120_42210938_46153649.wav,gastroenterology,1.0,Yes,5,cramps along the whole abdomen,cramps along whole abdomen
+19,discomfort or pain that is felt at some point along the front of the body between the neck and upper abdomen,0.98762906,1249120_13842059_99243745.wav,general,1.0,Yes,21,discomfort or pain that is felt at some point along the front of the body between the neck and upper abdomen,discomfort pain felt point along front body neck upper abdomen
+20,doctor i feel a strange and powerful pain inside my rib cage,0.70707482,1249120_33905644_94419450.wav,cardiology,1.0,Yes,12,doctor i feel a strange and powerful pain inside my rib cage,doctor feel strange powerful pain inside rib cage
+21,even if the temperature is high in the house my body is always cold,0.99199545,1249120_43856216_105124608.wav,general,1.0,Yes,14,even if the temperature is high in the house my body is always cold,even temperature high house body always cold
+22,even though i am an adult my face keeps breaking out in pimples,0.987629,1249120_39154234_48704286.wav,dermatology,1.0,Yes,13,even though i am an adult my face keeps breaking out in pimples,even though adult face keeps breaking pimples
+23,every morning when i wake up my neck feels like i slept on it wrong,0.987629,1249120_39142299_89637426.wav,orthopedy,0.0,Yes,15,every morning when i wake up my neck feels like i slept on it wrong,every morning wake neck feels like slept wrong
+24,everytime i come my hair there are so many hair in my,0.86223364,1249120_40401830_55276482.wav,dermatology,1.0,Yes,12,everytime i come my hair there are so many hair in my,everytime come hair many hair
+25,everytime i look to the left i feel a sharp pain in my neck,0.93194181,1249120_44140394_65353861.wav,orthopedy,1.0,Yes,14,everytime i look to the left i feel a sharp pain in my neck,everytime look left feel sharp pain neck
+26,every time i make an effort i feel,0.80874658,1249120_42210938_75530499.wav,general,1.0,Yes,8,every time i make an effort i feel,every time make effort feel
+27,everytime i take a deep breath i start coughing,0.72312516,1249120_43172391_50424441.wav,general,1.0,Yes,9,everytime i take a deep breath i start coughing,everytime take deep breath start coughing
+28,everytime it rains i get hives on my belly and sides,0.9316628,1249120_43604449_62103988.wav,dermatology,1.0,Yes,11,everytime it rains i get hives on my belly and sides,everytime rains get hives belly sides
+29,everything looks like being in a smoky area,0.9780826,1249120_35448024_50789772.wav,ophtalmology,1.0,Yes,8,everything looks like being in a smoky area,everything looks like smoky area
+30,feel like something is being jabbed into my joints,0.98907483,1249120_22423108_59113184.wav,rheumatology,1.0,Yes,9,feel like something is being jabbed into my joints,feel like something jabbed joints
+31,things like that are pins and needles sticking in my joints,0.96715605,1249120_44101988_60969262.wav,rheumatology,1.0,Yes,11,things like that are pins and needles sticking in my joints,things like pins needles sticking joints
+32,skull is cracked like nuts,0.81953752,1249120_2171654_109407598.wav,general,1.0,Yes,5,skull is cracked like nuts,skull cracked like nuts
+33,glass broken and wound my leg badly the wound is so wide,0.97251505,1249120_17632529_50143584.wav,wound care,1.0,Yes,12,glass broken and wound my leg badly the wound is so wide,glass broken wound leg badly wound wide
+35,how severe cold and cough,0.9483012,1249120_43855932_64363713.wav,general,1.0,Yes,5,how severe cold and cough,severe cold cough
+36,having difficulty moving my knee,0.99257743,1249120_43855932_34520227.wav,orthopedy,1.0,Yes,5,having difficulty moving my knee,difficulty moving knee
+37,he was discovered to have an open wound,0.987629,1249120_30766630_54777621.wav,wound care,1.0,Yes,8,he was discovered to have an open wound,discovered open wound
+38,hearing any loud sounds makes my ear aches,0.987629,1249120_29672643_76519756.wav,otorhinolaryngology,0.0,Yes,8,hearing any loud sounds makes my ear aches,hearing loud sounds makes ear aches
+39,heart aches so much,0.95523715,1249120_43855932_46450964.wav,cardiology,0.0,Yes,4,heart aches so much,heart aches much
+40,heavy breath with fatigue,0.97918344,1249120_17632529_49432935.wav,psycology,1.0,Yes,4,heavy breath with fatigue,heavy breath fatigue
+41,is infected wound was beginning to rot,0.987629,1249120_29289135_86737513.wav,wound care,1.0,Yes,7,is infected wound was beginning to rot,infected wound beginning rot
+42,how do you know if you have a torn meniscus in your knee,0.987629,1249120_43698316_88639037.wav,orthopedy,1.0,Yes,13,how do you know if you have a torn meniscus in your knee,know torn meniscus knee
+43,i always feel like i have a menstrual pains even if i don't have my.,0.987629,1249120_43855932_103550672.wav,general,1.0,Yes,15,i always feel like i have a menstrual pains even if i dont have my,always feel like menstrual pains even dont
+44,i'm always cold even when i'm wearing layers,0.98131114,1249120_18172663_53225387.wav,general,1.0,Yes,8,im always cold even when im wearing layers,im always cold even im wearing layers
+45,i am feeling so dizzy body is so fragile,0.98762906,1249120_17632529_104451359.wav,general,1.0,Yes,9,i am feeling so dizzy body is so fragile,feeling dizzy body fragile
+47,i am having running nose,0.98762906,1249120_40419625_92216312.wav,general,0.0,Yes,5,i am having running nose,running nose
+48,i'm struggling to bear weight on my knee when i stand straight i feel and hear a loud popping noise,0.98762906,1249120_43856216_66381593.wav,orthopedy,1.0,Yes,20,im struggling to bear weight on my knee when i stand straight i feel and hear a loud popping noise,im struggling bear weight knee stand straight feel hear loud popping noise
+49,i'm worried about driving,0.98762906,1249120_42210938_100043992.wav,ophtalmology,1.0,Yes,4,im worried about driving,im worried driving
+50,i am worried how cold in northern daya,0.8508746,1249120_43172391_64014700.wav,general,0.0,Yes,8,i am worried how cold in northern daya,worried cold northern daya
+51,i break out on my face very frequently,0.98686582,1249120_44093303_99289480.wav,dermatology,0.0,Yes,8,i break out on my face very frequently,break face frequently
+52,i broke my ankle while doing rock climbing in carpathian,0.97499645,1249120_43995026_70740118.wav,orthopedy,1.0,Yes,10,i broke my ankle while doing rock climbing in carpathian,broke ankle rock climbing carpathian
+53,i can hardly breathe,0.98762906,1249120_43604449_37124676.wav,ER,1.0,Yes,4,i can hardly breathe,hardly breathe
+54,i can hardly move my neck,0.987629,1249120_43453425_53633436.wav,orthopedy,1.0,Yes,6,i can hardly move my neck,hardly move neck
+55,i can't leave because of cough,0.97972924,1249120_36505751_54777112.wav,general,0.0,Yes,6,i cant leave because of cough,cant leave cough
+56,i can't carry anything i have pain in my shoulder,0.98807633,1249120_35350617_103723681.wav,orthopedy,1.0,Yes,10,i cant carry anything i have pain in my shoulder,cant carry anything pain shoulder
+57,i can't do anything i feel weak in my body,0.90801287,1249120_21665495_84890117.wav,general,1.0,Yes,10,i cant do anything i feel weak in my body,cant anything feel weak body
+58,i can't get a girlfriend because of my acne,0.98762906,1249120_35408915_105294498.wav,dermatology,0.0,Yes,9,i cant get a girlfriend because of my acne,cant get girlfriend acne
+59,i can't hear out of my ear broccoli i feel like there is something in it causing irritation,0.98617989,1249120_43856216_103499094.wav,otorhinolaryngology,1.0,Yes,18,i cant hear out of my ear broccoli i feel like there is something in it causing irritation,cant hear ear broccoli feel like something causing irritation
+60,i can't move my head up and down,0.98918933,1249120_17632529_88169662.wav,orthopedy,1.0,Yes,8,i cant move my head up and down,cant move head
+61,i can't move my leg there is a pain in the joint,0.98557979,1249120_35154350_14115011.wav,rheumatology,1.0,Yes,12,i cant move my leg there is a pain in the joint,cant move leg pain joint
+62,i can handle myself,0.98762906,1249120_44023395_32770026.wav,orthopedy,1.0,Yes,4,i can handle myself,handle
+63,i can't really jump on my left foot because my triple fracture of the ankle left me with never-ending pain,0.98762906,1249120_18172663_31792388.wav,orthopedy,1.0,Yes,20,i cant really jump on my left foot because my triple fracture of the ankle left me with neverending pain,cant really jump left foot triple fracture ankle left neverending pain
+64,i can't ride my car at night because i have blurry vision,0.987629,1249120_38202325_95485400.wav,ophtalmology,1.0,Yes,12,i cant ride my car at night because i have blurry vision,cant ride car night blurry vision
+65,i can't rotate my neck,0.98762906,1249120_41203338_71366824.wav,orthopedy,1.0,Yes,5,i cant rotate my neck,cant rotate neck
+66,i can't see the sign i have a blurry vision,0.98762906,1249120_35154350_51766529.wav,ophtalmology,1.0,Yes,10,i cant see the sign i have a blurry vision,cant see sign blurry vision
+67,i can't see well,0.98762906,1249120_29289135_45566986.wav,ophtalmology,1.0,Yes,4,i cant see well,cant see well
+68,i can't sleep i have a hard cough,0.987629,1249120_44093303_84595617.wav,general,1.0,Yes,8,i cant sleep i have a hard cough,cant sleep hard cough
+69,i can't stand up or sit down i have a pain in my back that annoys me,0.98819375,1249120_22345789_63398703.wav,physiatry,1.0,Yes,17,i cant stand up or sit down i have a pain in my back that annoys me,cant stand sit pain back annoys
+70,i can't stand up i feel my brain is moving inside my skull,0.987629,1249120_30766630_10328513.wav,general,1.0,Yes,13,i cant stand up i feel my brain is moving inside my skull,cant stand feel brain moving inside skull
+71,i can't stand with this horrible feeling in my shoulder,0.97886944,1249120_43577102_108100755.wav,orthopedy,1.0,Yes,10,i cant stand with this horrible feeling in my shoulder,cant stand horrible feeling shoulder
+72,i can't stand with this horrible feeling in my stomach,0.98762906,1249120_21665495_41066118.wav,gastroenterology,1.0,Yes,10,i cant stand with this horrible feeling in my stomach,cant stand horrible feeling stomach
+73,i can't stop coughing,0.98762906,1249120_39740177_50180358.wav,general,0.0,Yes,4,i cant stop coughing,cant stop coughing
+74,i can't turn my neck to the left without feeling a stabbing pain,0.987629,1249120_43856216_109013521.wav,orthopedy,1.0,Yes,13,i cant turn my neck to the left without feeling a stabbing pain,cant turn neck left without feeling stabbing pain
+75,i can't walk because i have a great footage,0.98762906,1249120_41841195_108677761.wav,orthopedy,1.0,Yes,9,i cant walk because i have a great footage,cant walk great footage
+76,i can't walk well i have an ache in my foot,0.987629,1249120_29672643_13077572.wav,orthopedy,1.0,Yes,11,i cant walk well i have an ache in my foot,cant walk well ache foot
+77,i can't walk my knee hurts me,0.987629,1249120_29672643_97524593.wav,orthopedy,1.0,Yes,7,i cant walk my knee hurts me,cant walk knee hurts
+78,i convert could i have a pain in my knee,0.85007179,1249120_43604449_68313863.wav,orthopedy,1.0,Yes,10,i convert could i have a pain in my knee,convert could pain knee
+79,i can't stop coughing,0.98762906,1249120_36505751_74469696.wav,general,0.0,Yes,4,i cant stop coughing,cant stop coughing
+80,i cannot bear the squeezing sensation i have in my chest,0.92800164,1249120_43172391_25236833.wav,cardiology,1.0,Yes,11,i cannot bear the squeezing sensation i have in my chest,cannot bear squeezing sensation chest
+81,below my left shoulder,0.94830596,1249120_18172663_29753229.wav,cardiology,1.0,Yes,4,below my left shoulder,left shoulder
+82,i cannot get warm no matter how much i wrap up or how high i put the heating on,0.98762906,1249120_43856216_40873552.wav,general,1.0,Yes,19,i cannot get warm no matter how much i wrap up or how high i put the heating on,cannot get warm matter much wrap high put heating
+84,i can't sleep because of cough,0.99461532,1249120_1853182_83347773.wav,general,0.0,Yes,6,i cant sleep because of cough,cant sleep cough
+85,i carried a heavy bag yesterday and when i get up today i felt a great shoulder pain,0.98762906,1249120_38202325_56024369.wav,orthopedy,0.0,Yes,18,i carried a heavy bag yesterday and when i get up today i felt a great shoulder pain,carried heavy bag yesterday get today felt great shoulder pain
+86,i chopped off the tip of my finger while i was cutting some cardboard and i cannot stop the bleeding,0.98762906,1249120_22423108_99576301.wav,wound care,1.0,Yes,20,i chopped off the tip of my finger while i was cutting some cardboard and i cannot stop the bleeding,chopped tip finger cutting cardboard cannot stop bleeding
+87,i complain a lot with my neck pain and i really need to be better,0.987629,1249120_35154350_102896223.wav,orthopedy,0.0,Yes,15,i complain a lot with my neck pain and i really need to be better,complain lot neck pain really need better
+88,i complain a lot with skin allergy,0.987629,1249120_35408915_57922931.wav,dermatology,1.0,Yes,7,i complain a lot with skin allergy,complain lot skin allergy
+89,i cough a lot when i smell perfume what is wrong with my lungs,0.98295414,1249120_6338946_62766927.wav,general,0.0,Yes,14,i cough a lot when i smell perfume what is wrong with my lungs,cough lot smell perfume wrong lungs
+90,i could not exercise because of my knee pain,0.99368984,1249120_44093303_85234316.wav,orthopedy,0.0,Yes,9,i could not exercise because of my knee pain,could exercise knee pain
+91,i couldn't stop shaking or unclench my job that's how cold i was,0.97820091,1249120_29672643_22293597.wav,general,1.0,Yes,13,i couldnt stop shaking or unclench my job thats how cold i was,couldnt stop shaking unclench job thats cold
+92,i cut my finger opening again,0.93970877,1249120_42557795_49921159.wav,wound care,1.0,Yes,6,i cut my finger opening again,cut finger opening
+93,i got my food at the pool and it breaks it open every time when i walk on it,0.89524609,1249120_41087148_49721343.wav,wound care,1.0,Yes,19,i got my food at the pool and it breaks it open every time when i walk on it,got food pool breaks open every time walk
+94,i cut my hand a couple of days ago and although i didn't think it needed stitches it hasn't closed up,0.98762906,1249120_35832653_103076924.wav,wound care,1.0,Yes,21,i cut my hand a couple of days ago and although i didnt think it needed stitches it hasnt closed up,cut hand couple days ago although didnt think needed stitches hasnt closed
+95,i cut my hand a couple of weeks ago and even though i keep using an antibiotic cream it's not getting better,0.98358095,1249120_43577102_12065180.wav,wound care,1.0,Yes,22,i cut my hand a couple of weeks ago and even though i keep using an antibiotic cream its not getting better,cut hand couple weeks ago even though keep using antibiotic cream getting better
+96,i cut myself and i'm bleeding,0.987629,1249120_43856216_52837879.wav,wound care,1.0,Yes,6,i cut myself and im bleeding,cut im bleeding
+97,i do not feel better in my muscles,0.987629,1249120_1853182_43475712.wav,orthopedy,0.0,Yes,8,i do not feel better in my muscles,feel better muscles
+98,i do not know why i feel cold,0.987629,1249120_15830408_37803938.wav,general,0.0,Yes,8,i do not know why i feel cold,know feel cold
+99,i don't do anything at home instead of your exhaust,0.98762906,1249120_40401830_74177678.wav,general,0.0,Yes,10,i dont do anything at home instead of your exhaust,dont anything home instead exhaust
+100,i don't have full range of motion with my arms,0.99577647,1249120_19425875_98111797.wav,orthopedy,1.0,Yes,10,i dont have full range of motion with my arms,dont full range motion arms
+101,i don't have problems taking in breath but out breath is so heavy,0.9431411,1249120_38202325_100076386.wav,ER,1.0,Yes,13,i dont have problems taking in breath but out breath is so heavy,dont problems taking breath breath heavy
+102,i don't have the energy to do the things that i used to,0.99457163,1249120_39740177_42110171.wav,general,0.0,Yes,13,i dont have the energy to do the things that i used to,dont energy things used
+103,i don't know why i'm constantly sad,0.987629,1249120_15004831_57497759.wav,psycology,0.0,Yes,7,i dont know why im constantly sad,dont know im constantly sad
+104,i feel a bone on bone pain in my knees when i climb stairs,0.95997375,1249120_43577102_66398329.wav,rheumatology,1.0,Yes,14,i feel a bone on bone pain in my knees when i climb stairs,feel bone bone pain knees climb stairs
+105,i feel a burning sensation in my guts about 2 hours after each meal,0.95904511,1249120_14353703_45949288.wav,gastroenterology,1.0,Yes,14,i feel a burning sensation in my guts about 2 hours after each meal,feel burning sensation guts 2 hours meal
+106,i feel a burning sensation in my shoulder muscle,0.98762906,1249120_18386513_80223762.wav,orthopedy,1.0,Yes,9,i feel a burning sensation in my shoulder muscle,feel burning sensation shoulder muscle
+107,i feel a clicking sensation in my knee each time i step,0.97417498,1249120_38202325_48631172.wav,rheumatology,1.0,Yes,12,i feel a clicking sensation in my knee each time i step,feel clicking sensation knee time step
+108,i feel a great amount of pressure of my head,0.98666465,1249120_43577102_32628322.wav,general,1.0,Yes,10,i feel a great amount of pressure of my head,feel great amount pressure head
+109,i feel a great amount of pressure on the sides of my neck,0.95952594,1249120_43604449_60060797.wav,orthopedy,1.0,Yes,13,i feel a great amount of pressure on the sides of my neck,feel great amount pressure sides neck
+110,if you look great pain in my shoulder joint and it does not go away,0.987629,1249120_29713479_22618609.wav,rheumatology,1.0,Yes,15,if you look great pain in my shoulder joint and it does not go away,look great pain shoulder joint go away
+111,i feel a great pain in my shoulder when i try to lift something heavy,0.987629,1249120_17632529_96969863.wav,orthopedy,0.0,Yes,15,i feel a great pain in my shoulder when i try to lift something heavy,feel great pain shoulder try lift something heavy
+112,i feel a huge emotional pain after i broke up with my girlfriend,0.98946512,1249120_1853182_87286693.wav,psycology,0.0,Yes,13,i feel a huge emotional pain after i broke up with my girlfriend,feel huge emotional pain broke girlfriend
+113,i feel a lot of pain in the joints,0.9969213,1249120_18386513_81047658.wav,rheumatology,1.0,Yes,9,i feel a lot of pain in the joints,feel lot pain joints
+114,i feel a pain in my back,0.98831177,1249120_6338946_35137575.wav,physiatry,1.0,Yes,7,i feel a pain in my back,feel pain back
+115,i feel a pain in my back when i sit on a chair for long,0.97862154,1249120_38042052_100934310.wav,physiatry,0.0,Yes,15,i feel a pain in my back when i sit on a chair for long,feel pain back sit chair long
+116,i feel a pain in my neck,0.987629,1249120_35408915_103020252.wav,orthopedy,0.0,Yes,7,i feel a pain in my neck,feel pain neck
+117,i feel a pain on the left side of my chest where my heart is,0.98790795,1249120_18172663_93142539.wav,cardiology,1.0,Yes,15,i feel a pain on the left side of my chest where my heart is,feel pain left side chest heart
+118,i feel a sharp pain in my ankle joint when i stand,0.987629,1249120_36929821_25614320.wav,rheumatology,1.0,Yes,12,i feel a sharp pain in my ankle joint when i stand,feel sharp pain ankle joint stand
+119,i feel a sharp pain in my head when i think too hard,0.987629,1249120_21665495_16983539.wav,general,0.0,Yes,13,i feel a sharp pain in my head when i think too hard,feel sharp pain head think hard
+120,i feel a sharp pain in my stomach,0.987629,1249120_38042052_46381914.wav,general,1.0,Yes,8,i feel a sharp pain in my stomach,feel sharp pain stomach
+121,i feel a sharp pain in the stomach after eating,0.98762906,1249120_30937687_18307176.wav,gastroenterology,1.0,Yes,10,i feel a sharp pain in the stomach after eating,feel sharp pain stomach eating
+122,i feel a soreness in my knees when i walk,0.98762906,1249120_2171654_72266245.wav,rheumatology,1.0,Yes,10,i feel a soreness in my knees when i walk,feel soreness knees walk
+123,i finished strange and powerful pain inside my rib cage,0.9749198,1249120_41150153_63451844.wav,cardiology,1.0,Yes,10,i finished strange and powerful pain inside my rib cage,finished strange powerful pain inside rib cage
+124,i feel tightness in my chest,0.987629,1249120_40725179_108204132.wav,ER,1.0,Yes,6,i feel tightness in my chest,feel tightness chest
+125,i feel abdominal pain,0.98762906,1249120_43172391_34681258.wav,gastroenterology,1.0,Yes,4,i feel abdominal pain,feel abdominal pain
+126,i feel aching on my insides,0.94389063,1249120_29672643_44035263.wav,general,0.0,Yes,6,i feel aching on my insides,feel aching insides
+127,i feel back pain when i carry heavy things,0.99415505,1249120_43604449_100722191.wav,physiatry,0.0,Yes,9,i feel back pain when i carry heavy things,feel back pain carry heavy things
+128,i feel like an ice cube my sister said that she needs,0.96174461,1249120_44142156_27934788.wav,general,0.0,Yes,12,i feel like an ice cube my sister said that she needs,feel like ice cube sister said needs
+130,i feel cold although we are in summer,0.987629,1249120_39438102_60405187.wav,general,1.0,Yes,8,i feel cold although we are in summer,feel cold although summer
+131,i feel cold chills even though my clothes are heavy,0.98762906,1249120_41841195_75369794.wav,general,0.0,Yes,10,i feel cold chills even though my clothes are heavy,feel cold chills even though clothes heavy
+132,i feel cold when the night comes,0.987629,1249120_43316708_50550172.wav,general,0.0,Yes,7,i feel cold when the night comes,feel cold night comes
+133,i feel congestion in my chest,0.987629,1249120_35408915_90746118.wav,general,1.0,Yes,6,i feel congestion in my chest,feel congestion chest
+134,i feel deep tingling when i touch acne followed by bad sensor,0.94128275,1249120_43788827_73386473.wav,dermatology,0.0,Yes,12,i feel deep tingling when i touch acne followed by bad sensor,feel deep tingling touch acne followed bad sensor
+135,i feel depressed when i see my hair falling out,0.98974627,1249120_15004831_103311186.wav,dermatology,0.0,Yes,10,i feel depressed when i see my hair falling out,feel depressed see hair falling
+136,i feel discomfort throughout the body in general,0.987629,1249120_35154350_89439845.wav,general,0.0,Yes,8,i feel discomfort throughout the body in general,feel discomfort throughout body general
+137,i feel dizzy after doing a muscular effort,0.987629,1249120_35350617_33932430.wav,general,0.0,Yes,8,i feel dizzy after doing a muscular effort,feel dizzy muscular effort
+138,i feel dizzy after severe diarrhea,0.98949391,1249120_35832653_20676895.wav,general,1.0,Yes,6,i feel dizzy after severe diarrhea,feel dizzy severe diarrhea
+139,i feel dizzy and out of sight,0.97113043,1249120_36929821_24030616.wav,general,1.0,Yes,7,i feel dizzy and out of sight,feel dizzy sight
+140,i feel dizzy when i make sudden movements,0.987629,1249120_43665783_32187997.wav,general,0.0,Yes,8,i feel dizzy when i make sudden movements,feel dizzy make sudden movements
+141,laptop for an hour to possibly could be the reason,0.95507622,1249120_40571337_41381025.wav,general,0.0,Yes,10,laptop for an hour to possibly could be the reason,laptop hour possibly could reason
+142,i feel dizzy when i stand up,0.987629,1249120_36505751_48223474.wav,general,1.0,Yes,7,i feel dizzy when i stand up,feel dizzy stand
+143,i feel emotionally crushed,0.93998444,1249120_29713479_92556285.wav,psycology,0.0,Yes,4,i feel emotionally crushed,feel emotionally crushed
+144,i feel fluid trying to come up when i cough,0.96793354,1249120_43172391_69871675.wav,general,1.0,Yes,10,i feel fluid trying to come up when i cough,feel fluid trying come cough
+145,i feel great pain in my feet after playing one of the sports games,0.96864921,1249120_22423108_49763131.wav,orthopedy,0.0,Yes,14,i feel great pain in my feet after playing one of the sports games,feel great pain feet playing one sports games
+146,i feel great pain in the head,0.987629,1249120_43604449_64146611.wav,general,1.0,Yes,7,i feel great pain in the head,feel great pain head
+147,i feel great pressure in my chest,0.987629,1249120_22423108_32412774.wav,ER,1.0,Yes,7,i feel great pressure in my chest,feel great pressure chest
+149,i feel heart pain when i walk a lot,0.98762906,1249120_6338946_15070996.wav,cardiology,1.0,Yes,9,i feel heart pain when i walk a lot,feel heart pain walk lot
+150,i feel hurt a lot of pain in my heart,0.99140006,1249120_35832653_99218935.wav,psycology,1.0,Yes,10,i feel hurt a lot of pain in my heart,feel hurt lot pain heart
+151,i seen her she's in my heart,0.86397076,1249120_29713479_32263651.wav,cardiology,1.0,Yes,7,i seen her shes in my heart,seen shes heart
+152,i feel increased heart rate with prick,0.987629,1249120_41203338_48393189.wav,cardiology,1.0,Yes,7,i feel increased heart rate with prick,feel increased heart rate prick
+153,i feel joint pain every time i move,0.97382909,1249120_41203338_53060557.wav,rheumatology,1.0,Yes,8,i feel joint pain every time i move,feel joint pain every time move
+155,i feel light-headed when i stand up,0.987629,1249120_35832653_51223399.wav,general,1.0,Yes,7,i feel lightheaded when i stand up,feel lightheaded stand
+156,i feel like i can hardly be,0.987629,1249120_35444693_35918864.wav,general,1.0,Yes,7,i feel like i can hardly be,feel like hardly
+157,i feel like i just can't cope anymore i feel overwhelmed and like i just can't get a break,0.98762906,1249120_36505751_103305442.wav,psycology,1.0,Yes,19,i feel like i just cant cope anymore i feel overwhelmed and like i just cant get a break,feel like cant cope anymore feel overwhelmed like cant get break
+158,i feel like needles in my shoulder,0.93519175,1249120_40725179_87397845.wav,orthopedy,1.0,Yes,7,i feel like needles in my shoulder,feel like needles shoulder
+159,i feel like i have always got something in my throat,0.98612022,1249120_43604449_22723006.wav,general,1.0,Yes,11,i feel like i have always got something in my throat,feel like always got something throat
+160,i feel like i fell in hot water,0.987629,1249120_29672643_94072729.wav,dermatology,1.0,Yes,8,i feel like i fell in hot water,feel like fell hot water
+161,i feel like my heart is on fire,0.987629,1249120_18172663_26044172.wav,cardiology,1.0,Yes,8,i feel like my heart is on fire,feel like heart fire
+162,i feel like something is squeezing my lungs,0.987629,1249120_35448024_78702299.wav,ER,1.0,Yes,8,i feel like something is squeezing my lungs,feel like something squeezing lungs
+164,i feel like the world goes round and round,0.98762906,1249120_29713479_69406519.wav,general,1.0,Yes,9,i feel like the world goes round and round,feel like world goes round round
+165,i feel like there is something swollen and inflamed at the back of knee,0.98430347,1249120_43665783_86075834.wav,orthopedy,1.0,Yes,14,i feel like there is something swollen and inflamed at the back of knee,feel like something swollen inflamed back knee
+166,i feel muscle pain every time i make an extra effort,0.95700955,1249120_22345789_100681348.wav,orthopedy,0.0,Yes,11,i feel muscle pain every time i make an extra effort,feel muscle pain every time make extra effort
+167,i feel pain in my back,0.987629,1249120_43620482_26133157.wav,physiatry,1.0,Yes,6,i feel pain in my back,feel pain back
+168,i feel pain in my body,0.987629,1249120_15004831_69709527.wav,general,0.0,Yes,6,i feel pain in my body,feel pain body
+169,i feel pain in my ears with tinnitus,0.98917538,1249120_43604449_62144985.wav,otorhinolaryngology,1.0,Yes,8,i feel pain in my ears with tinnitus,feel pain ears tinnitus
+170,i feel pain in my eyes i can see fog,0.98762906,1249120_43620482_44705590.wav,ophtalmology,1.0,Yes,10,i feel pain in my eyes i can see fog,feel pain eyes see fog
+171,i feel pain in my foot,0.99083138,1249120_18985376_38968782.wav,orthopedy,1.0,Yes,6,i feel pain in my foot,feel pain foot
+172,i feel pain in my head with a vertigo,0.98762906,1249120_18172663_109717598.wav,general,1.0,Yes,9,i feel pain in my head with a vertigo,feel pain head vertigo
+173,i feel pain in my heart when i wake up,0.99689847,1249120_29289135_48587556.wav,cardiology,1.0,Yes,10,i feel pain in my heart when i wake up,feel pain heart wake
+174,i feel pain in my joint after an injury in the last football match i played,0.92655498,1249120_20518958_17644982.wav,rheumatology,1.0,Yes,16,i feel pain in my joint after an injury in the last football match i played,feel pain joint injury last football match played
+175,i feel pain in my knee,0.987629,1249120_43788827_82084991.wav,orthopedy,1.0,Yes,6,i feel pain in my knee,feel pain knee
+176,i feel pain in my knee when i climb the stairs,0.9905104,1249120_17632529_41977164.wav,rheumatology,1.0,Yes,11,i feel pain in my knee when i climb the stairs,feel pain knee climb stairs
+177,i feel pain in my legs muscles after i run yesterday i took some painkillers but it doesn't help,0.98762906,1249120_39740177_66733352.wav,orthopedy,0.0,Yes,19,i feel pain in my legs muscles after i run yesterday i took some painkillers but it doesnt help,feel pain legs muscles run yesterday took painkillers doesnt help
+178,i feel pain in my neck,0.987629,1249120_36929821_73076924.wav,orthopedy,0.0,Yes,6,i feel pain in my neck,feel pain neck
+179,i feel pain in my neck after waking up,0.98762906,1249120_44140394_45824439.wav,orthopedy,0.0,Yes,9,i feel pain in my neck after waking up,feel pain neck waking
+180,i feel pain in my neck while i'm working,0.99362797,1249120_1853182_104613772.wav,orthopedy,0.0,Yes,9,i feel pain in my neck while im working,feel pain neck im working
+181,i feel pain in my right shoulder after the tennis match,0.987629,1249120_13842059_92379589.wav,orthopedy,1.0,Yes,11,i feel pain in my right shoulder after the tennis match,feel pain right shoulder tennis match
+182,i feel pain in my shoulders when i write on a keyboard,0.96119171,1249120_30766630_88003280.wav,orthopedy,0.0,Yes,12,i feel pain in my shoulders when i write on a keyboard,feel pain shoulders write keyboard
+183,i feel pain in my stomach,0.987629,1249120_17632529_36682898.wav,gastroenterology,1.0,Yes,6,i feel pain in my stomach,feel pain stomach
+184,i feel pain in my throat,0.98969084,1249120_40184183_53822554.wav,general,0.0,Yes,6,i feel pain in my throat,feel pain throat
+185,i feel pain in the knee,0.987629,1249120_29672643_102683922.wav,orthopedy,1.0,Yes,6,i feel pain in the knee,feel pain knee
+186,i feel pain in my knee when walking,0.987629,1249120_43604449_19781947.wav,orthopedy,0.0,Yes,8,i feel pain in my knee when walking,feel pain knee walking
+188,i feel pain inside and i cannot identify,0.93267441,1249120_43316708_66352356.wav,general,0.0,Yes,8,i feel pain inside and i cannot identify,feel pain inside cannot identify
+189,i feel pain inside i do not know what it is,0.95984918,1249120_41221824_104502558.wav,general,0.0,Yes,11,i feel pain inside i do not know what it is,feel pain inside know
+190,i feel pain when i think of her,0.987629,1249120_41203338_66240190.wav,psycology,0.0,Yes,8,i feel pain when i think of her,feel pain think
+191,my muscles in my lower back,0.987629,1249120_43719934_10118861.wav,psycology,0.0,Yes,6,my muscles in my lower back,muscles lower back
+192,i feel really sad all the time,0.987629,1249120_41956733_101547195.wav,psycology,0.0,Yes,7,i feel really sad all the time,feel really sad time
+194,i feel sad like her. pain,0.96119094,1249120_30937687_66859508.wav,psycology,0.0,Yes,6,i feel sad like her pain,feel sad like pain
+195,i feel severe itching in the skin with redness,0.93616611,1249120_40184183_93834364.wav,dermatology,1.0,Yes,9,i feel severe itching in the skin with redness,feel severe itching skin redness
+196,a-fib shoulder pains at intervals of time,0.99060285,1249120_21665495_17664079.wav,orthopedy,1.0,Yes,7,afib shoulder pains at intervals of time,afib shoulder pains intervals time
+197,i feel so sore in my stomach area,0.987629,1249120_43612961_41888412.wav,gastroenterology,1.0,Yes,8,i feel so sore in my stomach area,feel sore stomach area
+198,i feel something hurt me and taking breath and i can't take my breath,0.97913569,1249120_2171654_57630650.wav,ER,1.0,Yes,14,i feel something hurt me and taking breath and i cant take my breath,feel something hurt taking breath cant take breath
+199,i feel strong pain in my knee after it was good during the football match,0.98028868,1249120_44101988_79679432.wav,orthopedy,1.0,Yes,15,i feel strong pain in my knee after it was good during the football match,feel strong pain knee good football match
+201,i feel that is great pain in my left shoulder,0.98762906,1249120_43855932_69535057.wav,orthopedy,1.0,Yes,10,i feel that is great pain in my left shoulder,feel great pain left shoulder
+202,i feel that it's hard to breathe especially after running or making any effort,0.97440755,1249120_39438102_91676086.wav,ER,0.0,Yes,14,i feel that its hard to breathe especially after running or making any effort,feel hard breathe especially running making effort
+203,i feel very hard to breathe,0.987629,1249120_19425875_55700950.wav,ER,1.0,Yes,6,i feel very hard to breathe,feel hard breathe
+204,i feel very weak in my body,0.9928357,1249120_41203338_46015538.wav,general,1.0,Yes,7,i feel very weak in my body,feel weak body
+206,i feel weak all over,0.98762906,1249120_15830408_80692501.wav,general,1.0,Yes,5,i feel weak all over,feel weak
+207,i fell a stiffness in my elbow and shoulders,0.97361904,1249120_35408915_12349691.wav,rheumatology,1.0,Yes,9,i fell a stiffness in my elbow and shoulders,fell stiffness elbow shoulders
+208,i fell off my bike and some sun i had hard knee pain,0.92957878,1249120_44088493_82957741.wav,orthopedy,1.0,Yes,13,i fell off my bike and some sun i had hard knee pain,fell bike sun hard knee pain
+209,i fell through a window while i was cleaning it and i have a shard of glass stuck in my left eye i think it is pretty serious please help,0.987629,1249120_6338946_47713512.wav,wound care,1.0,Yes,30,i fell through a window while i was cleaning it and i have a shard of glass stuck in my left eye i think it is pretty serious please help,fell window cleaning shard glass stuck left eye think pretty serious please help
+210,i feel my heart hurts when i run for a long distance,0.97345346,1249120_15830408_20446817.wav,cardiology,0.0,Yes,12,i feel my heart hurts when i run for a long distance,feel heart hurts run long distance
+211,i get a knee pain when i walk a lot,0.96386319,1249120_14353703_103620863.wav,orthopedy,0.0,Yes,10,i get a knee pain when i walk a lot,get knee pain walk lot
+212,i get an erection when it is cool,0.9270553,1249120_43453425_108454167.wav,otorhinolaryngology,0.0,Yes,8,i get an erection when it is cool,get erection cool
+213,i get big patches of irritated pimples on my back and they hurt,0.94310099,1249120_43855932_68426648.wav,dermatology,0.0,Yes,13,i get big patches of irritated pimples on my back and they hurt,get big patches irritated pimples back hurt
+214,i get breakouts on my chest with red patches that get more intense when i get hot,0.97652209,1249120_6338946_33732438.wav,dermatology,1.0,Yes,17,i get breakouts on my chest with red patches that get more intense when i get hot,get breakouts chest red patches get intense get hot
+215,i get chills and aches all over,0.987629,1249120_33905644_69933569.wav,general,0.0,Yes,7,i get chills and aches all over,get chills aches
+216,i get clusters of pimples on my face that never go away,0.99450284,1249120_34824899_40742839.wav,dermatology,0.0,Yes,12,i get clusters of pimples on my face that never go away,get clusters pimples face never go away
+217,i get clusters of whiteheads and blackheads on my back,0.98762906,1249120_39438102_30685949.wav,dermatology,0.0,Yes,10,i get clusters of whiteheads and blackheads on my back,get clusters whiteheads blackheads back
+218,i get a joint pain when i try to bend my leg on my arm,0.89256418,1249120_43172391_64252867.wav,rheumatology,1.0,Yes,15,i get a joint pain when i try to bend my leg on my arm,get joint pain try bend leg arm
+219,i get terrible headaches every few months and when i get them my vision is affected,0.98628932,1249120_18386513_93250733.wav,general,1.0,Yes,16,i get terrible headaches every few months and when i get them my vision is affected,get terrible headaches every months get vision affected
+220,i get tired too fast i can barely put on my clothes in the morning,0.99231982,1249120_44140394_46121793.wav,general,1.0,Yes,15,i get tired too fast i can barely put on my clothes in the morning,get tired fast barely put clothes morning
+221,i got a divorce last year and i just can't stop dwelling on how to get revenge on my ex-husband,0.98762906,1249120_18386513_92126820.wav,psycology,0.0,Yes,20,i got a divorce last year and i just cant stop dwelling on how to get revenge on my exhusband,got divorce last year cant stop dwelling get revenge exhusband
+222,i got acne when i ate chili,0.987629,1249120_34824899_82321207.wav,dermatology,0.0,Yes,7,i got acne when i ate chili,got acne ate chili
+223,i got injured exercising,0.98762906,1249120_19425875_103678717.wav,orthopedy,1.0,Yes,4,i got injured exercising,got injured exercising
+224,i had a cold the last time i traveled by plane and i still have a discomfort in my ears,0.90473431,1249120_15004831_53846275.wav,otorhinolaryngology,1.0,Yes,20,i had a cold the last time i traveled by plane and i still have a discomfort in my ears,cold last time traveled plane still discomfort ears
+225,i had a collision while playing soccer my knee buckled and now it's unstable,0.97348326,1249120_36929821_94037054.wav,orthopedy,1.0,Yes,14,i had a collision while playing soccer my knee buckled and now its unstable,collision playing soccer knee buckled unstable
+226,i had a couple stitches together but it is not healing it is moving green fast and birds,0.89372879,1249120_43698316_23877867.wav,wound care,1.0,Yes,18,i had a couple stitches together but it is not healing it is moving green fast and birds,couple stitches together healing moving green fast birds
+227,i had a pain in my knee when i was swimming,0.987629,1249120_29672643_99544630.wav,orthopedy,1.0,Yes,11,i had a pain in my knee when i was swimming,pain knee swimming
+228,i had a sharp pain in my stomach,0.987629,1249120_44101988_69402170.wav,gastroenterology,1.0,Yes,8,i had a sharp pain in my stomach,sharp pain stomach
+229,i had a lot of exercise yesterday so i feel sharp muscle pains,0.97809756,1249120_38042052_53624812.wav,orthopedy,0.0,Yes,13,i had a lot of exercise yesterday so i feel sharp muscle pains,lot exercise yesterday feel sharp muscle pains
+230,i had an accident in my wound was open when i arrive to hospital,0.96952611,1249120_19425875_72618137.wav,wound care,1.0,Yes,14,i had an accident in my wound was open when i arrive to hospital,accident wound open arrive hospital
+231,i had internal pain and gases when i eat spicy food yesterday,0.94927424,1249120_43855932_65418943.wav,general,0.0,Yes,12,i had internal pain and gases when i eat spicy food yesterday,internal pain gases eat spicy food yesterday
+232,i hardly save enough strength to get up,0.987629,1249120_30766630_60977460.wav,general,1.0,Yes,8,i hardly save enough strength to get up,hardly save enough strength get
+233,i hate my acne,0.98762906,1249120_17632529_79689615.wav,dermatology,0.0,Yes,4,i hate my acne,hate acne
+234,i have a back pain since i fell on the floor,0.987629,1249120_29289135_42853161.wav,physiatry,1.0,Yes,11,i have a back pain since i fell on the floor,back pain since fell floor
+235,i have a back pain since i turned 70 years old,0.95908064,1249120_29672643_75261138.wav,physiatry,1.0,Yes,11,i have a back pain since i turned 70 years old,back pain since turned 70 years old
+236,i have a blurry vision after my head was hit yesterday,0.98806494,1249120_44140394_85636169.wav,ophtalmology,1.0,Yes,11,i have a blurry vision after my head was hit yesterday,blurry vision head hit yesterday
+237,i have a blurry vision and i can't see in the darkness what is the reason dr.,0.97225326,1249120_2171654_88522717.wav,ophtalmology,1.0,Yes,17,i have a blurry vision and i cant see in the darkness what is the reason dr,blurry vision cant see darkness reason dr
+238,i have a blurry vision during my swimming training in the pool why,0.97190255,1249120_35408915_88866567.wav,ophtalmology,0.0,Yes,13,i have a blurry vision during my swimming training in the pool why,blurry vision swimming training pool
+239,i have a blurry vision since i woke up this morning what could be the reason,0.987629,1249120_43918153_14638499.wav,ophtalmology,1.0,Yes,16,i have a blurry vision since i woke up this morning what could be the reason,blurry vision since woke morning could reason
+240,i have a break in the skin between my thumb and my index finger and it will not close,0.97047573,1249120_43620482_97566863.wav,wound care,0.0,Yes,19,i have a break in the skin between my thumb and my index finger and it will not close,break skin thumb index finger close
+241,i have a break in the skin inside one of my nostrils that has become infected and is now filled with pus,0.987629,1249120_36929821_24131260.wav,wound care,1.0,Yes,22,i have a break in the skin inside one of my nostrils that has become infected and is now filled with pus,break skin inside one nostrils become infected filled pus
+242,i have a cold and it makes me cough a lot,0.987629,1249120_39438102_79505634.wav,general,0.0,Yes,11,i have a cold and it makes me cough a lot,cold makes cough lot
+243,i have a cut on my foot that became infected from using the showers at the gym,0.98762906,1249120_44140394_86346668.wav,wound care,1.0,Yes,17,i have a cut on my foot that became infected from using the showers at the gym,cut foot became infected using showers gym
+244,i have a cut that has become red and oozes pus,0.96490842,1249120_35154350_87756753.wav,wound care,1.0,Yes,11,i have a cut that has become red and oozes pus,cut become red oozes pus
+245,i have a cut that is red and swollen,0.98762906,1249120_43698316_36155159.wav,wound care,1.0,Yes,9,i have a cut that is red and swollen,cut red swollen
+246,i have a dry skin,0.98762906,1249120_40725179_107162666.wav,dermatology,0.0,Yes,5,i have a dry skin,dry skin
+247,i have a dry throat,0.98762906,1249120_44093303_26852380.wav,general,0.0,Yes,5,i have a dry throat,dry throat
+248,i have adult hd in my lower back which makes it difficult,0.95966411,1249120_42557795_25258545.wav,physiatry,1.0,Yes,12,i have adult hd in my lower back which makes it difficult,adult hd lower back makes difficult
+249,i have a dull ache in my head,0.987629,1249120_35408915_87255375.wav,general,1.0,Yes,8,i have a dull ache in my head,dull ache head
+250,i have a dull ache in my stomach it gets worse after they eat,0.987629,1249120_43402738_21766369.wav,general,1.0,Yes,14,i have a dull ache in my stomach it gets worse after they eat,dull ache stomach gets worse eat
+251,i have an earache when i go to the pool,0.98279107,1249120_2171654_71989604.wav,otorhinolaryngology,0.0,Yes,10,i have an earache when i go to the pool,earache go pool
+252,i have a feeling like my whole body is complaining,0.98762906,1249120_13842059_64044535.wav,rheumatology,0.0,Yes,10,i have a feeling like my whole body is complaining,feeling like whole body complaining
+253,i have a foot ache after running 500 meters with my running shoes,0.85670632,1249120_43172391_29514686.wav,orthopedy,0.0,Yes,13,i have a foot ache after running 500 meters with my running shoes,foot ache running 500 meters running shoes
+254,i have a foot ache although i don't walk a lot,0.99095815,1249120_38202325_36620533.wav,orthopedy,0.0,Yes,11,i have a foot ache although i dont walk a lot,foot ache although dont walk lot
+255,i have a foot ache in winter or when it feels cold why,0.98279864,1249120_29289135_26169687.wav,orthopedy,0.0,Yes,13,i have a foot ache in winter or when it feels cold why,foot ache winter feels cold
+256,i have a great pain in my foot like throbbing pain with relaxing my pain relief,0.9794873,1249120_43577102_14469778.wav,orthopedy,1.0,Yes,16,i have a great pain in my foot like throbbing pain with relaxing my pain relief,great pain foot like throbbing pain relaxing pain relief
+257,i have a great pain in my thorax from heart injury,0.97700155,1249120_36929821_98119394.wav,cardiology,1.0,Yes,11,i have a great pain in my thorax from heart injury,great pain thorax heart injury
+258,i have a great stomach ache and i can't eat anything,0.9807049,1249120_22345789_53043670.wav,gastroenterology,1.0,Yes,11,i have a great stomach ache and i cant eat anything,great stomach ache cant eat anything
+259,i have a hair shortage,0.98762906,1249120_43620482_50121309.wav,dermatology,0.0,Yes,5,i have a hair shortage,hair shortage
+260,i have a hard muscle pain since i went to the gym,0.987629,1249120_19425875_97135079.wav,orthopedy,0.0,Yes,12,i have a hard muscle pain since i went to the gym,hard muscle pain since went gym
+261,i have a hot pain in my stomach,0.95892143,1249120_43855932_21747171.wav,gastroenterology,1.0,Yes,8,i have a hot pain in my stomach,hot pain stomach
+262,i have a head pain every single day,0.98590225,1249120_39142299_75788816.wav,general,0.0,Yes,8,i have a head pain every single day,head pain every single day
+263,i have a headache almost everyday,0.97682589,1249120_43316708_27206788.wav,general,1.0,Yes,6,i have a headache almost everyday,headache almost everyday
+264,i have a headache every time i eat ice cream,0.98441923,1249120_2171654_21861362.wav,general,0.0,Yes,10,i have a headache every time i eat ice cream,headache every time eat ice cream
+265,i have a knee pain when i walk alone,0.82579589,1249120_40401830_91347010.wav,orthopedy,0.0,Yes,9,i have a knee pain when i walk alone,knee pain walk alone
+266,i have a lot of knee pain whenever i go running,0.987629,1249120_44088493_42444516.wav,orthopedy,0.0,Yes,11,i have a lot of knee pain whenever i go running,lot knee pain whenever go running
+267,i have a lot of mucus when i cough,0.98530048,1249120_43577102_42454349.wav,general,1.0,Yes,9,i have a lot of mucus when i cough,lot mucus cough
+268,i have a mental suffering,0.98809016,1249120_36929821_71246328.wav,psycology,0.0,Yes,5,i have a mental suffering,mental suffering
+269,i have neck pain when i sit in front of my laptop,0.987629,1249120_19425875_39686693.wav,orthopedy,0.0,Yes,12,i have neck pain when i sit in front of my laptop,neck pain sit front laptop
+270,i have pain in my elbow joint,0.987629,1249120_19425875_83921823.wav,rheumatology,0.0,Yes,7,i have pain in my elbow joint,pain elbow joint
+271,i have a pain in my head,0.987629,1249120_18172663_55656421.wav,general,0.0,Yes,7,i have a pain in my head,pain head
+272,i have a pain in my joint,0.9920851,1249120_18386513_25545136.wav,rheumatology,0.0,Yes,7,i have a pain in my joint,pain joint
+273,i have a pain in my muscle,0.987629,1249120_29672643_73609673.wav,orthopedy,0.0,Yes,7,i have a pain in my muscle,pain muscle
+274,i have a pain in my stomach,0.987629,1249120_22345789_87690583.wav,general,0.0,Yes,7,i have a pain in my stomach,pain stomach
+275,i have a pain in my traps,0.987629,1249120_13842059_91420763.wav,orthopedy,0.0,Yes,7,i have a pain in my traps,pain traps
+276,i have a pain internal,0.98762906,1249120_18172663_47339407.wav,general,1.0,Yes,5,i have a pain internal,pain internal
+277,i have a pain that radiates up from my right hip to my rib cage it is at its worst when i urinate,0.89241594,1249120_43577102_33518582.wav,general,1.0,Yes,23,i have a pain that radiates up from my right hip to my rib cage it is at its worst when i urinate,pain radiates right hip rib cage worst urinate
+278,i have a painful cramp in my feet,0.98819757,1249120_35154350_95935409.wav,orthopedy,0.0,Yes,8,i have a painful cramp in my feet,painful cramp feet
+279,i have a powerful pain inside my neck,0.987629,1249120_39154234_68255930.wav,orthopedy,1.0,Yes,8,i have a powerful pain inside my neck,powerful pain inside neck
+280,i have a problem in my bag i cannot extend it,0.90897006,1249120_43788827_79200909.wav,physiatry,1.0,Yes,11,i have a problem in my bag i cannot extend it,problem bag cannot extend
+281,i have a problem in rome italy year made by infection,0.97756296,1249120_29713479_39617116.wav,otorhinolaryngology,1.0,Yes,11,i have a problem in rome italy year made by infection,problem rome italy year made infection
+282,i have a family,0.98762906,1249120_44027675_100349992.wav,ophtalmology,1.0,Yes,4,i have a family,family
+283,i have a problem in the expiration because i have a bronchial asthma,0.987629,1249120_22423108_24156291.wav,ER,1.0,Yes,13,i have a problem in the expiration because i have a bronchial asthma,problem expiration bronchial asthma
+284,i have a rash and it itches very bad,0.98259515,1249120_43402738_11039761.wav,dermatology,1.0,Yes,9,i have a rash and it itches very bad,rash itches bad
+285,i have a rash on the skin,0.99116361,1249120_42210938_96056089.wav,dermatology,1.0,Yes,7,i have a rash on the skin,rash skin
+286,i have a red rash that avicii on my,0.98762906,1249120_29713479_82777486.wav,dermatology,1.0,Yes,9,i have a red rash that avicii on my,red rash avicii
+287,i have a scab on the back of my hand that just won't go away,0.987629,1249120_43856216_86090631.wav,dermatology,0.0,Yes,15,i have a scab on the back of my hand that just wont go away,scab back hand wont go away
+288,i have a sharp pain and clicking sound in my ankle joint when i try to sand on it and walk,0.98830587,1249120_41841195_50277467.wav,rheumatology,1.0,Yes,21,i have a sharp pain and clicking sound in my ankle joint when i try to sand on it and walk,sharp pain clicking sound ankle joint try sand walk
+289,i have a sharp pain in my abdomen,0.987629,1249120_43577102_13088069.wav,general,1.0,Yes,8,i have a sharp pain in my abdomen,sharp pain abdomen
+290,i have a sharp pain in my ear,0.98029,1249120_43857865_16365614.wav,otorhinolaryngology,1.0,Yes,8,i have a sharp pain in my ear,sharp pain ear
+291,i have a sharp pain in my lower stomach,0.98762906,1249120_43577102_91093778.wav,gastroenterology,1.0,Yes,9,i have a sharp pain in my lower stomach,sharp pain lower stomach
+292,i have a sharp pain in my neck,0.99725115,1249120_44093303_75327647.wav,orthopedy,1.0,Yes,8,i have a sharp pain in my neck,sharp pain neck
+293,i have a skin rash after eating an ice cream,0.96993256,1249120_43612961_85378406.wav,dermatology,0.0,Yes,10,i have a skin rash after eating an ice cream,skin rash eating ice cream
+294,i have a split on my thumb that will not heal,0.99280375,1249120_35154350_22057712.wav,wound care,1.0,Yes,11,i have a split on my thumb that will not heal,split thumb heal
+295,i have a strong shoulder pain,0.987629,1249120_43612961_52251557.wav,orthopedy,1.0,Yes,6,i have a strong shoulder pain,strong shoulder pain
+296,i have a throbbing in my joints,0.987629,1249120_40571337_37835379.wav,rheumatology,0.0,Yes,7,i have a throbbing in my joints,throbbing joints
+297,i have a very bad cough,0.98969084,1249120_43788827_73675141.wav,general,0.0,Yes,6,i have a very bad cough,bad cough
+298,i have a very rush sensation close to my arms,0.96867019,1249120_41956733_68737282.wav,dermatology,1.0,Yes,10,i have a very rush sensation close to my arms,rush sensation close arms
+299,i have a bond between my toes that gets better overnight and then reopens every day when i wear dress shoes to work,0.89358646,1249120_43604449_48842794.wav,wound care,0.0,Yes,23,i have a bond between my toes that gets better overnight and then reopens every day when i wear dress shoes to work,bond toes gets better overnight reopens every day wear dress shoes work
+300,i have acne all over my face,0.987629,1249120_35408915_100241241.wav,dermatology,0.0,Yes,7,i have acne all over my face,acne face
+301,i have acne in my face and other problems in my derma like itching,0.95245647,1249120_22345789_71810830.wav,dermatology,0.0,Yes,14,i have acne in my face and other problems in my derma like itching,acne face problems derma like itching
+302,i have acne in my face and other problems in my derma like itching,0.94479829,1249120_14353703_93481996.wav,dermatology,0.0,Yes,14,i have acne in my face and other problems in my derma like itching,acne face problems derma like itching
+303,i have an earache that won't go away i don't have a cold or headache or any other symptoms just a headache,0.98697895,1249120_43620482_10437416.wav,otorhinolaryngology,1.0,Yes,22,i have an earache that wont go away i dont have a cold or headache or any other symptoms just a headache,earache wont go away dont cold headache symptoms headache
+304,i have an earache when showering,0.98114508,1249120_28006404_107808797.wav,otorhinolaryngology,0.0,Yes,6,i have an earache when showering,earache showering
+305,i have an interview,0.9712767,1249120_43453425_78036374.wav,gastroenterology,0.0,Yes,4,i have an interview,interview
+306,i have an internal pain i cannot describe,0.987629,1249120_1853182_68863089.wav,general,1.0,Yes,8,i have an internal pain i cannot describe,internal pain cannot describe
+307,i have an open wound in my arm,0.987629,1249120_44093303_39622828.wav,wound care,1.0,Yes,8,i have an open wound in my arm,open wound arm
+308,i have blurred vision,0.98762906,1249120_22423108_106497166.wav,ophtalmology,1.0,Yes,4,i have blurred vision,blurred vision
+309,i have blurry vision after i use the wrong medicine,0.98762906,1249120_22345789_87744835.wav,ophtalmology,1.0,Yes,10,i have blurry vision after i use the wrong medicine,blurry vision use wrong medicine
+310,i have cloudy eyes,0.98762906,1249120_38042052_91178776.wav,ophtalmology,1.0,Yes,4,i have cloudy eyes,cloudy eyes
+311,i have constant stomach pain and bloating,0.987629,1249120_39142299_11415018.wav,general,0.0,Yes,7,i have constant stomach pain and bloating,constant stomach pain bloating
+312,i have cut my finger because of playing football and i have to apply pain relief cream but it does not help,0.987629,1249120_15004831_21919890.wav,orthopedy,0.0,Yes,22,i have cut my finger because of playing football and i have to apply pain relief cream but it does not help,cut finger playing football apply pain relief cream help
+313,i have dark spots on my skin,0.987629,1249120_44101988_89457051.wav,dermatology,0.0,Yes,7,i have dark spots on my skin,dark spots skin
+315,i have difficulty moving my neck,0.987629,1249120_34824899_60599418.wav,orthopedy,1.0,Yes,6,i have difficulty moving my neck,difficulty moving neck
+316,i have disturbance in my emotion,0.98550153,1249120_41203338_89671482.wav,psycology,1.0,Yes,6,i have disturbance in my emotion,disturbance emotion
+317,i have eruptions on my face that come and go,0.97638512,1249120_19425875_46584012.wav,dermatology,0.0,Yes,10,i have eruptions on my face that come and go,eruptions face come go
+318,i have found some issues on my skin and try to use cream but it does not get better,0.86199266,1249120_35444693_109120076.wav,dermatology,0.0,Yes,19,i have found some issues on my skin and try to use cream but it does not get better,found issues skin try use cream get better
+319,i haven't found had been and when i get it the light bothers me,0.9175725,1249120_40184183_98500675.wav,general,1.0,Yes,14,i havent found had been and when i get it the light bothers me,havent found get light bothers
+320,i have general discomfort,0.95015585,1249120_42210938_68900643.wav,general,1.0,Yes,4,i have general discomfort,general discomfort
+321,i have injured myself during the soccer match,0.99589252,1249120_22345789_27324558.wav,orthopedy,1.0,Yes,8,i have injured myself during the soccer match,injured soccer match
+322,i have internal pain whenever i come down with a cold,0.987629,1249120_6338946_49284776.wav,general,0.0,Yes,11,i have internal pain whenever i come down with a cold,internal pain whenever come cold
+323,i have an issue with my skin,0.987629,1249120_38202325_33582422.wav,dermatology,0.0,Yes,7,i have an issue with my skin,issue skin
+324,i have muscle pain at my left leg,0.987629,1249120_18172663_43670664.wav,orthopedy,0.0,Yes,8,i have muscle pain at my left leg,muscle pain left leg
+325,i have muscle pain,0.65992385,1249120_40663048_51348478.wav,orthopedy,0.0,Yes,4,i have muscle pain,muscle pain
+326,i have pain but i can't specify place,0.95998251,1249120_18172663_89295118.wav,general,0.0,Yes,8,i have pain but i cant specify place,pain cant specify place
+327,i have pain in my chest that saddens me,0.98762906,1249120_43698316_101462703.wav,cardiology,0.0,Yes,9,i have pain in my chest that saddens me,pain chest saddens
+328,i have been in my colon and my stomach like something cutting it,0.97908348,1249120_43665783_101335721.wav,gastroenterology,1.0,Yes,13,i have been in my colon and my stomach like something cutting it,colon stomach like something cutting
+329,i have pain in my stomach,0.987629,1249120_43577102_96185769.wav,gastroenterology,1.0,Yes,6,i have pain in my stomach,pain stomach
+330,i have pain like needles in my joints,0.94339287,1249120_43855932_10384449.wav,rheumatology,1.0,Yes,8,i have pain like needles in my joints,pain like needles joints
+331,i have pimples in patches along with a lot of redness on my face,0.987629,1249120_35154350_46679333.wav,dermatology,0.0,Yes,14,i have pimples in patches along with a lot of redness on my face,pimples patches along lot redness face
+332,i have pimples on my back,0.987629,1249120_6338946_40270934.wav,dermatology,0.0,Yes,6,i have pimples on my back,pimples back
+333,i have severe dry cough,0.98762906,1249120_35448024_38857406.wav,general,1.0,Yes,5,i have severe dry cough,severe dry cough
+334,i have severe shoulder pain,0.98762906,1249120_43604449_60024473.wav,orthopedy,1.0,Yes,5,i have severe shoulder pain,severe shoulder pain
+335,i have shooting pain in my knee cap after working out,0.987629,1249120_40401830_66207274.wav,orthopedy,1.0,Yes,11,i have shooting pain in my knee cap after working out,shooting pain knee cap working
+336,i have shooting pains up and down my back,0.98762906,1249120_43856216_12548576.wav,physiatry,1.0,Yes,9,i have shooting pains up and down my back,shooting pains back
+337,i have shoulder pain after doing any homework,0.987629,1249120_43350908_53109470.wav,orthopedy,0.0,Yes,8,i have shoulder pain after doing any homework,shoulder pain homework
+338,i have shoulder pain when i try to carry my groceries,0.987629,1249120_14353703_48660231.wav,orthopedy,0.0,Yes,11,i have shoulder pain when i try to carry my groceries,shoulder pain try carry groceries
+339,i have some pain when i'm walking around my niece,0.98762906,1249120_43856216_76437458.wav,rheumatology,0.0,Yes,10,i have some pain when im walking around my niece,pain im walking around niece
+340,i have some terrible problems when i'm breathing during the night,0.97932547,1249120_43402738_81493210.wav,general,1.0,Yes,11,i have some terrible problems when im breathing during the night,terrible problems im breathing night
+341,i have terrible pain in my heart,0.9957512,1249120_38042052_104320582.wav,cardiology,1.0,Yes,7,i have terrible pain in my heart,terrible pain heart
+342,i have the impression of having no strength in my body,0.987629,1249120_43856216_94400559.wav,general,0.0,Yes,11,i have the impression of having no strength in my body,impression strength body
+343,i have this strange rash on my arm,0.95723009,1249120_38042052_12977841.wav,dermatology,1.0,Yes,8,i have this strange rash on my arm,strange rash arm
+344,i have throbbing in my shoulder,0.987629,1249120_1853182_104591849.wav,orthopedy,1.0,Yes,6,i have throbbing in my shoulder,throbbing shoulder
+345,i have tried to make massage on my set,0.97748971,1249120_39438102_37794921.wav,orthopedy,0.0,Yes,9,i have tried to make massage on my set,tried make massage set
+346,i have tried to release it but i can't,0.98762906,1249120_35408915_64227109.wav,general,0.0,Yes,9,i have tried to release it but i cant,tried release cant
+347,i have whooping cough with excess mucus need mucolytic,0.98762906,1249120_43604449_14849251.wav,general,1.0,Yes,9,i have whooping cough with excess mucus need mucolytic,whooping cough excess mucus need mucolytic
+348,i hit my head at the basketball game could i have a concussion,0.987629,1249120_43402738_63324400.wav,orthopedy,1.0,Yes,13,i hit my head at the basketball game could i have a concussion,hit head basketball game could concussion
+349,i hate myself and the word doesn't want to heal,0.93571663,1249120_39142299_67548099.wav,wound care,1.0,Yes,10,i hate myself and the word doesnt want to heal,hate word doesnt want heal
+350,i hit the ground when trying to shoot a basketball,0.98762906,1249120_29713479_56491847.wav,orthopedy,0.0,Yes,10,i hit the ground when trying to shoot a basketball,hit ground trying shoot basketball
+351,i have cut my finger because of playing football and i to apply pain relief cream but it does not help,0.98762906,1249120_38548574_82754775.wav,orthopedy,1.0,Yes,21,i have cut my finger because of playing football and i to apply pain relief cream but it does not help,cut finger playing football apply pain relief cream help
+352,i just can't seem to get warm even when everyone around me is warm i always feel cold,0.98762906,1249120_6338946_11265543.wav,general,0.0,Yes,18,i just cant seem to get warm even when everyone around me is warm i always feel cold,cant seem get warm even everyone around warm always feel cold
+353,i knocked my foot and it really hurts,0.95960081,1249120_35197064_63364729.wav,orthopedy,1.0,Yes,8,i knocked my foot and it really hurts,knocked foot really hurts
+354,i work a lot of my hair,0.987629,1249120_44088493_79303050.wav,dermatology,1.0,Yes,7,i work a lot of my hair,work lot hair
+355,i love to garden but i get a terrible twinge in my lower back when i lean over,0.98244178,1249120_14353703_49287804.wav,physiatry,0.0,Yes,18,i love to garden but i get a terrible twinge in my lower back when i lean over,love garden get terrible twinge lower back lean
+356,i love to walk and be outside but the bottoms of my feet get sore so quickly,0.95290172,1249120_19425875_65715714.wav,orthopedy,1.0,Yes,17,i love to walk and be outside but the bottoms of my feet get sore so quickly,love walk outside bottoms feet get sore quickly
+357,i'm feeling cold but the temperature is high,0.97882909,1249120_35350617_26432303.wav,general,0.0,Yes,8,im feeling cold but the temperature is high,im feeling cold temperature high
+358,i made lots and lots of analysis to know the main reason for my stomach ache,0.97662574,1249120_43995026_105531790.wav,gastroenterology,1.0,Yes,16,i made lots and lots of analysis to know the main reason for my stomach ache,made lots lots analysis know main reason stomach ache
+359,i may have overdone it,0.98762906,1249120_42210938_50121613.wav,orthopedy,0.0,Yes,5,i may have overdone it,may overdone
+360,i must see a doctor i have an open wound,0.98762906,1249120_43612961_61152731.wav,wound care,1.0,Yes,10,i must see a doctor i have an open wound,must see doctor open wound
+361,i need a kind of cream which make my muscles more relaxed,0.98085088,1249120_38042052_108536521.wav,orthopedy,0.0,Yes,12,i need a kind of cream which make my muscles more relaxed,need kind cream make muscles relaxed
+362,i never had any acne problems,0.95887876,1249120_41336418_12513515.wav,dermatology,0.0,Yes,6,i never had any acne problems,never acne problems
+363,i noticed a lot more hair coming out than usual when i brush my hair,0.95350456,1249120_29713479_42913440.wav,dermatology,0.0,Yes,15,i noticed a lot more hair coming out than usual when i brush my hair,noticed lot hair coming usual brush hair
+364,i noticed an important decrease in my vision when i try to look at things up close,0.98762906,1249120_44140394_86749635.wav,ophtalmology,1.0,Yes,17,i noticed an important decrease in my vision when i try to look at things up close,noticed important decrease vision try look things close
+365,i often get a sharp pain in my chest and i can't tell what i'm doing that might be triggering it,0.98762906,1249120_18172663_93597422.wav,cardiology,1.0,Yes,21,i often get a sharp pain in my chest and i cant tell what im doing that might be triggering it,often get sharp pain chest cant tell im might triggering
+366,i often get a stomach ache after i eat i haven't been able to pinpoint which foods might be the trigger,0.98762906,1249120_38202325_62654255.wav,gastroenterology,1.0,Yes,21,i often get a stomach ache after i eat i havent been able to pinpoint which foods might be the trigger,often get stomach ache eat havent able pinpoint foods might trigger
+367,i read a book for a long time and when i finished reading i feel headache,0.987629,1249120_22423108_30911984.wav,general,0.0,Yes,16,i read a book for a long time and when i finished reading i feel headache,read book long time finished reading feel headache
+368,i fight myself deeply with a knife while i was cooking,0.987629,1249120_15004831_17819347.wav,wound care,1.0,Yes,11,i fight myself deeply with a knife while i was cooking,fight deeply knife cooking
+369,i started taking swimming lessons and i guess i swallowed too much water through my nose because this sinusitis is killing me now,0.96217602,1249120_2171654_72896212.wav,orthopedy,0.0,Yes,23,i started taking swimming lessons and i guess i swallowed too much water through my nose because this sinusitis is killing me now,started taking swimming lessons guess swallowed much water nose sinusitis killing
+370,i stop sports because i get injury from sports,0.89491898,1249120_43604449_63659866.wav,orthopedy,0.0,Yes,9,i stop sports because i get injury from sports,stop sports get injury sports
+371,i suffered a deep wound in my hand and i cannot stop the bleeding,0.987629,1249120_29672643_54942677.wav,wound care,1.0,Yes,14,i suffered a deep wound in my hand and i cannot stop the bleeding,suffered deep wound hand cannot stop bleeding
+372,i think i overdid it when i carried all that lumber from the yard my lower back is killing me,0.98762906,1249120_44140394_74231117.wav,physiatry,0.0,Yes,20,i think i overdid it when i carried all that lumber from the yard my lower back is killing me,think overdid carried lumber yard lower back killing
+373,i think i sprained my ankle it really hurts,0.98988944,1249120_43856216_23512138.wav,orthopedy,1.0,Yes,9,i think i sprained my ankle it really hurts,think sprained ankle really hurts
+374,i think my body temperature is very low,0.987629,1249120_36929821_81087902.wav,general,1.0,Yes,8,i think my body temperature is very low,think body temperature low
+375,i think my wound is infected,0.99377698,1249120_30937687_97698429.wav,wound care,1.0,Yes,6,i think my wound is infected,think wound infected
+376,i think there is fluid in my ears,0.987629,1249120_43402738_19511723.wav,otorhinolaryngology,1.0,Yes,8,i think there is fluid in my ears,think fluid ears
+377,i think there's something wrong with my wound it does not seem to he like it should,0.948237,1249120_43612961_58304053.wav,wound care,1.0,Yes,17,i think theres something wrong with my wound it does not seem to he like it should,think theres something wrong wound seem like
+378,i toppled over while jumping to catch the ball,0.96064103,1249120_35170334_104105892.wav,orthopedy,0.0,Yes,9,i toppled over while jumping to catch the ball,toppled jumping catch ball
+379,i travel by plane a few days ago and the time during landing my ears remain clogged and painful,0.97611666,1249120_35350617_89284646.wav,otorhinolaryngology,1.0,Yes,19,i travel by plane a few days ago and the time during landing my ears remain clogged and painful,travel plane days ago time landing ears remain clogged painful
+380,i tried a lot of cream but i still feel the same skin problem,0.987629,1249120_44093303_34578569.wav,dermatology,1.0,Yes,14,i tried a lot of cream but i still feel the same skin problem,tried lot cream still feel skin problem
+381,i tried to put my glasses to see more clear but can't find any,0.94213629,1249120_18172663_63908618.wav,ophtalmology,1.0,Yes,14,i tried to put my glasses to see more clear but cant find any,tried put glasses see clear cant find
+382,i use a lot of painkillers to get better but i still feel the same back pain,0.9536981,1249120_29672643_76439873.wav,physiatry,1.0,Yes,17,i use a lot of painkillers to get better but i still feel the same back pain,use lot painkillers get better still feel back pain
+383,i used to be out of breath after 10 a dozen of stare but now i stream it to bring everyone i sit down,0.83697897,1249120_33251186_35999174.wav,ER,1.0,Yes,24,i used to be out of breath after 10 a dozen of stare but now i stream it to bring everyone i sit down,used breath 10 dozen stare stream bring everyone sit
+384,i used to have acne when i was 15 years old,0.95011288,1249120_39438102_96813913.wav,dermatology,0.0,Yes,11,i used to have acne when i was 15 years old,used acne 15 years old
+385,i usually have a bad cough when i get flu,0.98867476,1249120_17632529_57285505.wav,general,0.0,Yes,10,i usually have a bad cough when i get flu,usually bad cough get flu
+386,i visited many doctors but they can't find the right treatment to get my hair back,0.9074474,1249120_43577102_20339403.wav,dermatology,0.0,Yes,16,i visited many doctors but they cant find the right treatment to get my hair back,visited many doctors cant find right treatment get hair back
+387,i wake up at night feeling cold,0.987629,1249120_30766630_35515160.wav,general,0.0,Yes,7,i wake up at night feeling cold,wake night feeling cold
+388,i wake up with a stiff neck every morning massage helps but then a couple of days later is back again,0.98762906,1249120_6338946_85634288.wav,orthopedy,0.0,Yes,21,i wake up with a stiff neck every morning massage helps but then a couple of days later is back again,wake stiff neck every morning massage helps couple days later back
+389,i walk everyday but now i get short of breath after going only a short way,0.94946277,1249120_35832653_46816907.wav,ER,1.0,Yes,16,i walk everyday but now i get short of breath after going only a short way,walk everyday get short breath going short way
+390,i walk alone 43 km i feel pain in my foot like to take,0.88357764,1249120_30937687_93193229.wav,orthopedy,0.0,Yes,14,i walk alone 43 km i feel pain in my foot like to take,walk alone 43 km feel pain foot like take
+391,i was diagnosed with b12 deficiency anemia which explains why i always felt cold,0.978531,1249120_36929821_60221169.wav,general,0.0,Yes,14,i was diagnosed with b12 deficiency anemia which explains why i always felt cold,diagnosed b12 deficiency anemia explains always felt cold
+392,i was diagnosed with pneumonia i can't breathe easily,0.99401158,1249120_19425875_81814829.wav,ER,1.0,Yes,9,i was diagnosed with pneumonia i cant breathe easily,diagnosed pneumonia cant breathe easily
+393,i was injured during football match i was diagnosed with cruciate ligament,0.987629,1249120_43577102_50050406.wav,orthopedy,1.0,Yes,12,i was injured during football match i was diagnosed with cruciate ligament,injured football match diagnosed cruciate ligament
+394,i was kicked in the head playing soccer last night,0.98762906,1249120_35832653_77746569.wav,orthopedy,1.0,Yes,10,i was kicked in the head playing soccer last night,kicked head playing soccer last night
+395,i was playing basketball yesterday i have sprained ankle,0.98762906,1249120_17632529_72644850.wav,orthopedy,1.0,Yes,9,i was playing basketball yesterday i have sprained ankle,playing basketball yesterday sprained ankle
+396,i was playing football and injured with joint pain,0.98762906,1249120_35408915_59389253.wav,rheumatology,1.0,Yes,9,i was playing football and injured with joint pain,playing football injured joint pain
+397,i was playing soccer and i twisted my ankle,0.98762906,1249120_38202325_27202090.wav,orthopedy,1.0,Yes,9,i was playing soccer and i twisted my ankle,playing soccer twisted ankle
+398,i was traveling by ship and i feel dizzy,0.98762906,1249120_22345789_109476658.wav,general,0.0,Yes,9,i was traveling by ship and i feel dizzy,traveling ship feel dizzy
+399,i was very active in sports but now my body is feeling pain,0.987629,1249120_43856216_94937393.wav,orthopedy,0.0,Yes,13,i was very active in sports but now my body is feeling pain,active sports body feeling pain
+400,i was watching tv and suddenly have blurry vision,0.98762906,1249120_19425875_84684947.wav,ophtalmology,1.0,Yes,9,i was watching tv and suddenly have blurry vision,watching tv suddenly blurry vision
+401,i wish this excruciating feelings of loss could go away,0.98762906,1249120_29713479_16864012.wav,psycology,0.0,Yes,10,i wish this excruciating feelings of loss could go away,wish excruciating feelings loss could go away
+404,i'm having a hard time hearing,0.987629,1249120_43612961_36894452.wav,otorhinolaryngology,1.0,Yes,6,im having a hard time hearing,im hard time hearing
+405,i'm having a hard time reading because the letters are all fuzzy,0.987629,1249120_43620482_100844689.wav,ophtalmology,1.0,Yes,12,im having a hard time reading because the letters are all fuzzy,im hard time reading letters fuzzy
+406,i am in need for a treatment for my hair for,0.987629,1249120_43577102_98626155.wav,dermatology,1.0,Yes,11,i am in need for a treatment for my hair for,need treatment hair
+407,i'm injured i can't play sports,0.98939413,1249120_6338946_32796166.wav,orthopedy,0.0,Yes,6,im injured i cant play sports,im injured cant play sports
+408,i'm not feeling good i can't take my breath,0.98762906,1249120_35832653_22145064.wav,ER,1.0,Yes,9,im not feeling good i cant take my breath,im feeling good cant take breath
+409,i'm not feeling good i get infected wound,0.987629,1249120_44140394_74979018.wav,wound care,1.0,Yes,8,im not feeling good i get infected wound,im feeling good get infected wound
+410,i'm not good i feel dizzy,0.987629,1249120_18985376_75055025.wav,general,1.0,Yes,6,im not good i feel dizzy,im good feel dizzy
+411,i'm not feeling good i'm feeling so cold,0.9906143,1249120_19425875_103227792.wav,general,0.0,Yes,8,im not feeling good im feeling so cold,im feeling good im feeling cold
+412,i'm not hearing will i have problem with my ear,0.85171092,1249120_43855932_90433740.wav,otorhinolaryngology,1.0,Yes,10,im not hearing will i have problem with my ear,im hearing problem ear
+413,i'm suffering from sharp cough accompanied by phlegm,0.9462868,1249120_35154350_103199506.wav,general,0.0,Yes,8,im suffering from sharp cough accompanied by phlegm,im suffering sharp cough accompanied phlegm
+414,i am very worried that i'll go bald soon am i very sick,0.94285476,1249120_29672643_47139582.wav,dermatology,0.0,Yes,13,i am very worried that ill go bald soon am i very sick,worried ill go bald soon sick
+415,i've always been very active but now i just don't have the strength or energy to go for even a short walk,0.987629,1249120_6338946_99675257.wav,general,1.0,Yes,22,ive always been very active but now i just dont have the strength or energy to go for even a short walk,ive always active dont strength energy go even short walk
+416,i have been feeling very sad lately,0.987629,1249120_42557795_43432663.wav,psycology,0.0,Yes,7,i have been feeling very sad lately,feeling sad lately
+417,i have been over my cold for weeks but still cough everyday,0.8907373,1249120_43402738_68494935.wav,general,0.0,Yes,12,i have been over my cold for weeks but still cough everyday,cold weeks still cough everyday
+418,time to breathe am i having a heart attack,0.98762906,1249120_41956733_30129346.wav,ER,1.0,Yes,9,time to breathe am i having a heart attack,time breathe heart attack
+419,i've had this cough for 2 weeks,0.987629,1249120_17632529_101935206.wav,general,0.0,Yes,7,ive had this cough for 2 weeks,ive cough 2 weeks
+420,i have noticed my hair falling out.,0.94900125,1249120_41087148_27535607.wav,dermatology,1.0,Yes,7,i have noticed my hair falling out,noticed hair falling
+421,i have tried reading books but nothing can cheer me up,0.95506233,1249120_43604449_31160322.wav,psycology,0.0,Yes,11,i have tried reading books but nothing can cheer me up,tried reading books nothing cheer
+422,in high school i had a lot of acne,0.98762906,1249120_43855932_65478995.wav,dermatology,0.0,Yes,9,in high school i had a lot of acne,high school lot acne
+423,in the morning my respiration is loud,0.987629,1249120_43402738_60989575.wav,ER,0.0,Yes,7,in the morning my respiration is loud,morning respiration loud
+424,is my cut infected or just healing,0.987629,1249120_33905644_42769934.wav,wound care,1.0,Yes,7,is my cut infected or just healing,cut infected healing
+425,eating people's skin disease,0.97793758,1249120_44093933_81586584.wav,dermatology,0.0,Yes,4,eating peoples skin disease,eating peoples skin disease
+426,is there a cure for acne,0.987629,1249120_42554554_40348648.wav,dermatology,0.0,Yes,6,is there a cure for acne,cure acne
+427,it feels like i can't take a deep breath,0.99640942,1249120_18386513_45657810.wav,ER,1.0,Yes,9,it feels like i cant take a deep breath,feels like cant take deep breath
+428,it feels like my heart is going to leap out of my body it hurts,0.9899261,1249120_43402738_57289122.wav,cardiology,1.0,Yes,15,it feels like my heart is going to leap out of my body it hurts,feels like heart going leap body hurts
+429,it feels like someone is hitting my head with a hammer i feel pain on the top of my head and it throbs,0.98149073,1249120_43402738_105961199.wav,general,1.0,Yes,23,it feels like someone is hitting my head with a hammer i feel pain on the top of my head and it throbs,feels like someone hitting head hammer feel pain top head throbs
+430,it feels like someone stuck a knife into my shoulder,0.98762906,1249120_18172663_25677999.wav,orthopedy,1.0,Yes,10,it feels like someone stuck a knife into my shoulder,feels like someone stuck knife shoulder
+431,it hurts when i bend my arm,0.987629,1249120_43788827_17081378.wav,rheumatology,0.0,Yes,7,it hurts when i bend my arm,hurts bend arm
+432,it hurts when i raise my arm up,0.98025447,1249120_35197064_102422300.wav,orthopedy,0.0,Yes,8,it hurts when i raise my arm up,hurts raise arm
+433,it's hard to breathe when i'm in the underground metro station why,0.98241276,1249120_35350617_96838834.wav,ER,0.0,Yes,12,its hard to breathe when im in the underground metro station why,hard breathe im underground metro station
+434,it is like i have a needle pushing through my heart,0.987629,1249120_19425875_26502707.wav,cardiology,1.0,Yes,11,it is like i have a needle pushing through my heart,like needle pushing heart
+435,it itches inside my ears,0.98762906,1249120_42557795_52539473.wav,otorhinolaryngology,0.0,Yes,5,it itches inside my ears,itches inside ears
+436,it started editing l but today the pain is throbbing and unbearable,0.86419362,1249120_43788827_93789535.wav,otorhinolaryngology,1.0,Yes,12,it started editing l but today the pain is throbbing and unbearable,started editing l today pain throbbing unbearable
+437,it's hard to see things,0.98762906,1249120_43577102_82674022.wav,ophtalmology,1.0,Yes,5,its hard to see things,hard see things
+438,it's hard to stand up and i'm moving very slowly,0.98762906,1249120_29289135_64421694.wav,general,1.0,Yes,10,its hard to stand up and im moving very slowly,hard stand im moving slowly
+439,itch at front and center of scol,0.83032018,1249120_43755034_67185695.wav,dermatology,0.0,Yes,7,itch at front and center of scol,itch front center scol
+440,laceration rupture or opening in the skin,0.96662617,1249120_39438102_49337776.wav,wound care,1.0,Yes,7,laceration rupture or opening in the skin,laceration rupture opening skin
+441,longitudinal burning line across my back with hard respiratory movement,0.97300309,1249120_30766630_100912461.wav,physiatry,1.0,Yes,10,longitudinal burning line across my back with hard respiratory movement,longitudinal burning line across back hard respiratory movement
+442,my hair is falling out just by coming it,0.98762906,1249120_33905644_49402846.wav,dermatology,1.0,Yes,9,my hair is falling out just by coming it,hair falling coming
+443,my abdominal muscles have great pain since i was at gym,0.93990904,1249120_18172663_11717053.wav,orthopedy,0.0,Yes,11,my abdominal muscles have great pain since i was at gym,abdominal muscles great pain since gym
+444,my acne gets worse when it is hot,0.987629,1249120_1853182_55592493.wav,dermatology,0.0,Yes,8,my acne gets worse when it is hot,acne gets worse hot
+445,my acne is really embarrassing it's so red,0.987629,1249120_43402738_80337009.wav,dermatology,0.0,Yes,8,my acne is really embarrassing its so red,acne really embarrassing red
+446,my acne itches and oozes,0.93735743,1249120_39154234_67482374.wav,dermatology,0.0,Yes,5,my acne itches and oozes,acne itches oozes
+447,my ankle is hurting,0.98762906,1249120_21665495_61543337.wav,rheumatology,1.0,Yes,4,my ankle is hurting,ankle hurting
+449,my arm hurts when i stretch,0.987629,1249120_39438102_74651627.wav,orthopedy,1.0,Yes,6,my arm hurts when i stretch,arm hurts stretch
+450,my back got injured while i was lifting at the gym,0.99206507,1249120_29289135_66741607.wav,orthopedy,0.0,Yes,11,my back got injured while i was lifting at the gym,back got injured lifting gym
+451,my back hurts a lot,0.98762906,1249120_35444693_52253331.wav,physiatry,1.0,Yes,5,my back hurts a lot,back hurts lot
+452,my bike hurts me a lot,0.987629,1249120_44101988_77304055.wav,physiatry,0.0,Yes,6,my bike hurts me a lot,bike hurts lot
+453,my back hurts me and i can't bend it or walk,0.987629,1249120_38202325_87988519.wav,physiatry,1.0,Yes,11,my back hurts me and i cant bend it or walk,back hurts cant bend walk
+454,my back hurts so much i can't bend down to tie my shoelaces,0.98004371,1249120_15004831_93767590.wav,physiatry,1.0,Yes,13,my back hurts so much i cant bend down to tie my shoelaces,back hurts much cant bend tie shoelaces
+455,my back is hurting so much,0.987629,1249120_6338946_93472974.wav,physiatry,1.0,Yes,6,my back is hurting so much,back hurting much
+456,my bicep started aching after i went to the gym,0.82988089,1249120_41203338_82292132.wav,orthopedy,0.0,Yes,10,my bicep started aching after i went to the gym,bicep started aching went gym
+457,my body aches on the inside between my hips and shoulders,0.987629,1249120_43855932_49386781.wav,general,1.0,Yes,11,my body aches on the inside between my hips and shoulders,body aches inside hips shoulders
+458,my body feels like,0.98762906,1249120_35444693_32125047.wav,general,0.0,Yes,4,my body feels like,body feels like
+459,my body feels weak after my past day in the gym why,0.9709788,1249120_35197064_33300315.wav,general,0.0,Yes,12,my body feels weak after my past day in the gym why,body feels weak past day gym
+460,my body feels weak although i eat a lot why,0.92395955,1249120_43898158_39933947.wav,general,0.0,Yes,10,my body feels weak although i eat a lot why,body feels weak although eat lot
+461,my body feels weak,0.99072182,1249120_42210938_107178252.wav,general,0.0,Yes,4,my body feels weak,body feels weak
+462,my body feels weak and i think that my face is fade and i can't sleep well,0.9578051,1249120_29672643_98144523.wav,general,0.0,Yes,17,my body feels weak and i think that my face is fade and i cant sleep well,body feels weak think face fade cant sleep well
+463,my body feels weak and i tried to make it wax it still pains me,0.95047081,1249120_35350617_73411857.wav,general,0.0,Yes,15,my body feels weak and i tried to make it wax it still pains me,body feels weak tried make wax still pains
+464,my calves feel like they are tight as not and are throbbing,0.96762508,1249120_2171654_72702596.wav,orthopedy,1.0,Yes,12,my calves feel like they are tight as not and are throbbing,calves feel like tight throbbing
+465,my cbc reports indicate 10hp i feel tired of little work,0.86038053,1249120_43612961_90934243.wav,general,0.0,Yes,11,my cbc reports indicate 10hp i feel tired of little work,cbc reports indicate 10hp feel tired little work
+466,my chest acne breaks out and never clears up,0.98762906,1249120_18172663_88508731.wav,dermatology,1.0,Yes,9,my chest acne breaks out and never clears up,chest acne breaks never clears
+467,my chest break out with red pimples and whiteheads,0.9330703,1249120_29289135_10614469.wav,dermatology,0.0,Yes,9,my chest break out with red pimples and whiteheads,chest break red pimples whiteheads
+468,my chest hurts when i go to take a break,0.96997374,1249120_42554554_106838636.wav,ER,1.0,Yes,10,my chest hurts when i go to take a break,chest hurts go take break
+469,my chest hurts when i smoke,0.987629,1249120_36929821_86271478.wav,general,0.0,Yes,6,my chest hurts when i smoke,chest hurts smoke
+470,my child has coughed all night she can't sleep,0.9513467,1249120_42554554_45036978.wav,general,1.0,Yes,9,my child has coughed all night she cant sleep,child coughed night cant sleep
+471,my calf is very heavy and i have mucus,0.84672368,1249120_43604449_43775054.wav,general,1.0,Yes,9,my calf is very heavy and i have mucus,calf heavy mucus
+472,mccarty law or greenish colored force,0.94485378,1249120_43788827_109800566.wav,wound care,1.0,Yes,6,mccarty law or greenish colored force,mccarty law greenish colored force
+473,my daughter had her ears pierced earlobes is bright red and burning hot,0.987629,1249120_43857865_36513518.wav,wound care,1.0,Yes,13,my daughter had her ears pierced earlobes is bright red and burning hot,daughter ears pierced earlobes bright red burning hot
+474,my daughter had her eyebrows threaded and it pulled an opening of skin and one of her brows that is now puffy and oozing,0.86593932,1249120_34824899_99592408.wav,wound care,1.0,Yes,24,my daughter had her eyebrows threaded and it pulled an opening of skin and one of her brows that is now puffy and oozing,daughter eyebrows threaded pulled opening skin one brows puffy oozing
+475,my daughter was beat by her cat and now her hand is so swollen and the only student liquid,0.9368844,1249120_20518958_28975888.wav,wound care,1.0,Yes,19,my daughter was beat by her cat and now her hand is so swollen and the only student liquid,daughter beat cat hand swollen student liquid
+476,my are ache when i am listening to music,0.94235492,1249120_13842059_99076771.wav,otorhinolaryngology,0.0,Yes,9,my are ache when i am listening to music,ache listening music
+477,my ear hurts and it's worse when i swallow my ear is very painful and tylenol hasn't helped,0.9831866,1249120_43577102_10687547.wav,otorhinolaryngology,1.0,Yes,18,my ear hurts and its worse when i swallow my ear is very painful and tylenol hasnt helped,ear hurts worse swallow ear painful tylenol hasnt helped
+478,my ear hurts me badly,0.98762906,1249120_41221824_26897340.wav,otorhinolaryngology,1.0,Yes,5,my ear hurts me badly,ear hurts badly
+479,my ear hurts when i touch it,0.99395835,1249120_30766630_69609595.wav,otorhinolaryngology,1.0,Yes,7,my ear hurts when i touch it,ear hurts touch
+480,my ear is ringing,0.98762906,1249120_39142299_20539463.wav,otorhinolaryngology,1.0,Yes,4,my ear is ringing,ear ringing
+481,my entire body is freezing,0.9951607,1249120_15830408_87042261.wav,general,0.0,Yes,5,my entire body is freezing,entire body freezing
+482,my face breaks out badly every month around my cycle,0.98762906,1249120_35350617_54671464.wav,dermatology,0.0,Yes,10,my face breaks out badly every month around my cycle,face breaks badly every month around cycle
+483,my face has broken out in painful red spots and lumps that no matter how much i clean my face don't seem to be going away,0.98363167,1249120_43856216_80258909.wav,dermatology,1.0,Yes,26,my face has broken out in painful red spots and lumps that no matter how much i clean my face dont seem to be going away,face broken painful red spots lumps matter much clean face dont seem going away
+484,my face is all broken out with pimples,0.97421479,1249120_44111844_105575644.wav,dermatology,0.0,Yes,8,my face is all broken out with pimples,face broken pimples
+485,my food has been aching since last tuesday,0.90490109,1249120_35444693_44256596.wav,orthopedy,1.0,Yes,8,my food has been aching since last tuesday,food aching since last tuesday
+486,my foot hurts and i can't and it's maybe it's broken,0.97917783,1249120_43612961_62119104.wav,orthopedy,1.0,Yes,11,my foot hurts and i cant and its maybe its broken,foot hurts cant maybe broken
+487,my foot hurts me a lot of playing football,0.98762906,1249120_40725179_57476499.wav,orthopedy,0.0,Yes,9,my foot hurts me a lot of playing football,foot hurts lot playing football
+488,my foot is hurting so much,0.987629,1249120_43316708_74339432.wav,orthopedy,1.0,Yes,6,my foot is hurting so much,foot hurting much
+489,my grandmother last year went to hospital because she was having a hard time breathing,0.987629,1249120_35408915_16754084.wav,ER,1.0,Yes,15,my grandmother last year went to hospital because she was having a hard time breathing,grandmother last year went hospital hard time breathing
+490,my grandson cut his foot on a seashell in the ocean and now the foot is turning grey and is puffy,0.92864299,1249120_29289135_76611999.wav,wound care,1.0,Yes,21,my grandson cut his foot on a seashell in the ocean and now the foot is turning grey and is puffy,grandson cut foot seashell ocean foot turning grey puffy
+491,my hair always falls out and i have lost a lot of hair lately,0.95896596,1249120_43855932_43810831.wav,dermatology,1.0,Yes,14,my hair always falls out and i have lost a lot of hair lately,hair always falls lost lot hair lately
+492,my hair falling out,0.98762906,1249120_18386513_26007959.wav,dermatology,1.0,Yes,4,my hair falling out,hair falling
+493,my hair is coming out in chunks especially when i wash,0.91049749,1249120_43995026_104290022.wav,dermatology,1.0,Yes,11,my hair is coming out in chunks especially when i wash,hair coming chunks especially wash
+494,my hair is falling out after i take a shower,0.98762906,1249120_19425875_83068521.wav,dermatology,1.0,Yes,10,my hair is falling out after i take a shower,hair falling take shower
+495,my hair is falling out in bunches,0.987629,1249120_43856216_83388292.wav,dermatology,1.0,Yes,7,my hair is falling out in bunches,hair falling bunches
+496,my hair is falling out in huge amount,0.97553521,1249120_40184183_51205515.wav,dermatology,1.0,Yes,8,my hair is falling out in huge amount,hair falling huge amount
+497,my hair is falling when i am coming it,0.98762906,1249120_35408915_52036297.wav,dermatology,1.0,Yes,9,my hair is falling when i am coming it,hair falling coming
+498,my hair is falling without a reason i can see a lot of hair on my working desk,0.98762906,1249120_15004831_41941038.wav,dermatology,1.0,Yes,18,my hair is falling without a reason i can see a lot of hair on my working desk,hair falling without reason see lot hair working desk
+499,my hair isn't well,0.98762906,1249120_19425875_81295573.wav,dermatology,1.0,Yes,4,my hair isnt well,hair isnt well
+500,my hand open wound got infected,0.987629,1249120_44088493_56870761.wav,wound care,1.0,Yes,6,my hand open wound got infected,hand open wound got infected
+501,my headache since i woke up this morning,0.987629,1249120_29672643_98218564.wav,general,0.0,Yes,8,my headache since i woke up this morning,headache since woke morning
+502,my head gets dizzy when i try to get up,0.98762906,1249120_35350617_87028175.wav,general,0.0,Yes,10,my head gets dizzy when i try to get up,head gets dizzy try get
+503,my head hurts and i lose the sensation in my face then lose sight in my eye,0.98762906,1249120_43577102_99305380.wav,general,1.0,Yes,17,my head hurts and i lose the sensation in my face then lose sight in my eye,head hurts lose sensation face lose sight eye
+504,my head hurts in the back and the pain lasts all day,0.98198509,1249120_39154234_86583253.wav,general,1.0,Yes,12,my head hurts in the back and the pain lasts all day,head hurts back pain lasts day
+505,my head hurts me badly,0.98762906,1249120_41336418_15412005.wav,general,1.0,Yes,5,my head hurts me badly,head hurts badly
+506,my head hurts when i'm doing this,0.987629,1249120_38042052_67922468.wav,general,0.0,Yes,7,my head hurts when im doing this,head hurts im
+507,my head hurts whenever i try to do something,0.99181992,1249120_21665495_108714577.wav,general,0.0,Yes,9,my head hurts whenever i try to do something,head hurts whenever try something
+508,my head is so heavy i can't think normally,0.98847365,1249120_41336418_85973967.wav,general,0.0,Yes,9,my head is so heavy i cant think normally,head heavy cant think normally
+509,my head is spinning when i get up,0.987629,1249120_43172391_80719853.wav,general,0.0,Yes,8,my head is spinning when i get up,head spinning get
+510,my heart feels like it's going to explode,0.987629,1249120_43995026_76828366.wav,cardiology,1.0,Yes,8,my heart feels like its going to explode,heart feels like going explode
+511,my heart hurts me,0.98762906,1249120_13842059_90176324.wav,cardiology,1.0,Yes,4,my heart hurts me,heart hurts
+512,my heart hurts when i exercise,0.987629,1249120_18985376_69007779.wav,cardiology,0.0,Yes,6,my heart hurts when i exercise,heart hurts exercise
+513,my heart hurts while i am sad by,0.987629,1249120_30937687_10543328.wav,cardiology,0.0,Yes,8,my heart hurts while i am sad by,heart hurts sad
+514,my heart is beating fast and it scares me,0.98762906,1249120_43995026_95434349.wav,cardiology,1.0,Yes,9,my heart is beating fast and it scares me,heart beating fast scares
+515,my heart is pumping fast and i'm having a hard time to breathe,0.987629,1249120_33905644_79988299.wav,ER,1.0,Yes,13,my heart is pumping fast and im having a hard time to breathe,heart pumping fast im hard time breathe
+516,my husband has a spot on his lip that he do was cold sore but now it has broken open and leaks fluid all day,0.94696367,1249120_38202325_21762185.wav,wound care,1.0,Yes,25,my husband has a spot on his lip that he do was cold sore but now it has broken open and leaks fluid all day,husband spot lip cold sore broken open leaks fluid day
+517,my husband left me for another woman my heart hurts so badly to the point that i can't eat or sleep,0.98762906,1249120_43856216_59977535.wav,cardiology,0.0,Yes,21,my husband left me for another woman my heart hurts so badly to the point that i cant eat or sleep,husband left another woman heart hurts badly point cant eat sleep
+518,my infected wound cause a fever,0.987629,1249120_18172663_93805814.wav,wound care,1.0,Yes,6,my infected wound cause a fever,infected wound cause fever
+520,my joints feel swollen,0.98762906,1249120_29713479_69443721.wav,rheumatology,1.0,Yes,4,my joints feel swollen,joints feel swollen
+521,my knee is swollen which indicates,0.97487611,1249120_35444693_24131151.wav,wound care,1.0,Yes,6,my knee is swollen which indicates,knee swollen indicates
+522,my knee catches and hurts when i first stand up after sitting,0.97255421,1249120_43855932_105242356.wav,orthopedy,0.0,Yes,12,my knee catches and hurts when i first stand up after sitting,knee catches hurts first stand sitting
+523,my knee doesn't want to bend well,0.9714964,1249120_43402738_87151767.wav,orthopedy,1.0,Yes,7,my knee doesnt want to bend well,knee doesnt want bend well
+524,my knee feels weak and it gave away the other day at the top of the stairs luckily there was a real to hold onto,0.94177061,1249120_43856216_22536969.wav,orthopedy,1.0,Yes,25,my knee feels weak and it gave away the other day at the top of the stairs luckily there was a real to hold onto,knee feels weak gave away day top stairs luckily real hold onto
+525,my knee hurts when i play squash,0.987629,1249120_44140394_78670724.wav,orthopedy,0.0,Yes,7,my knee hurts when i play squash,knee hurts play squash
+526,my knee hurts when i walk,0.987629,1249120_44140394_74818505.wav,orthopedy,0.0,Yes,6,my knee hurts when i walk,knee hurts walk
+527,monday is hurting so badly,0.98762906,1249120_39740177_37893942.wav,rheumatology,1.0,Yes,5,monday is hurting so badly,monday hurting badly
+528,my kneecap feels like it is grading bone on bone when i walk,0.95332557,1249120_17632529_21875553.wav,orthopedy,1.0,Yes,13,my kneecap feels like it is grading bone on bone when i walk,kneecap feels like grading bone bone walk
+529,my knees ache on cold and rainy days,0.97970015,1249120_43883861_67210122.wav,orthopedy,0.0,Yes,8,my knees ache on cold and rainy days,knees ache cold rainy days
+530,my knees hurt so bad to walk that i stay sitting more than i should,0.987629,1249120_31349958_27164977.wav,orthopedy,0.0,Yes,15,my knees hurt so bad to walk that i stay sitting more than i should,knees hurt bad walk stay sitting
+531,my knees seem to grind as i go up or downstairs,0.83961767,1249120_43402738_90238585.wav,orthopedy,0.0,Yes,11,my knees seem to grind as i go up or downstairs,knees seem grind go downstairs
+532,my niece were right below the kneecap and hurt when i put weight on them,0.96771401,1249120_28006404_54952459.wav,orthopedy,1.0,Yes,15,my niece were right below the kneecap and hurt when i put weight on them,niece right kneecap hurt put weight
+533,my left ear is okay but the right one feels like it's being stabbed with a nail,0.98283905,1249120_38202325_69183925.wav,otorhinolaryngology,1.0,Yes,17,my left ear is okay but the right one feels like its being stabbed with a nail,left ear okay right one feels like stabbed nail
+534,my left side aches much,0.98762906,1249120_38202325_57751307.wav,general,1.0,Yes,5,my left side aches much,left side aches much
+535,my lower back hurts but it improves if i stretch it,0.987629,1249120_28006404_24153553.wav,orthopedy,0.0,Yes,11,my lower back hurts but it improves if i stretch it,lower back hurts improves stretch
+536,my lungs feel heavy like they are filled with mucus,0.98762906,1249120_6338946_50603602.wav,general,1.0,Yes,10,my lungs feel heavy like they are filled with mucus,lungs feel heavy like filled mucus
+537,my mind feels very sad as if it hurts the way i feel in my head is awful and when i think about my breakup i cry with sadness,0.9767316,1249120_43402738_63869799.wav,psycology,0.0,Yes,29,my mind feels very sad as if it hurts the way i feel in my head is awful and when i think about my breakup i cry with sadness,mind feels sad hurts way feel head awful think breakup cry sadness
+538,my muscle in my shoulder burns when i move my arm,0.99533463,1249120_36929821_68942435.wav,orthopedy,1.0,Yes,11,my muscle in my shoulder burns when i move my arm,muscle shoulder burns move arm
+539,my muscles feel tired,0.99072182,1249120_43172391_26730989.wav,general,0.0,Yes,4,my muscles feel tired,muscles feel tired
+540,my muscles in my lower back,0.987629,1249120_43719934_82524191.wav,wound care,0.0,Yes,6,my muscles in my lower back,muscles lower back
+541,my muscles in my lower back are aching,0.98444015,1249120_18172663_58938998.wav,orthopedy,0.0,Yes,8,my muscles in my lower back are aching,muscles lower back aching
+542,my neck feels stiff,0.98762906,1249120_34824899_53509456.wav,orthopedy,0.0,Yes,4,my neck feels stiff,neck feels stiff
+543,my neck has been so since the accident,0.93970907,1249120_43604449_42140260.wav,orthopedy,1.0,Yes,8,my neck has been so since the accident,neck since accident
+544,my neck hurts me and i can't look down or up,0.987629,1249120_44093303_81005410.wav,orthopedy,1.0,Yes,11,my neck hurts me and i cant look down or up,neck hurts cant look
+545,my neck hurts me and i can't stand with this pain,0.987629,1249120_30766630_51050536.wav,orthopedy,1.0,Yes,11,my neck hurts me and i cant stand with this pain,neck hurts cant stand pain
+546,my neck is annoying me i can't sleep because of it,0.987629,1249120_40419625_92628596.wav,orthopedy,0.0,Yes,11,my neck is annoying me i cant sleep because of it,neck annoying cant sleep
+547,my nose is congested all the time and there's this gluey secretion in my throat that makes it impossible for me to sleep i often have to nap sitting down,0.97231781,1249120_42082009_86220087.wav,ER,0.0,Yes,30,my nose is congested all the time and theres this gluey secretion in my throat that makes it impossible for me to sleep i often have to nap sitting down,nose congested time theres gluey secretion throat makes impossible sleep often nap sitting
+548,my right shoulder clicks when i move my arm,0.97676629,1249120_43172391_93731252.wav,orthopedy,0.0,Yes,9,my right shoulder clicks when i move my arm,right shoulder clicks move arm
+549,my shoulder aches when i craigslist,0.91825056,1249120_42210938_19107094.wav,orthopedy,0.0,Yes,6,my shoulder aches when i craigslist,shoulder aches craigslist
+550,my shoulder has a great,0.98762906,1249120_14353703_46447461.wav,orthopedy,1.0,Yes,5,my shoulder has a great,shoulder great
+551,my shoulder hurts me so much,0.99351144,1249120_38202325_37437935.wav,orthopedy,1.0,Yes,6,my shoulder hurts me so much,shoulder hurts much
+552,my shoulder hurts when i try to read something about my cat,0.95446867,1249120_39154234_18490062.wav,orthopedy,1.0,Yes,12,my shoulder hurts when i try to read something about my cat,shoulder hurts try read something cat
+553,my shoulder is hurting me,0.99175483,1249120_43788827_74476709.wav,orthopedy,1.0,Yes,5,my shoulder is hurting me,shoulder hurting
+554,my shoulder muscle hurts when i try to reach up,0.99463338,1249120_22423108_55699860.wav,orthopedy,1.0,Yes,10,my shoulder muscle hurts when i try to reach up,shoulder muscle hurts try reach
+555,my shower drain is full of hair every time,0.97350013,1249120_35154350_52523216.wav,dermatology,1.0,Yes,9,my shower drain is full of hair every time,shower drain full hair every time
+557,my skin is itching,0.98762906,1249120_43951421_108895312.wav,dermatology,0.0,Yes,4,my skin is itching,skin itching
+558,my skin is itchy and inflamed,0.987629,1249120_43995026_89052751.wav,dermatology,1.0,Yes,6,my skin is itchy and inflamed,skin itchy inflamed
+559,my skin is very dry and peeling,0.987629,1249120_36505751_23947169.wav,dermatology,0.0,Yes,7,my skin is very dry and peeling,skin dry peeling
+560,my son got a tattoo several weeks ago and the skin around it is raised and hot and it looks infected,0.95439583,1249120_43788827_78365646.wav,wound care,1.0,Yes,21,my son got a tattoo several weeks ago and the skin around it is raised and hot and it looks infected,son got tattoo several weeks ago skin around raised hot looks infected
+561,my son had a root canal and the dentist accidentally cut the inside of his cheek and now it will not heal,0.987629,1249120_29672643_62645336.wav,wound care,1.0,Yes,22,my son had a root canal and the dentist accidentally cut the inside of his cheek and now it will not heal,son root canal dentist accidentally cut inside cheek heal
+562,my son had his lip pierced and it is swollen and the skin inside on his lip is gray and looks infected,0.95824796,1249120_18386513_88896885.wav,wound care,1.0,Yes,22,my son had his lip pierced and it is swollen and the skin inside on his lip is gray and looks infected,son lip pierced swollen skin inside lip gray looks infected
+563,my son has a lot of acne,0.97850055,1249120_40184183_85434711.wav,dermatology,0.0,Yes,7,my son has a lot of acne,son lot acne
+564,my son licked his neck with an old razor and that's what has become inflamed and looks like it is infected,0.92361695,1249120_44101988_35029528.wav,wound care,1.0,Yes,21,my son licked his neck with an old razor and thats what has become inflamed and looks like it is infected,son licked neck old razor thats become inflamed looks like infected
+565,my son squeezed pimple and it broke open only to scab over and now it looks like it is infected,0.92023456,1249120_44088493_45918358.wav,wound care,1.0,Yes,20,my son squeezed pimple and it broke open only to scab over and now it looks like it is infected,son squeezed pimple broke open scab looks like infected
+566,my soul isn't healing well and it's been like this for 2 weeks,0.94248974,1249120_43402738_81825705.wav,wound care,1.0,Yes,13,my soul isnt healing well and its been like this for 2 weeks,soul isnt healing well like 2 weeks
+567,my sword looks like it's not healing well,0.8078838,1249120_43612961_34254617.wav,wound care,1.0,Yes,8,my sword looks like its not healing well,sword looks like healing well
+568,my stomach aches after i drink any soda drink why,0.97040975,1249120_18985376_42800481.wav,gastroenterology,0.0,Yes,10,my stomach aches after i drink any soda drink why,stomach aches drink soda drink
+569,my stomach aches when i eat hot food why,0.972664,1249120_44140394_104674160.wav,gastroenterology,0.0,Yes,9,my stomach aches when i eat hot food why,stomach aches eat hot food
+570,my stomach feels full and upset and bloating after big meals,0.987629,1249120_33905644_76306333.wav,gastroenterology,0.0,Yes,11,my stomach feels full and upset and bloating after big meals,stomach feels full upset bloating big meals
+571,my stomach feels starts hurting but then it feels better after i eat something mild,0.9704743,1249120_43620482_44970608.wav,gastroenterology,0.0,Yes,15,my stomach feels starts hurting but then it feels better after i eat something mild,stomach feels starts hurting feels better eat something mild
+572,my stomach has been sore since yesterday,0.98956823,1249120_22423108_11258404.wav,gastroenterology,1.0,Yes,7,my stomach has been sore since yesterday,stomach sore since yesterday
+573,my television and computer seem out of focus even though i have new glasses,0.80328792,1249120_43883861_58559098.wav,ophtalmology,0.0,Yes,14,my television and computer seem out of focus even though i have new glasses,television computer seem focus even though new glasses
+574,my temperature dropped and my body gets in ost,0.87143219,1249120_43577102_28130477.wav,general,0.0,Yes,9,my temperature dropped and my body gets in ost,temperature dropped body gets ost
+575,my throat is so sore,0.98762906,1249120_43855932_60916610.wav,orthopedy,1.0,Yes,5,my throat is so sore,throat sore
+576,my upper back has been sore for a week,0.98762906,1249120_13842059_25244471.wav,physiatry,1.0,Yes,9,my upper back has been sore for a week,upper back sore week
+577,my wound opened up again,0.98762906,1249120_43172391_78880762.wav,wound care,1.0,Yes,5,my wound opened up again,wound opened
+578,my wound was infected when i was planning some flowers in my garden,0.95585155,1249120_35832653_76692212.wav,wound care,1.0,Yes,13,my wound was infected when i was planning some flowers in my garden,wound infected planning flowers garden
+579,need to scratch my skin every minute,0.98023099,1249120_20518958_70917723.wav,dermatology,0.0,Yes,7,need to scratch my skin every minute,need scratch skin every minute
+580,oh my heart hurts me i tried to be calm and i can't,0.987629,1249120_41203338_22093899.wav,cardiology,1.0,Yes,13,oh my heart hurts me i tried to be calm and i cant,oh heart hurts tried calm cant
+581,pain in the large neck,0.87879479,1249120_43788827_94993106.wav,orthopedy,0.0,Yes,5,pain in the large neck,pain large neck
+583,redness swelling and difficulty walking,0.98313779,1249120_33251186_31770864.wav,orthopedy,1.0,Yes,5,redness swelling and difficulty walking,redness swelling difficulty walking
+584,severe pain in the ear,0.98762906,1249120_43612961_109439817.wav,otorhinolaryngology,1.0,Yes,5,severe pain in the ear,severe pain ear
+585,severe pain in the upper left side of chest and may have painted back,0.97314513,1249120_28006404_50359460.wav,cardiology,1.0,Yes,14,severe pain in the upper left side of chest and may have painted back,severe pain upper left side chest may painted back
+586,sharp pain and heavy breathing,0.98762906,1249120_43577102_63920169.wav,general,1.0,Yes,5,sharp pain and heavy breathing,sharp pain heavy breathing
+587,since i went into the forest i have pain on my ear,0.987629,1249120_43698316_68711007.wav,otorhinolaryngology,1.0,Yes,12,since i went into the forest i have pain on my ear,since went forest pain ear
+588,something dark is there on my arm,0.987629,1249120_41956733_11015705.wav,dermatology,1.0,Yes,7,something dark is there on my arm,something dark arm
+589,sometimes i cough because i am a smoker,0.987629,1249120_13842059_28311301.wav,general,0.0,Yes,8,sometimes i cough because i am a smoker,sometimes cough smoker
+590,sometimes i feel like a call on my chest,0.98762906,1249120_39438102_24829922.wav,ER,1.0,Yes,9,sometimes i feel like a call on my chest,sometimes feel like call chest
+591,sometimes my body feels weak without reason,0.97387135,1249120_43316708_73916251.wav,general,0.0,Yes,7,sometimes my body feels weak without reason,sometimes body feels weak without reason
+592,sometimes when it is cold outside my face hurts especially around the pimples that are ready to pop,0.98762906,1249120_19425875_19354885.wav,dermatology,0.0,Yes,18,sometimes when it is cold outside my face hurts especially around the pimples that are ready to pop,sometimes cold outside face hurts especially around pimples ready pop
+593,standing less than 5 minutes and my bag start wag,0.89437389,1249120_43665783_19119431.wav,physiatry,0.0,Yes,10,standing less than 5 minutes and my bag start wag,standing less 5 minutes bag start wag
+594,sterling silver for the egg,0.80128288,1249120_43794413_65674404.wav,ophtalmology,0.0,Yes,5,sterling silver for the egg,sterling silver egg
+595,stiffness inability to look right or left except by moving my whole body,0.95581776,1249120_19425875_18203949.wav,orthopedy,1.0,Yes,13,stiffness inability to look right or left except by moving my whole body,stiffness inability look right left except moving whole body
+596,stomach pain after drinking milk,0.98762906,1249120_43577102_41304047.wav,gastroenterology,0.0,Yes,5,stomach pain after drinking milk,stomach pain drinking milk
+598,surgical wounds red firing puss painful and hot to the touch,0.79856378,1249120_43577102_82416595.wav,wound care,1.0,Yes,11,surgical wounds red firing puss painful and hot to the touch,surgical wounds red firing puss painful hot touch
+599,the acne was causing me to fill embarrassed,0.96587682,1249120_35154350_21491579.wav,dermatology,0.0,Yes,8,the acne was causing me to fill embarrassed,acne causing fill embarrassed
+600,the arches of my feet hurt when i wear heels,0.98069084,1249120_43788827_107201794.wav,orthopedy,0.0,Yes,10,the arches of my feet hurt when i wear heels,arches feet hurt wear heels
+601,the area around my heart doesn't feel good,0.987629,1249120_19425875_74306830.wav,cardiology,1.0,Yes,8,the area around my heart doesnt feel good,area around heart doesnt feel good
+602,the crushing sensation on my heart leaves me breathless,0.98762906,1249120_2171654_40843730.wav,cardiology,1.0,Yes,9,the crushing sensation on my heart leaves me breathless,crushing sensation heart leaves breathless
+603,the feeling of coughing increases in winter states,0.95907122,1249120_43788827_26436759.wav,general,0.0,Yes,8,the feeling of coughing increases in winter states,feeling coughing increases winter states
+604,the joints in my fingers are painful in the morning,0.96085656,1249120_29672643_47103727.wav,rheumatology,0.0,Yes,10,the joints in my fingers are painful in the morning,joints fingers painful morning
+605,the knee feels like a rusted and i suddenly cannot bend it anymore,0.8912245,1249120_30766630_39577940.wav,orthopedy,1.0,Yes,13,the knee feels like a rusted and i suddenly cannot bend it anymore,knee feels like rusted suddenly cannot bend anymore
+606,the last time i clipped my toenails i cut them too short and now i have an infected nail,0.98762906,1249120_6338946_85710292.wav,wound care,1.0,Yes,19,the last time i clipped my toenails i cut them too short and now i have an infected nail,last time clipped toenails cut short infected nail
+607,the nurse was so damaged during the operation on my ankle but i cannot stand being touched on this car,0.95025063,1249120_28006404_41087515.wav,orthopedy,1.0,Yes,20,the nurse was so damaged during the operation on my ankle but i cannot stand being touched on this car,nurse damaged operation ankle cannot stand touched car
+608,the pain feels like it's right below the skin,0.98762906,1249120_36929821_13043725.wav,orthopedy,0.0,Yes,9,the pain feels like its right below the skin,pain feels like right skin
+609,the pain in my back feels like a sharp knife in it,0.90308791,1249120_36505751_99422756.wav,physiatry,1.0,Yes,12,the pain in my back feels like a sharp knife in it,pain back feels like sharp knife
+610,the pain in my ear is unbearable,0.987629,1249120_35154350_17463047.wav,otorhinolaryngology,1.0,Yes,7,the pain in my ear is unbearable,pain ear unbearable
+611,the pain is intense especially when i go down the stairs,0.987629,1249120_39438102_43754649.wav,orthopedy,1.0,Yes,11,the pain is intense especially when i go down the stairs,pain intense especially go stairs
+612,the severe pain in the stomach i feel,0.987629,1249120_30766630_102035719.wav,gastroenterology,1.0,Yes,8,the severe pain in the stomach i feel,severe pain stomach feel
+613,the warming system of my house is broken and feel so cold,0.97179967,1249120_38042052_26799458.wav,general,0.0,Yes,12,the warming system of my house is broken and feel so cold,warming system house broken feel cold
+614,the worst headache was during a hangover in my twenties i sincerely thought i was going to die from brain inflammation,0.90444481,1249120_43855932_98678990.wav,general,0.0,Yes,21,the worst headache was during a hangover in my twenties i sincerely thought i was going to die from brain inflammation,worst headache hangover twenties sincerely thought going die brain inflammation
+615,the only still open,0.98762906,1249120_20518958_70673281.wav,wound care,1.0,Yes,4,the only still open,still open
+616,there are lots of hair on my pillow in the morning,0.987629,1249120_44093933_10556478.wav,dermatology,1.0,Yes,11,there are lots of hair on my pillow in the morning,lots hair pillow morning
+617,there are some pimples on my face that bother me a lot,0.9959814,1249120_38202325_23412557.wav,dermatology,0.0,Yes,12,there are some pimples on my face that bother me a lot,pimples face bother lot
+618,dark times when i see crust,0.83260232,1249120_42210938_23185904.wav,ER,1.0,Yes,6,dark times when i see crust,dark times see crust
+619,it feels like a swollen knot at my shoulder blade with pain shooting from bats,0.87009311,1249120_38042052_68857502.wav,orthopedy,1.0,Yes,15,it feels like a swollen knot at my shoulder blade with pain shooting from bats,feels like swollen knot shoulder blade pain shooting bats
+620,there is a constant tickle in my throat,0.987629,1249120_43604449_68658518.wav,general,0.0,Yes,8,there is a constant tickle in my throat,constant tickle throat
+621,there is a red stain in my skin,0.987629,1249120_29289135_55391065.wav,dermatology,1.0,Yes,8,there is a red stain in my skin,red stain skin
+622,there is a sharp pain in my bicep,0.95227247,1249120_43604449_30877415.wav,orthopedy,0.0,Yes,8,there is a sharp pain in my bicep,sharp pain bicep
+623,there's a sharp pain in my bicep i've tried to apply pain relief cream but it does not help,0.98762906,1249120_18172663_99380885.wav,orthopedy,1.0,Yes,19,theres a sharp pain in my bicep ive tried to apply pain relief cream but it does not help,theres sharp pain bicep ive tried apply pain relief cream help
+624,daddy just sharp pain in my scalp,0.93168175,1249120_43788827_97797352.wav,orthopedy,0.0,Yes,7,daddy just sharp pain in my scalp,daddy sharp pain scalp
+625,there is a shopping in my ear whenever i do this,0.98481542,1249120_43612961_11753185.wav,otorhinolaryngology,0.0,Yes,11,there is a shopping in my ear whenever i do this,shopping ear whenever
+626,there is a tingling sensation in my neck,0.987629,1249120_41956733_75287631.wav,orthopedy,0.0,Yes,8,there is a tingling sensation in my neck,tingling sensation neck
+627,there is acne on my face,0.97425836,1249120_22423108_36981402.wav,dermatology,0.0,Yes,6,there is acne on my face,acne face
+628,there is an extreme pressure below my belly button at the right which i feel every time i go out for a jog,0.94460303,1249120_22423108_58060969.wav,general,0.0,Yes,23,there is an extreme pressure below my belly button at the right which i feel every time i go out for a jog,extreme pressure belly button right feel every time go jog
+629,there is an injured person,0.98762906,1249120_43612961_95318810.wav,wound care,1.0,Yes,5,there is an injured person,injured person
+630,there is pain in my joints i cannot burping,0.94104934,1249120_43612961_13180273.wav,rheumatology,0.0,Yes,9,there is pain in my joints i cannot burping,pain joints cannot burping
+631,there is pain in the muscles i do not know caused,0.97141176,1249120_44140394_42550429.wav,orthopedy,0.0,Yes,11,there is pain in the muscles i do not know caused,pain muscles know caused
+632,there's so much pain when i move my arm,0.94693595,1249120_18172663_15515265.wav,orthopedy,1.0,Yes,9,theres so much pain when i move my arm,theres much pain move arm
+633,there is this pain that radiates from my chest up to my left arm,0.98160183,1249120_36929821_24419265.wav,cardiology,1.0,Yes,14,there is this pain that radiates from my chest up to my left arm,pain radiates chest left arm
+634,there must be something wrong with my blood circulation i have to wear socks even on the hottest days my toes are frozen,0.987629,1249120_6338946_90024404.wav,general,1.0,Yes,23,there must be something wrong with my blood circulation i have to wear socks even on the hottest days my toes are frozen,must something wrong blood circulation wear socks even hottest days toes frozen
+635,there's pain in my foot,0.98762906,1249120_35350617_65569556.wav,orthopedy,0.0,Yes,5,theres pain in my foot,theres pain foot
+636,dad is soiling in my neck and it hurts,0.98762906,1249120_44142156_10833572.wav,orthopedy,1.0,Yes,9,dad is soiling in my neck and it hurts,dad soiling neck hurts
+638,this long scar on my left buttock is from falling off my mountain bike,0.91031015,1249120_38202325_85052531.wav,orthopedy,0.0,Yes,14,this long scar on my left buttock is from falling off my mountain bike,long scar left buttock falling mountain bike
+640,what helps scars heal faster,0.98762906,1249120_39142299_27108997.wav,wound care,0.0,Yes,5,what helps scars heal faster,helps scars heal faster
+641,what's the symptoms of appendicitis,0.99418765,1249120_43698316_61998620.wav,general,1.0,Yes,5,whats the symptoms of appendicitis,whats symptoms appendicitis
+642,when i get up i found that i have a stomach ache and i tried to take my medicine but my stomach still hurting me,0.98134303,1249120_18172663_84268084.wav,gastroenterology,1.0,Yes,25,when i get up i found that i have a stomach ache and i tried to take my medicine but my stomach still hurting me,get found stomach ache tried take medicine stomach still hurting
+643,when i bend over i get a shooting pain down my back,0.987629,1249120_19425875_30353984.wav,physiatry,1.0,Yes,12,when i bend over i get a shooting pain down my back,bend get shooting pain back
+644,when i brush my hair i noticed the performing arts in the brush,0.9075473,1249120_43918153_12929625.wav,dermatology,1.0,Yes,13,when i brush my hair i noticed the performing arts in the brush,brush hair noticed performing arts brush
+645,when i carry heavy things i feel like breaking my back,0.987629,1249120_28006404_19542824.wav,physiatry,0.0,Yes,11,when i carry heavy things i feel like breaking my back,carry heavy things feel like breaking back
+646,when i do hard exercises i feel great pain in my muscles,0.98864478,1249120_15004831_108516031.wav,orthopedy,0.0,Yes,12,when i do hard exercises i feel great pain in my muscles,hard exercises feel great pain muscles
+647,when i drink a lot i get architect,0.93934143,1249120_42554554_20206350.wav,general,0.0,Yes,8,when i drink a lot i get architect,drink lot get architect
+648,when i eat i feel my stomach hurts,0.987629,1249120_38202325_70574927.wav,gastroenterology,1.0,Yes,8,when i eat i feel my stomach hurts,eat feel stomach hurts
+649,when i eat sugar i noticed my vision plus,0.95520431,1249120_40184183_68248494.wav,ophtalmology,1.0,Yes,9,when i eat sugar i noticed my vision plus,eat sugar noticed vision plus
+650,when i eat too much sugar my body gets weak and dizzy,0.987629,1249120_40184183_105834820.wav,general,0.0,Yes,12,when i eat too much sugar my body gets weak and dizzy,eat much sugar body gets weak dizzy
+651,when i extend my leg there is pain in knee joint,0.97538906,1249120_38042052_62855155.wav,rheumatology,1.0,Yes,11,when i extend my leg there is pain in knee joint,extend leg pain knee joint
+652,when i force my eyes to view i have blurry vision,0.97093987,1249120_14353703_109462228.wav,ophtalmology,1.0,Yes,11,when i force my eyes to view i have blurry vision,force eyes view blurry vision
+653,when it get out of bed in the morning my body feels very weak,0.987629,1249120_41150153_34847384.wav,general,0.0,Yes,14,when it get out of bed in the morning my body feels very weak,get bed morning body feels weak
+654,when i get up i see my skin bag,0.98554164,1249120_38202325_106074244.wav,dermatology,0.0,Yes,9,when i get up i see my skin bag,get see skin bag
+655,when i get up i feel dizzy and fall down,0.98762906,1249120_35154350_86460796.wav,general,1.0,Yes,10,when i get up i feel dizzy and fall down,get feel dizzy fall
+656,when i go to sleep i'm feeling cold,0.987629,1249120_43172391_42569776.wav,general,0.0,Yes,8,when i go to sleep im feeling cold,go sleep im feeling cold
+657,when i go to stand my head starts swirling,0.94620556,1249120_43620482_81814046.wav,general,1.0,Yes,9,when i go to stand my head starts swirling,go stand head starts swirling
+658,when i lift my arms up i have a soreness in my shoulders,0.987629,1249120_19425875_50154428.wav,orthopedy,1.0,Yes,13,when i lift my arms up i have a soreness in my shoulders,lift arms soreness shoulders
+659,when i move my shoulder it's like lightning is being sent through my shoulder,0.95768923,1249120_18386513_14849968.wav,orthopedy,1.0,Yes,14,when i move my shoulder its like lightning is being sent through my shoulder,move shoulder like lightning sent shoulder
+660,when i move my shoulder pain shoots down my arm,0.98762906,1249120_19425875_54714144.wav,orthopedy,1.0,Yes,10,when i move my shoulder pain shoots down my arm,move shoulder pain shoots arm
+661,when i play football i have joint pain,0.987629,1249120_35197064_83703590.wav,rheumatology,0.0,Yes,8,when i play football i have joint pain,play football joint pain
+662,when i play football i have muscle pain,0.97909158,1249120_30766630_83919463.wav,orthopedy,0.0,Yes,8,when i play football i have muscle pain,play football muscle pain
+663,when i play sports i have some burning sensation in my spine,0.987629,1249120_33905644_17603413.wav,physiatry,1.0,Yes,12,when i play sports i have some burning sensation in my spine,play sports burning sensation spine
+664,when i played football i dislocated my shoulder,0.95686734,1249120_18172663_30567709.wav,orthopedy,1.0,Yes,8,when i played football i dislocated my shoulder,played football dislocated shoulder
+665,when i raise my hand i feel pain in my shoulder,0.96321398,1249120_14353703_99001242.wav,orthopedy,1.0,Yes,11,when i raise my hand i feel pain in my shoulder,raise hand feel pain shoulder
+666,when i remember how i feel down,0.987629,1249120_43612961_52780930.wav,psycology,0.0,Yes,7,when i remember how i feel down,remember feel
+667,when i sneeze very hard i feel earache,0.97017753,1249120_22423108_56376370.wav,otorhinolaryngology,0.0,Yes,8,when i sneeze very hard i feel earache,sneeze hard feel earache
+668,when i stand i feel dizzy i do not know why,0.987629,1249120_43604449_55847694.wav,general,1.0,Yes,11,when i stand i feel dizzy i do not know why,stand feel dizzy know
+669,when i stand up my vision is blurry,0.96543396,1249120_20518958_79953861.wav,ophtalmology,0.0,Yes,8,when i stand up my vision is blurry,stand vision blurry
+670,when i stand up too quickly i feel as though i'm going to faint,0.987629,1249120_43577102_30000892.wav,general,0.0,Yes,14,when i stand up too quickly i feel as though im going to faint,stand quickly feel though im going faint
+671,when i stand up too quickly i start to feel dizzy and lightheaded,0.98833525,1249120_40419625_101061145.wav,general,0.0,Yes,13,when i stand up too quickly i start to feel dizzy and lightheaded,stand quickly start feel dizzy lightheaded
+672,when i stand up i feel like i'm going to fall down instantly,0.987629,1249120_30766630_16483624.wav,general,1.0,Yes,13,when i stand up i feel like im going to fall down instantly,stand feel like im going fall instantly
+673,when i think of my parents i feel pain,0.96491963,1249120_6338946_71387965.wav,psycology,0.0,Yes,9,when i think of my parents i feel pain,think parents feel pain
+674,when i tried to answer the phone call i found that i can hear the voice of the speaker,0.96111852,1249120_43172391_30380825.wav,otorhinolaryngology,0.0,Yes,19,when i tried to answer the phone call i found that i can hear the voice of the speaker,tried answer phone call found hear voice speaker
+675,when i tried to be warm and wear more clothes i found that i was still cold,0.98762906,1249120_44140394_58611766.wav,general,0.0,Yes,17,when i tried to be warm and wear more clothes i found that i was still cold,tried warm wear clothes found still cold
+676,when i try to take care if my hair i found that it was falling out,0.987629,1249120_29672643_42421014.wav,dermatology,0.0,Yes,16,when i try to take care if my hair i found that it was falling out,try take care hair found falling
+677,when i wake up i am feeling cold,0.987629,1249120_19425875_56371974.wav,general,0.0,Yes,8,when i wake up i am feeling cold,wake feeling cold
+678,when i wake up in the morning i feel a soreness in my body,0.97877735,1249120_43577102_51802604.wav,orthopedy,0.0,Yes,14,when i wake up in the morning i feel a soreness in my body,wake morning feel soreness body
+679,when i wake up in the morning i feel dizzy,0.98762906,1249120_43316708_26840666.wav,general,0.0,Yes,10,when i wake up in the morning i feel dizzy,wake morning feel dizzy
+680,when i walk i get a stabbing pain in the top of my foot,0.95391816,1249120_43604449_59605188.wav,orthopedy,1.0,Yes,14,when i walk i get a stabbing pain in the top of my foot,walk get stabbing pain top foot
+681,when i walk it's hard to breathe,0.9539215,1249120_43857865_49221890.wav,ER,1.0,Yes,7,when i walk its hard to breathe,walk hard breathe
+682,when i walk up a flight of stairs my right knee hurts,0.987629,1249120_43402738_22269682.wav,orthopedy,1.0,Yes,12,when i walk up a flight of stairs my right knee hurts,walk flight stairs right knee hurts
+683,when i was washing my hair is was failing of the heavily,0.97107011,1249120_33251186_79405442.wav,dermatology,1.0,Yes,12,when i was washing my hair is was failing of the heavily,washing hair failing heavily
+684,when i was young i had an injury from sports in my knee,0.987629,1249120_41203338_73002436.wav,orthopedy,0.0,Yes,13,when i was young i had an injury from sports in my knee,young injury sports knee
+685,when i'm awake in the morning i feel strange and have vertigo,0.96229005,1249120_43698316_18502702.wav,general,1.0,Yes,12,when im awake in the morning i feel strange and have vertigo,im awake morning feel strange vertigo
+686,when i'm doing sport i have pain under my skin,0.98762906,1249120_43856216_38570732.wav,orthopedy,0.0,Yes,10,when im doing sport i have pain under my skin,im sport pain skin
+687,when i'm driving my eyes seeing double,0.987629,1249120_43402738_96779187.wav,ophtalmology,1.0,Yes,7,when im driving my eyes seeing double,im driving eyes seeing double
+688,when i'm tired i feel my head heavy,0.987629,1249120_43402738_30245724.wav,general,0.0,Yes,8,when im tired i feel my head heavy,im tired feel head heavy
+689,when i am high i start to feel dizzy,0.95745331,1249120_29672643_42747972.wav,general,0.0,Yes,9,when i am high i start to feel dizzy,high start feel dizzy
+690,when my grandfather died i felt a hard emotional pain,0.98762906,1249120_38042052_51397205.wav,psycology,0.0,Yes,10,when my grandfather died i felt a hard emotional pain,grandfather died felt hard emotional pain
+691,whenever i stand up i feel dizzy,0.987629,1249120_40725179_76574514.wav,general,1.0,Yes,7,whenever i stand up i feel dizzy,whenever stand feel dizzy
+692,why is my shoulder aching when i try to pick up the laundry,0.987629,1249120_22423108_32755063.wav,orthopedy,1.0,Yes,13,why is my shoulder aching when i try to pick up the laundry,shoulder aching try pick laundry
+693,yesterday i had a shoulder pain,0.98841476,1249120_41203338_74291763.wav,orthopedy,0.0,Yes,6,yesterday i had a shoulder pain,yesterday shoulder pain
+694,you won't believe me but this infected wound on my hand is from a paper cut i didn't take seriously,0.91606301,1249120_30766630_42880428.wav,wound care,1.0,Yes,20,you wont believe me but this infected wound on my hand is from a paper cut i didnt take seriously,wont believe infected wound hand paper cut didnt take seriously
