@@ -1,0 +1,573 @@
+text,severity,prompt
+I have a severe sore throat and can't swallow.,1,Otorhinolaryngology
+"I noticed a large, painful lump on my neck.",1,General
+I have been experiencing intense chest pain.,1,Cardiology
+My child has been complaining of severe abdominal pain.,1,Gastroenterology
+I have been feeling extremely fatigued and weak.,0,General
+I accidentally burned my hand with boiling water.,0,Wound Care
+I have been having persistent vomiting and diarrhea.,1,Gastroenterology
+"I have a sharp, stabbing pain in my lower back.",0,Orthopedy
+I have been feeling extremely anxious and panicky.,0,Psychology
+I accidentally ingested a toxic substance.,1,ER
+I have been experiencing severe headaches and dizziness.,1,Rheumatology
+I have a deep cut on my hand that won't stop bleeding.,1,Wound Care
+I have a persistent cough with blood in my phlegm.,1,ER
+I woke up with severe chest pain and difficulty breathing.,1,Cardiology
+I have a severe allergic reaction with hives all over my body.,1,Dermatology
+I fell down the stairs and twisted my ankle.,0,Orthopedy
+I have been experiencing severe joint pain and stiffness.,1,Rheumatology
+I have a severe migraine with sensitivity to light and sound.,1,ER
+I accidentally cut my finger with a knife and it's deep.,1,Wound Care
+I have severe abdominal cramps and diarrhea.,1,Gastroenterology
+I have a high fever and severe body aches.,1,General
+I woke up with a rash all over my body.,0,Dermatology
+I twisted my ankle and it's swollen.,0,Orthopedy
+I have a persistent cough and difficulty breathing.,1,General
+My child has a high temperature and is vomiting.,1,General
+I accidentally cut myself with a kitchen knife and it's deep.,1,Wound Care
+I have a throbbing headache that won't go away.,0,General
+I have been feeling extremely anxious and restless.,0,Psychology
+I have severe abdominal pain and diarrhea.,1,Gastroenterology
+"I fell and hit my head, and now I have a severe headache.",1,ER
+I have a severe toothache and my jaw is swollen.,1,ER
+I have been experiencing severe back pain.,1,Orthopedy
+"I have a persistent, dry cough and shortness of breath.",1,General
+My child has a deep cut on their arm that won't stop bleeding.,1,Wound Care
+I have severe pain and stiffness in my joints.,1,Rheumatology
+I am having severe difficulty breathing.,1,ER
+I have severe abdominal bloating and constipation.,1,Gastroenterology
+I fell down the stairs and hurt my back.,0,Orthopedy
+I have been experiencing severe anxiety attacks.,1,Psychology
+I have severe pain in my chest when I breathe deeply.,1,Cardiology
+I have a severe migraine with visual disturbances.,1,General
+I accidentally burned my hand with hot oil.,0,Wound Care
+I have severe abdominal cramps and vomiting.,1,Gastroenterology
+I have a severe allergic reaction and my throat feels tight.,1,ER
+I have severe pain in my shoulder and can't move it.,1,Orthopedy
+I have been feeling extremely depressed and hopeless.,0,Psychology
+I have severe pain in my hip when I walk.,1,Orthopedy
+I accidentally got a chemical in my eye and it's burning.,1,ER
+I have severe abdominal pain on the right side.,1,Gastroenterology
+I have a severe sunburn with blistering.,1,Dermatology
+I twisted my wrist and it's swollen and painful.,0,Orthopedy
+"I have a persistent, dry cough and fatigue.",1,General
+I have been feeling extremely stressed and overwhelmed.,0,Psychology
+I have severe pain in my knee after a fall.,1,Orthopedy
+I have a severe sinus headache with facial pressure.,1,Otorhinolaryngology
+I accidentally cut my finger and it won't stop bleeding.,1,Wound Care
+I have severe chest tightness and difficulty breathing.,1,ER
+I have a severe tooth infection and my face is swollen.,1,ER
+I have been experiencing severe muscle cramps and spasms.,1,Physiatry
+I have a severe allergic reaction with swelling all over my body.,1,ER
+I have severe pain in my elbow and can't move it.,1,Orthopedy
+I have been feeling extremely anxious and having panic attacks.,1,Psychology
+I have severe pain in my lower back and it radiates down my leg.,1,Orthopedy
+I accidentally swallowed a large object.,1,ER
+I have severe menstrual cramps and heavy bleeding.,1,General
+I have a severe eye infection and it's red and swollen.,1,Ophthalmology
+I have severe abdominal pain after eating.,1,Gastroenterology
+I have a severe skin rash that is spreading rapidly.,1,Dermatology
+I twisted my ankle and it's extremely painful.,1,Orthopedy
+I have been experiencing severe shortness of breath and wheezing.,1,General
+I have severe pain in my wrist after a fall.,1,Orthopedy
+I have a severe panic attack and feel like I'm losing control.,1,Psychology
+I have severe pain in my neck and can't turn my head.,1,Orthopedy
+I have severe acne breakouts and it's affecting my self-esteem.,0,Dermatology
+I've been feeling extremely anxious and having panic attacks.,1,Psychology
+I have severe abdominal pain and frequent diarrhea.,1,Gastroenterology
+I twisted my ankle and it's swollen.,0,Orthopedy
+I have severe joint pain and stiffness in my hands.,1,Rheumatology
+I have a severe chest pain and shortness of breath.,1,Cardiology
+I accidentally got a foreign object stuck in my eye.,1,Ophthalmology
+I have a severe wound that is not healing properly.,1,Wound Care
+I have severe throat pain and difficulty swallowing.,1,Otorhinolaryngology
+"I fell and hurt my back, and now I have severe lower back pain.",1,Physiatry
+I have severe eczema flare-ups all over my body.,0,Dermatology
+I've been feeling extremely depressed and hopeless.,0,Psychology
+I have severe abdominal bloating and gas.,1,Gastroenterology
+I twisted my knee and it's extremely painful.,1,Orthopedy
+I have severe pain and inflammation in my joints.,1,Rheumatology
+I'm experiencing severe chest tightness and palpitations.,1,Cardiology
+I accidentally got a chemical splashed in my eyes.,1,Ophthalmology
+I have a severe wound that requires immediate attention.,1,Wound Care
+I have severe nasal congestion and difficulty breathing.,1,Otorhinolaryngology
+"I fell and hurt my shoulder, and now I have severe shoulder pain.",1,Orthopedy
+I have severe phobias and panic attacks.,1,Psychology
+I have severe abdominal pain and bloody stools.,1,Gastroenterology
+I twisted my wrist and it's extremely swollen.,1,Orthopedy
+I have severe muscle pain and stiffness all over my body.,1,Rheumatology
+I'm experiencing severe chest discomfort and shortness of breath.,1,Cardiology
+I accidentally got a foreign body lodged in my nose.,1,Otorhinolaryngology
+I have a severe burn that needs immediate treatment.,1,Wound Care
+I have severe ear pain and difficulty hearing.,1,Otorhinolaryngology
+"I fell and injured my hip, and now I have severe hip pain.",1,Orthopedy
+I have severe anxiety and panic attacks.,1,Psychology
+I have severe abdominal pain and vomiting blood.,1,Gastroenterology
+I twisted my ankle and it's causing severe pain.,1,Orthopedy
+I have severe joint inflammation and swelling.,1,Rheumatology
+I'm experiencing severe heart palpitations and chest discomfort.,1,Cardiology
+I accidentally got a foreign object stuck in my ear.,1,Otorhinolaryngology
+I have a severe wound that is bleeding heavily.,1,Wound Care
+I have severe sinus congestion and facial pain.,1,Otorhinolaryngology
+"I fell and injured my elbow, and now I have severe elbow pain.",1,Orthopedy
+I have severe phobias and fear of social situations.,1,Psychology
+I have severe abdominal pain and yellowing of the skin.,1,Gastroenterology
+I twisted my wrist and it's causing severe discomfort.,1,Orthopedy
+I have severe joint pain and swelling in my knees.,1,Rheumatology
+I'm experiencing severe dizziness and fainting episodes.,1,Cardiology
+I accidentally got a foreign object stuck in my throat.,1,Otorhinolaryngology
+I have a severe wound that won't stop bleeding.,1,Wound Care
+I have severe eye pain and blurred vision.,1,Ophthalmology
+"I fell and injured my knee, and now I have severe knee pain.",1,Orthopedy
+I have severe phobias and fear of flying.,1,Psychology
+I have severe abdominal pain and loss of appetite.,1,Gastroenterology
+I twisted my ankle and it's causing severe swelling.,1,Orthopedy
+I have severe joint stiffness and limited range of motion.,1,Rheumatology
+I'm experiencing severe chest pain and shortness of breath.,1,Cardiology
+I have a mild headache and slight fatigue.,0,General
+I woke up with a minor sore throat.,0,Otorhinolaryngology
+"I accidentally cut my finger, but it's not deep.",0,Wound Care
+I have occasional stomach cramps after eating.,0,Gastroenterology
+"I sprained my ankle, but it's not swollen.",0,Orthopedy
+I have a mild rash on my arm.,0,Dermatology
+I'm feeling a bit down and unmotivated lately.,0,Psychology
+I have occasional acid reflux after meals.,0,Gastroenterology
+I have a minor wrist pain after exercising.,0,Orthopedy
+I occasionally experience joint stiffness.,0,Rheumatology
+I feel a slight palpitation in my chest.,0,Cardiology
+I have dry eyes in the mornings.,0,Ophthalmology
+I have a minor scrape on my knee.,0,Wound Care
+I occasionally have a stuffy nose.,0,Otorhinolaryngology
+I have occasional back pain after sitting for long hours.,0,Physiatry
+I have a mild case of acne on my forehead.,0,Dermatology
+I feel a bit overwhelmed with work and stress.,0,Psychology
+I occasionally experience mild indigestion.,0,Gastroenterology
+I have a minor sprain in my finger.,0,Orthopedy
+I sometimes have mild joint discomfort.,0,Rheumatology
+I occasionally experience mild chest tightness.,0,Cardiology
+I have occasional dryness and irritation in my eyes.,0,Ophthalmology
+I have a small cut on my hand.,0,Wound Care
+I occasionally have a mild sore throat.,0,Otorhinolaryngology
+I have occasional back pain after lifting heavy objects.,0,Physiatry
+I have a few small pimples on my chin.,0,Dermatology
+I'm feeling a bit stressed and anxious.,0,Psychology
+I occasionally experience mild stomach discomfort.,0,Gastroenterology
+I have a slight pain in my ankle.,0,Orthopedy
+I sometimes have mild joint stiffness in the mornings.,0,Rheumatology
+I occasionally feel a slight flutter in my heart.,0,Cardiology
+I have occasional dry eyes during the day.,0,Ophthalmology
+I have a small scrape on my elbow.,0,Wound Care
+I occasionally have a runny nose.,0,Otorhinolaryngology
+I occasionally experience mild back pain.,0,Physiatry
+I have a minor allergic reaction on my arm.,0,Dermatology
+I'm feeling a bit down and emotionally drained.,0,Psychology
+I occasionally have mild bloating after eating.,0,Gastroenterology
+I have a slight discomfort in my wrist.,0,Orthopedy
+I sometimes have mild joint pain in my knees.,0,Rheumatology
+I occasionally feel a slight tightness in my chest.,0,Cardiology
+I have occasional dry eyes in the evening.,0,Ophthalmology
+I have a small bruise on my leg.,0,Wound Care
+I occasionally have a scratchy throat.,0,Otorhinolaryngology
+I occasionally experience mild lower back pain.,0,Physiatry
+I have a minor skin irritation on my neck.,0,Dermatology
+I'm feeling a bit overwhelmed and need someone to talk to.,0,Psychology
+I occasionally have mild stomach bloating.,0,Gastroenterology
+I have a slight discomfort in my shoulder.,0,Orthopedy
+I sometimes have mild joint swelling in my fingers.,0,Rheumatology
+I occasionally feel a slight chest pressure.,0,Cardiology
+I have occasional dry eyes when working on the computer.,0,Ophthalmology
+I have a small scrape on my knee.,0,Wound Care
+I occasionally have a mild sore throat in the morning.,0,Otorhinolaryngology
+I occasionally experience mild muscle soreness.,0,Physiatry
+I have a high fever and severe body aches.,1,General
+I woke up with a rash all over my body.,0,Dermatology
+I twisted my ankle and it's swollen.,0,Orthopedy
+I have a persistent cough and difficulty breathing.,1,General
+My child has a high temperature and is vomiting.,1,General
+I accidentally cut myself with a kitchen knife and it's deep.,1,Wound Care
+I have a throbbing headache that won't go away.,0,General
+I feel a sharp pain in my chest when breathing deeply.,1,Cardiology
+I have severe abdominal pain and diarrhea.,1,Gastroenterology
+I fell and hurt my wrist; it's swollen and bruised.,1,Orthopedy
+I have a skin lesion that is rapidly growing.,1,Dermatology
+I'm feeling extremely anxious and having panic attacks.,1,Psychology
+I have severe heartburn and regurgitation.,1,Gastroenterology
+"I injured my knee while playing sports, and it's unstable.",1,Orthopedy
+I have severe joint pain and stiffness in the mornings.,1,Rheumatology
+I have chest pain and shortness of breath.,1,Cardiology
+I have sudden vision loss in one eye.,1,Ophthalmology
+I accidentally burned myself with hot water.,1,Wound Care
+I have severe ear pain and hearing loss.,1,Otorhinolaryngology
+I can't move my arm after a fall; it's very painful.,1,Orthopedy
+I have severe anxiety and panic attacks.,1,Psychology
+I have severe stomach cramps and blood in my stool.,1,Gastroenterology
+I twisted my ankle and it's very swollen.,1,Orthopedy
+I have a severe skin rash that is spreading rapidly.,1,Dermatology
+I'm feeling extremely depressed and having thoughts of self-harm.,1,Psychology
+I have severe acid reflux with throat burning.,1,Gastroenterology
+I have severe back pain after lifting heavy objects.,1,Physiatry
+I have a deep cut on my hand; it won't stop bleeding.,1,Wound Care
+I have severe joint swelling and redness.,1,Rheumatology
+I have severe chest tightness and difficulty breathing.,1,Cardiology
+I have sudden double vision and dizziness.,1,Ophthalmology
+I accidentally burned my arm with hot oil.,1,Wound Care
+I have severe sinus congestion and facial pain.,1,Otorhinolaryngology
+I can't move my leg after a fall; it's very painful.,1,Orthopedy
+I have severe phobia and panic attacks.,1,Psychology
+I have severe abdominal bloating and discomfort.,1,Gastroenterology
+I have severe shoulder pain after a fall.,1,Orthopedy
+I have a severe skin infection with pus and redness.,1,Dermatology
+I'm experiencing severe mood swings and irritability.,1,Psychology
+I have severe indigestion and frequent burping.,1,Gastroenterology
+I have severe hip pain that limits my movement.,1,Orthopedy
+I have a severe allergic reaction with difficulty breathing.,1,ER
+I have severe muscle weakness and fatigue.,1,General
+I have severe lower back pain and radiating leg pain.,1,Physiatry
+I have a severe cut on my foot that needs stitches.,1,Wound Care
+I have severe joint stiffness and swelling.,1,Rheumatology
+I have severe heart palpitations and chest discomfort.,1,Cardiology
+I have sudden blurred vision in both eyes.,1,Ophthalmology
+I accidentally burned my hand with hot metal.,1,Wound Care
+I have severe throat pain and difficulty swallowing.,1,Otorhinolaryngology
+I can't move my neck after a car accident; it's very painful.,1,Orthopedy
+I have severe anxiety and panic attacks at night.,1,Psychology
+I have severe abdominal pain and vomiting.,1,Gastroenterology
+I have severe knee pain after running.,1,Orthopedy
+I have a severe skin rash with itching and blisters.,1,Dermatology
+I'm feeling extremely stressed and overwhelmed.,1,Psychology
+I have severe constipation and bloating.,1,Gastroenterology
+I have severe wrist pain after a fall.,1,Orthopedy
+I have a high fever and severe body aches.,1,General
+I woke up with a rash all over my body.,0,Dermatology
+I twisted my ankle and it's swollen.,0,Orthopedy
+I have a persistent cough and difficulty breathing.,1,General
+My child has a high temperature and is vomiting.,1,General
+I accidentally cut myself with a kitchen knife and it's deep.,1,Wound Care
+I have a throbbing headache that won't go away.,0,General
+I feel a sharp pain in my chest when breathing deeply.,1,Cardiology
+I have severe abdominal pain and diarrhea.,1,Gastroenterology
+I fell and hurt my wrist; it's swollen and bruised.,1,Orthopedy
+I have a skin lesion that is rapidly growing.,1,Dermatology
+I'm feeling extremely anxious and having panic attacks.,1,Psychology
+I have severe heartburn and regurgitation.,1,Gastroenterology
+"I injured my knee while playing sports, and it's unstable.",1,Orthopedy
+I have severe joint pain and stiffness in the mornings.,1,Rheumatology
+I have chest pain and shortness of breath.,1,Cardiology
+I have sudden vision loss in one eye.,1,Ophthalmology
+I accidentally burned myself with hot water.,1,Wound Care
+I have severe ear pain and hearing loss.,1,Otorhinolaryngology
+I can't move my arm after a fall; it's very painful.,1,Orthopedy
+I have severe anxiety and panic attacks.,1,Psychology
+I have severe stomach cramps and blood in my stool.,1,Gastroenterology
+I twisted my ankle and it's very swollen.,1,Orthopedy
+I have a severe skin rash that is spreading rapidly.,1,Dermatology
+I'm feeling extremely depressed and having thoughts of self-harm.,1,Psychology
+I have severe acid reflux with throat burning.,1,Gastroenterology
+I have severe back pain after lifting heavy objects.,1,Physiatry
+I have a deep cut on my hand; it won't stop bleeding.,1,Wound Care
+I have severe joint swelling and redness.,1,Rheumatology
+I have severe chest tightness and difficulty breathing.,1,Cardiology
+I have sudden double vision and dizziness.,1,Ophthalmology
+I accidentally burned my arm with hot oil.,1,Wound Care
+I have severe sore throat and difficulty swallowing.,1,Otorhinolaryngology
+I can't move my neck after a fall; it's very painful.,1,Orthopedy
+I have severe phobia and panic attacks.,1,Psychology
+I have severe abdominal bloating and discomfort.,1,Gastroenterology
+I have severe knee pain after running.,1,Orthopedy
+I have a severe skin infection with pus and redness.,1,Dermatology
+I'm feeling extremely stressed and overwhelmed.,1,Psychology
+I have severe indigestion and frequent burping.,1,Gastroenterology
+I have severe wrist pain after a fall.,1,Orthopedy
+I have a mild headache that goes away with rest.,0,General
+"I have occasional palpitations, but they go away quickly.",0,Cardiology
+I have mild bloating after meals.,0,Gastroenterology
+I have a minor sprained ankle; it's slightly swollen.,0,Orthopedy
+I have a small skin rash that is not spreading.,0,Dermatology
+I'm feeling slightly anxious and have trouble sleeping.,0,Psychology
+I have occasional heartburn after spicy food.,0,Gastroenterology
+I strained my muscle while exercising; it's mildly painful.,0,Physiatry
+"I have a small cut on my finger, but it's not deep.",0,Wound Care
+I have mild joint stiffness in the mornings.,0,Rheumatology
+I have occasional chest discomfort after exertion.,0,Cardiology
+I occasionally experience dry eyes.,0,Ophthalmology
+I burned my finger lightly while cooking.,0,Wound Care
+I have occasional ear pain after swimming.,0,Otorhinolaryngology
+I can't fully extend my elbow after playing tennis.,0,Orthopedy
+I sometimes feel a bit anxious but can manage it.,0,Psychology
+I have occasional stomach discomfort after eating.,0,Gastroenterology
+I have mild knee pain after running.,0,Orthopedy
+I have a small skin rash with mild itching.,0,Dermatology
+I'm feeling slightly stressed with work.,0,Psychology
+I occasionally have mild bloating.,0,Gastroenterology
+I have occasional wrist pain after typing.,0,Orthopedy
+I have a severe skin rash that is spreading rapidly.,1,Dermatology
+I'm feeling slightly depressed and unmotivated.,0,Psychology
+I have mild stomach cramps and occasional diarrhea.,0,Gastroenterology
+"I sprained my ankle, but it's not too swollen.",0,Orthopedy
+I have a small mole on my arm that has changed color.,1,Dermatology
+I'm feeling a bit anxious and have trouble focusing.,0,Psychology
+I have occasional heartburn after eating spicy food.,0,Gastroenterology
+"I strained my muscle while exercising, but it's not severe.",0,Physiatry
+"I accidentally scratched my hand, but it's not deep.",0,Wound Care
+I have occasional joint pain that goes away quickly.,0,Rheumatology
+"I have occasional chest discomfort, but it's not severe.",0,Cardiology
+"I occasionally experience dry eyes, but it's not bothersome.",0,Ophthalmology
+"I burned my finger lightly, but it's not a serious burn.",0,Wound Care
+I have occasional ear pain after loud noises.,0,Otorhinolaryngology
+I can't fully extend my elbow after playing sports.,0,Orthopedy
+"I sometimes feel a bit down, but it doesn't last long.",0,Psychology
+I have occasional stomach discomfort after certain foods.,0,Gastroenterology
+I have mild knee pain after long walks.,0,Orthopedy
+I have a small skin rash with mild itching.,0,Dermatology
+I'm feeling slightly overwhelmed with my workload.,0,Psychology
+I occasionally have mild bloating after eating.,0,Gastroenterology
+I have occasional wrist pain after typing for long periods.,0,Orthopedy
+I have a mild headache that goes away with rest.,0,General
+I occasionally have mild palpitations.,0,Cardiology
+I have occasional bloating after certain foods.,0,Gastroenterology
+"I sprained my finger, but it's not too painful.",0,Orthopedy
+I have a small patch of dry skin on my leg.,0,Dermatology
+I'm feeling a bit stressed with upcoming exams.,0,Psychology
+I have occasional indigestion after heavy meals.,0,Gastroenterology
+"I strained my back while lifting, but it's not too severe.",0,Physiatry
+"I have a minor cut on my finger, but it's not deep.",0,Wound Care
+I have occasional joint stiffness in the mornings.,0,Rheumatology
+I occasionally experience mild shortness of breath.,0,Cardiology
+I occasionally have dry eyes in the evening.,0,Ophthalmology
+"I accidentally burned my hand, but it's not a serious burn.",0,Wound Care
+I have occasional ear pain after using earphones.,0,Otorhinolaryngology
+I have mild elbow pain after playing tennis.,0,Orthopedy
+"I sometimes feel a bit anxious, but it's manageable.",0,Psychology
+I occasionally have mild stomach discomfort.,0,Gastroenterology
+I have mild knee pain after exercising.,0,Orthopedy
+I have a small skin rash that is not spreading.,0,Dermatology
+I'm feeling slightly stressed with work deadlines.,0,Psychology
+I occasionally have mild bloating after certain foods.,0,Gastroenterology
+I have occasional wrist pain after using the computer.,0,Orthopedy
+I have a mild headache that responds to painkillers.,0,General
+I occasionally have mild heart palpitations.,0,Cardiology
+I have occasional bloating after eating certain foods.,0,Gastroenterology
+"I sprained my finger, but it's not too painful.",0,Orthopedy
+I have a small patch of dry skin on my arm.,0,Dermatology
+I'm feeling a bit stressed with upcoming presentations.,0,Psychology
+I occasionally have mild indigestion after meals.,0,Gastroenterology
+"I strained my back while lifting, but it's not severe.",0,Physiatry
+"I have a minor cut on my finger, but it's not deep.",0,Wound Care
+I have occasional joint stiffness in the mornings.,0,Rheumatology
+I have a mild skin irritation that is not spreading.,0,Dermatology
+I'm feeling a bit overwhelmed with my emotions.,0,Psychology
+I have occasional stomach bloating after meals.,0,Gastroenterology
+"I twisted my wrist, but it's not too painful.",0,Orthopedy
+I have a small birthmark that has changed color.,0,Dermatology
+I'm feeling slightly stressed about an upcoming event.,0,Psychology
+I occasionally have mild acid reflux after eating.,0,Gastroenterology
+"I strained my muscle while exercising, but it's not severe.",0,Physiatry
+"I accidentally scratched my leg, but it's not deep.",0,Wound Care
+"I have occasional joint discomfort, but it's not severe.",0,Rheumatology
+"I occasionally feel a rapid heartbeat, but it goes away quickly.",0,Cardiology
+I sometimes experience mild eye redness.,0,Ophthalmology
+"I burned my arm lightly, but it's not a serious burn.",0,Wound Care
+I have occasional ear pressure after flying.,0,Otorhinolaryngology
+I can't fully extend my knee after jogging.,0,Orthopedy
+"I sometimes feel a bit down, but it doesn't last long.",0,Psychology
+I occasionally have mild stomach discomfort after certain foods.,0,Gastroenterology
+I have mild shoulder pain after lifting weights.,0,Orthopedy
+I have a small skin rash with mild redness.,0,Dermatology
+I'm feeling a bit anxious about an upcoming presentation.,0,Psychology
+I occasionally have mild bloating after eating certain foods.,0,Gastroenterology
+I have occasional hand pain after writing for long periods.,0,Orthopedy
+I have a mild headache that goes away with rest.,0,General
+I occasionally have mild heart palpitations.,0,Cardiology
+I have occasional bloating after certain meals.,0,Gastroenterology
+"I sprained my finger, but it's not too painful.",0,Orthopedy
+I have a small patch of dry skin on my back.,0,Dermatology
+I'm feeling a bit stressed with upcoming deadlines.,0,Psychology
+I occasionally have mild indigestion after certain foods.,0,Gastroenterology
+"I strained my back while lifting, but it's not severe.",0,Physiatry
+"I have a minor cut on my hand, but it's not deep.",0,Wound Care
+I have occasional joint stiffness in the evenings.,0,Rheumatology
+I occasionally have mild shortness of breath during exercise.,0,Cardiology
+I sometimes experience mild eye dryness.,0,Ophthalmology
+"I accidentally scraped my knee, but it's not a serious wound.",0,Wound Care
+I have occasional ear congestion after swimming.,0,Otorhinolaryngology
+I have occasional knee pain after playing sports.,0,Orthopedy
+"I occasionally feel a bit anxious, but it's manageable.",0,Psychology
+I occasionally have mild stomach cramps.,0,Gastroenterology
+I have mild wrist pain after typing for long periods.,0,Orthopedy
+I have a slight headache that subsides with rest.,0,General
+I occasionally have mild heartburn after eating spicy foods.,0,Gastroenterology
+"I strained my ankle, but it's not too painful.",0,Orthopedy
+I have a small patch of dry skin on my leg.,0,Dermatology
+I'm feeling slightly overwhelmed with work tasks.,0,Psychology
+I occasionally have mild bloating after certain meals.,0,Gastroenterology
+I have occasional hand pain after using the computer.,0,Orthopedy
+I have a mild headache that responds to over-the-counter painkillers.,0,General
+I occasionally have mild heart palpitations after exertion.,0,Cardiology
+I have occasional bloating after eating certain foods.,0,Gastroenterology
+"I sprained my finger, but it's not too painful.",0,Orthopedy
+I have a small patch of dry skin on my arm.,0,Dermatology
+I'm feeling a bit stressed with upcoming deadlines.,0,Psychology
+I occasionally have mild indigestion after meals.,0,Gastroenterology
+"I strained my back while lifting, but it's not severe.",0,Physiatry
+"I have a minor cut on my finger, but it's not deep.",0,Wound Care
+I have occasional joint stiffness in the mornings.,0,Rheumatology
+I occasionally have mild shortness of breath.,0,Cardiology
+I occasionally have dry eyes in the evening.,0,Ophthalmology
+"I accidentally burned my hand, but it's not a serious burn.",0,Wound Care
+I have occasional ear pain after using earphones.,0,Otorhinolaryngology
+I have mild elbow pain after playing tennis.,0,Orthopedy
+"I sometimes feel a bit anxious, but it's manageable.",0,Psychology
+I occasionally have mild stomach discomfort.,0,Gastroenterology
+I have mild knee pain after jogging.,0,Orthopedy
+I have a small patch of dry skin on my face.,0,Dermatology
+I'm feeling slightly overwhelmed with personal issues.,0,Psychology
+I occasionally have mild stomach bloating.,0,Gastroenterology
+I have occasional wrist pain after typing for long periods.,0,Orthopedy
+I have a mild headache that goes away with rest.,0,General
+I occasionally have mild heart palpitations after caffeine.,0,Cardiology
+I have occasional bloating after certain foods.,0,Gastroenterology
+"I sprained my ankle, but it's not too painful.",0,Orthopedy
+I have a small patch of dry skin on my hand.,0,Dermatology
+I'm feeling a bit stressed with personal relationships.,0,Psychology
+I occasionally have mild indigestion after eating.,0,Gastroenterology
+"I strained my back while lifting, but it's not too severe.",0,Physiatry
+"I have a minor cut on my arm, but it's not deep.",0,Wound Care
+I have occasional joint stiffness in the afternoon.,0,Rheumatology
+I occasionally experience mild shortness of breath.,0,Cardiology
+I occasionally have dry eyes during the day.,0,Ophthalmology
+"I accidentally cut my finger, but it's not a serious injury.",0,Wound Care
+I have occasional ear congestion after using earphones.,0,Otorhinolaryngology
+I have mild hip pain after walking for long periods.,0,Orthopedy
+"I sometimes feel a bit anxious, but it's not overwhelming.",0,Psychology
+I occasionally have mild stomach cramps after meals.,0,Gastroenterology
+I have mild ankle pain after playing sports.,0,Orthopedy
+I have a small patch of dry skin on my neck.,0,Dermatology
+I'm feeling slightly overwhelmed with academic stress.,0,Psychology
+I occasionally have mild stomach discomfort after eating certain foods.,0,Gastroenterology
+I have severe chest pain and difficulty breathing.,1,ER
+I accidentally swallowed a foreign object and I'm in pain.,1,ER
+I have severe bleeding from a wound that won't stop.,1,ER
+I have a severe allergic reaction with hives and swelling.,1,ER
+I have severe abdominal pain and vomiting.,1,ER
+I fell and hit my head and now I am experiencing dizziness.,1,ER
+I have severe difficulty speaking and swallowing.,1,Otorhinolaryngology
+I accidentally got a foreign object stuck in my ear.,1,Otorhinolaryngology
+I have severe nosebleeds that won't stop.,1,Otorhinolaryngology
+I have severe joint pain and swelling.,1,Rheumatology
+I have severe muscle weakness and fatigue.,1,Rheumatology
+I have severe difficulty moving my arm.,1,Physiatry
+I accidentally burned my hand and it is severely blistered.,1,Wound Care
+I have severe pain and swelling in my ankle.,1,Orthopedy
+I have severe migraines with visual disturbances.,1,ER
+I have severe eye pain and blurry vision.,1,Ophthalmology
+I have severe abdominal cramps and diarrhea.,1,Gastroenterology
+I have severe shortness of breath and wheezing.,1,Cardiology
+I have severe back pain and difficulty walking.,1,Physiatry
+I accidentally cut myself with a knife and it's deep.,1,Wound Care
+I have a severe fever and body aches.,1,General
+I accidentally swallowed a poisonous substance.,1,ER
+I have severe ear pain and discharge.,1,Otorhinolaryngology
+I have severe throat pain and difficulty swallowing.,1,Otorhinolaryngology
+I have severe joint stiffness and limited mobility.,1,Rheumatology
+I have severe chronic pain that is affecting my daily life.,1,Physiatry
+I accidentally burned myself with boiling water and it's severe.,1,Wound Care
+I have severe knee pain and swelling after an injury.,1,Orthopedy
+I have severe migraines with nausea and vomiting.,1,ER
+I have severe eye redness and itching.,1,Ophthalmology
+I have severe abdominal pain and bloating.,1,Gastroenterology
+I have severe chest discomfort and palpitations.,1,Cardiology
+I have severe back spasms and difficulty standing up.,1,Physiatry
+I accidentally cut myself with a rusty object and it's deep.,1,Wound Care
+I have severe flu-like symptoms with high fever.,1,General
+I accidentally ingested a toxic substance.,1,ER
+I have severe ear itching and discharge.,1,Otorhinolaryngology
+I have severe sinus pain and pressure.,1,Otorhinolaryngology
+I have severe joint swelling and redness.,1,Rheumatology
+I have severe muscle cramps and spasms.,1,Physiatry
+I accidentally cut myself with a sharp object and it's deep.,1,Wound Care
+I have severe ankle pain and difficulty walking.,1,Orthopedy
+I have severe migraines with aura.,1,ER
+I have severe eye discharge and sensitivity to light.,1,Ophthalmology
+I have severe abdominal pain and diarrhea.,1,Gastroenterology
+I have severe chest pain and shortness of breath.,1,Cardiology
+I have severe back pain and numbness in my legs.,1,Physiatry
+I accidentally cut myself with a rusty knife and it's deep.,1,Wound Care
+I have severe headache and dizziness.,1,ER
+I have severe eye irritation and watering.,1,Ophthalmology
+I have severe abdominal pain and constipation.,1,Gastroenterology
+I have severe heart palpitations and chest discomfort.,1,Cardiology
+I have severe lower back pain and difficulty bending.,1,Physiatry
+I accidentally cut myself with a glass shard and it's deep.,1,Wound Care
+I have severe shoulder pain and limited range of motion.,1,Orthopedy
+I have severe migraines with sensitivity to sound.,1,ER
+I have severe eye swelling and redness.,1,Ophthalmology
+I have severe abdominal pain and vomiting blood.,1,Gastroenterology
+I have severe shortness of breath and chest tightness.,1,Cardiology
+I have severe neck pain and difficulty turning my head.,1,Physiatry
+I accidentally cut myself with a sharp tool and it's deep.,1,Wound Care
+I have severe hip pain and difficulty walking.,1,Orthopedy
+I have severe migraines with aura and nausea.,1,ER
+I have severe eye pain and sensitivity to light.,1,Ophthalmology
+I have severe abdominal pain and blood in my stool.,1,Gastroenterology
+I have severe heartburn and chest discomfort.,1,Cardiology
+I have severe lower back pain and radiating leg pain.,1,Physiatry
+I accidentally cut myself with a rusty object and it is deep.,1,Wound Care
+I have severe wrist pain and difficulty gripping.,1,Orthopedy
+I have severe migraines with visual disturbances.,1,ER
+I have severe eye redness and itching.,1,Ophthalmology
+I have severe abdominal pain and bloating.,1,Gastroenterology
+I have severe chest discomfort and palpitations.,1,Cardiology
+I have severe back spasms and difficulty standing up.,1,Physiatry
+I have mild skin irritation and itching.,0,Dermatology
+I have mild stress and difficulty sleeping.,0,Psychology
+I have mild stomachache after eating.,0,Gastroenterology
+I have mild knee pain after running.,0,Orthopedy
+I have mild joint stiffness in the morning.,0,Rheumatology
+I have a mild cough and runny nose.,0,General
+I have mild eye redness and dryness.,0,Ophthalmology
+I have a mild cut on my finger.,0,Wound Care
+I have mild throat irritation.,0,Otorhinolaryngology
+I have mild backache from sitting too long.,0,Physiatry
+I have mild skin rash after using a new lotion.,0,Dermatology
+I have mild anxiety before public speaking.,0,Psychology
+I have mild stomach indigestion.,0,Gastroenterology
+I have mild ankle soreness from jogging.,0,Orthopedy
+I have mild joint pain after exercise.,0,Rheumatology
+I have a mild headache that comes and goes.,0,General
+I have mild eye fatigue from screen time.,0,Ophthalmology
+I have a mild scrape on my knee.,0,Wound Care
+I have mild nasal congestion.,0,Otorhinolaryngology
+I have mild muscle tightness in my back.,0,Physiatry
+I have mild dry skin on my hands.,0,Dermatology
+I have mild stress and difficulty concentrating.,0,Psychology
+I have mild stomach bloating after a heavy meal.,0,Gastroenterology
+I have mild wrist discomfort from typing.,0,Orthopedy
+I have mild joint aches in cold weather.,0,Rheumatology
+I have a mild sore throat and occasional cough.,0,General
+I have mild eye dryness and occasional redness.,0,Ophthalmology
+I have a mild paper cut on my finger.,0,Wound Care
+I have mild postnasal drip.,0,Otorhinolaryngology
+I have mild muscle soreness from exercise.,0,Physiatry
+I have mild acne breakouts on my face.,0,Dermatology
+I have mild stress and difficulty relaxing.,0,Psychology
+I have mild occasional stomach discomfort.,0,Gastroenterology
+I have mild foot arch pain after standing.,0,Orthopedy
+I have mild joint stiffness after waking up.,0,Rheumatology
+I have a mild tension headache.,0,General
+I have mild eye itching and occasional redness.,0,Ophthalmology
+I have a mild scrape on my arm.,0,Wound Care
+I have mild snoring at night.,0,Otorhinolaryngology
+I have mild muscle fatigue from physical activity.,0,Physiatry
+I have mild dry patches on my skin.,0,Dermatology
+I have mild stress and occasional mood swings.,0,Psychology
+I have mild occasional heartburn.,0,Gastroenterology
+I have mild hand stiffness in the morning.,0,Rheumatology
+I have a mild seasonal allergy with sneezing.,0,General
+I have mild eye redness and occasional itching.,0,Ophthalmology
+I have a mild paper cut on my hand.,0,Wound Care
+I have mild occasional hoarseness.,0,Otorhinolaryngology
+I have mild muscle tension in my neck.,0,Physiatry
+I have mild dry lips.,0,Dermatology
+I have mild stress and difficulty coping with work.,0,Psychology
+I have mild occasional bloating.,0,Gastroenterology
+I have mild finger joint pain after typing.,0,Rheumatology
