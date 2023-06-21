@@ -1,3 +1,5 @@
+![Alt text](https://github.com/mzeugenia/speech-recognition/blob/main/figures/intro_figure.png)
+
 # SympToMatch
 ## Unleashing the power of AI to match patients with the right care
 
