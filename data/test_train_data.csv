@@ -1,0 +1,693 @@
+text_clean,confidence,file_name,prompt,severity,keep,word_count
+a terrible fall in hair,0.99010324,1249120_43577102_62787251.wav,Hair falling out,0,Yes,5
+after a breakup i feel something strange in me,0.83041412,1249120_44093933_109330064.wav,Emotional pain,0,Yes,9
+oculuspartner,0.8461737,1249120_42210938_72512880.wav,Foot ache,0,Yes,1
+after eating i have burning sensation inside of me,0.98762906,1249120_43856216_87143624.wav,Stomach ache,1,Yes,9
+after playing football i have muscle pain with my both legs,0.99508691,1249120_41841195_57027955.wav,Muscle pain,0,Yes,11
+after playing tennis i had a powerful sensation close to my neck,0.98820281,1249120_33905644_36396763.wav,Shoulder pain,0,Yes,12
+i have something under my phone,0.987629,1249120_41150153_24680575.wav,Foot ache,1,Yes,6
+all my body is in a bad case and i need a good treatment,0.9821139,1249120_43612961_102666445.wav,Joint pain,1,Yes,14
+all of a sudden i felt dizzy when i stood up,0.987629,1249120_43172391_109808955.wav,Feeling dizzy,1,Yes,11
+annoying starts suddenly often after an injury or exercise,0.94651973,1249120_29289135_85619300.wav,Knee pain,1,Yes,9
+anytime i play tennis i feel a shoulder pain,0.94445729,1249120_18172663_27352533.wav,Shoulder pain,1,Yes,9
+at first it feels really numb better than a thousand needles start to pick up food,0.87634534,1249120_40184183_33749320.wav,Foot ache,1,Yes,16
+cant do any exercise i feel weak,0.95379227,1249120_17632529_80819339.wav,Body feels weak,1,Yes,7
+cant keep focus,0.94993591,1249120_43577102_75806450.wav,Head ache,0,Yes,3
+chronic bone disease at the level of the doubles of the lower extremities,0.987629,1249120_18386513_59195575.wav,Knee pain,1,Yes,13
+chronic bowel pain,0.98762912,1249120_40725179_88364482.wav,Internal pain,1,Yes,3
+chronic disease of hair follicles and sebaceous glands,0.95194525,1249120_43620482_36193265.wav,Acne,1,Yes,8
+cramps along the whole abdomen,0.77993405,1249120_42210938_46153649.wav,Stomach ache,1,Yes,5
+discomfort or pain that is felt at some point along the front of the body between the neck and upper abdomen,0.98762906,1249120_13842059_99243745.wav,Internal pain,1,Yes,21
+doctor i feel a strange and powerful pain inside my rib cage,0.70707482,1249120_33905644_94419450.wav,Heart hurts,1,Yes,12
+even if the temperature is high in the house my body is always cold,0.99199545,1249120_43856216_105124608.wav,Feeling cold,1,Yes,14
+even though i am an adult my face keeps breaking out in pimples,0.987629,1249120_39154234_48704286.wav,Acne,1,Yes,13
+every morning when i wake up my neck feels like i slept on it wrong,0.987629,1249120_39142299_89637426.wav,Muscle pain,0,Yes,15
+everytime i come my hair there are so many hair in my,0.86223364,1249120_40401830_55276482.wav,Hair falling out,1,Yes,12
+everytime i look to the left i feel a sharp pain in my neck,0.93194181,1249120_44140394_65353861.wav,Neck pain,1,Yes,14
+every time i make an effort i feel,0.80874658,1249120_42210938_75530499.wav,Feeling dizzy,1,Yes,8
+everytime i take a deep breath i start coughing,0.72312516,1249120_43172391_50424441.wav,Cough,1,Yes,9
+everytime it rains i get hives on my belly and sides,0.9316628,1249120_43604449_62103988.wav,Skin issue,1,Yes,11
+everything looks like being in a smoky area,0.9780826,1249120_35448024_50789772.wav,Blurry vision,1,Yes,8
+feel like something is being jabbed into my joints,0.98907483,1249120_22423108_59113184.wav,Joint pain,1,Yes,9
+things like that are pins and needles sticking in my joints,0.96715605,1249120_44101988_60969262.wav,Joint pain,1,Yes,11
+skull is cracked like nuts,0.81953752,1249120_2171654_109407598.wav,Head ache,1,Yes,5
+glass broken and wound my leg badly the wound is so wide,0.97251505,1249120_17632529_50143584.wav,Open wound,1,Yes,12
+i have claudia,0.87750071,1249120_40663048_34913947.wav,Foot ache,1,Yes,3
+how severe cold and cough,0.9483012,1249120_43855932_64363713.wav,Cough,1,Yes,5
+having difficulty moving my knee,0.99257743,1249120_43855932_34520227.wav,Knee pain,1,Yes,5
+he was discovered to have an open wound,0.987629,1249120_30766630_54777621.wav,Open wound,1,Yes,8
+hearing any loud sounds makes my ear aches,0.987629,1249120_29672643_76519756.wav,Ear ache,0,Yes,8
+heart aches so much,0.95523715,1249120_43855932_46450964.wav,Heart hurts,0,Yes,4
+heavy breath with fatigue,0.97918344,1249120_17632529_49432935.wav,Emotional pain,1,Yes,4
+is infected wound was beginning to rot,0.987629,1249120_29289135_86737513.wav,Infected wound,1,Yes,7
+how do you know if you have a torn meniscus in your knee,0.987629,1249120_43698316_88639037.wav,Knee pain,1,Yes,13
+i always feel like i have a menstrual pains even if i dont have my,0.987629,1249120_43855932_103550672.wav,Internal pain,1,Yes,15
+im always cold even when im wearing layers,0.98131114,1249120_18172663_53225387.wav,Feeling cold,1,Yes,8
+i am feeling so dizzy body is so fragile,0.98762906,1249120_17632529_104451359.wav,Body feels weak,1,Yes,9
+everything is blurry,0.87973547,1249120_39438102_28634589.wav,Blurry vision,1,Yes,3
+i am having running nose,0.98762906,1249120_40419625_92216312.wav,Feeling cold,0,Yes,5
+im struggling to bear weight on my knee when i stand straight i feel and hear a loud popping noise,0.98762906,1249120_43856216_66381593.wav,Knee pain,1,Yes,20
+im worried about driving,0.98762906,1249120_42210938_100043992.wav,Blurry vision,1,Yes,4
+i am worried how cold in northern daya,0.8508746,1249120_43172391_64014700.wav,Feeling cold,0,Yes,8
+i break out on my face very frequently,0.98686582,1249120_44093303_99289480.wav,Acne,0,Yes,8
+i broke my ankle while doing rock climbing in carpathian,0.97499645,1249120_43995026_70740118.wav,Injury from sports,1,Yes,10
+i can hardly breathe,0.98762906,1249120_43604449_37124676.wav,Hard to breath,1,Yes,4
+i can hardly move my neck,0.987629,1249120_43453425_53633436.wav,Neck pain,1,Yes,6
+i cannot bear the squeezing sensation i have in my chest,0.92800164,1249120_43172391_25236833.wav,Heart hurts,1,Yes,11
+below my left shoulder,0.94830596,1249120_18172663_29753229.wav,Heart hurts,1,Yes,4
+i cannot get warm no matter how much i wrap up or how high i put the heating on,0.98762906,1249120_43856216_40873552.wav,Feeling cold,1,Yes,19
+i cant leave because of cough,0.97972924,1249120_36505751_54777112.wav,Cough,0,Yes,6
+i cant breathe,0.98762912,1249120_35350617_52953676.wav,Cough,1,Yes,3
+i cant carry anything i have pain in my shoulder,0.98807633,1249120_35350617_103723681.wav,Shoulder pain,1,Yes,10
+i cant do anything i feel weak in my body,0.90801287,1249120_21665495_84890117.wav,Body feels weak,1,Yes,10
+i cant get a girlfriend because of my acne,0.98762906,1249120_35408915_105294498.wav,Acne,0,Yes,9
+i cant hear out of my ear broccoli i feel like there is something in it causing irritation,0.98617989,1249120_43856216_103499094.wav,Ear ache,1,Yes,18
+i cant move my head up and down,0.98918933,1249120_17632529_88169662.wav,Neck pain,1,Yes,8
+i cant move my leg there is a pain in the joint,0.98557979,1249120_35154350_14115011.wav,Joint pain,1,Yes,12
+i can handle myself,0.98762906,1249120_44023395_32770026.wav,Shoulder pain,1,Yes,4
+i cant really jump on my left foot because my triple fracture of the ankle left me with neverending pain,0.98762906,1249120_18172663_31792388.wav,Foot ache,1,Yes,20
+i cant ride my car at night because i have blurry vision,0.987629,1249120_38202325_95485400.wav,Blurry vision,1,Yes,12
+i cant rotate my neck,0.98762906,1249120_41203338_71366824.wav,Neck pain,1,Yes,5
+i cant see the sign i have a blurry vision,0.98762906,1249120_35154350_51766529.wav,Blurry vision,1,Yes,10
+i cant see well,0.98762906,1249120_29289135_45566986.wav,Blurry vision,1,Yes,4
+i cant sleep because of cough,0.99461532,1249120_1853182_83347773.wav,Cough,0,Yes,6
+i cant sleep i have a hard cough,0.987629,1249120_44093303_84595617.wav,Cough,1,Yes,8
+i cant stand up i feel my brain is moving inside my skull,0.987629,1249120_30766630_10328513.wav,Head ache,1,Yes,13
+i cant stand up or sit down i have a pain in my back that annoys me,0.98819375,1249120_22345789_63398703.wav,Back pain,1,Yes,17
+i cant stand with this horrible feeling in my shoulder,0.97886944,1249120_43577102_108100755.wav,Shoulder pain,1,Yes,10
+i cant stand with this horrible feeling in my stomach,0.98762906,1249120_21665495_41066118.wav,Stomach ache,1,Yes,10
+i cant stop coughing,0.98762906,1249120_36505751_74469696.wav,Cough,0,Yes,4
+i cant turn my neck to the left without feeling a stabbing pain,0.987629,1249120_43856216_109013521.wav,Neck pain,1,Yes,13
+i cant walk because i have a great footage,0.98762906,1249120_41841195_108677761.wav,Foot ache,1,Yes,9
+i cant walk my knee hurts me,0.987629,1249120_29672643_97524593.wav,Knee pain,1,Yes,7
+i cant walk well i have an ache in my foot,0.987629,1249120_29672643_13077572.wav,Foot ache,1,Yes,11
+i convert could i have a pain in my knee,0.85007179,1249120_43604449_68313863.wav,Knee pain,1,Yes,10
+i carried a heavy bag yesterday and when i get up today i felt a great shoulder pain,0.98762906,1249120_38202325_56024369.wav,Shoulder pain,0,Yes,18
+i chopped off the tip of my finger while i was cutting some cardboard and i cannot stop the bleeding,0.98762906,1249120_22423108_99576301.wav,Open wound,1,Yes,20
+i complain a lot with my neck pain and i really need to be better,0.987629,1249120_35154350_102896223.wav,Neck pain,0,Yes,15
+i complain a lot with skin allergy,0.987629,1249120_35408915_57922931.wav,Skin issue,1,Yes,7
+i cough a lot when i smell perfume what is wrong with my lungs,0.98295414,1249120_6338946_62766927.wav,Cough,0,Yes,14
+i could not exercise because of my knee pain,0.99368984,1249120_44093303_85234316.wav,Knee pain,0,Yes,9
+i couldnt stop shaking or unclench my job thats how cold i was,0.97820091,1249120_29672643_22293597.wav,Feeling cold,1,Yes,13
+i cut my finger opening again,0.93970877,1249120_42557795_49921159.wav,Open wound,1,Yes,6
+i got my food at the pool and it breaks it open every time when i walk on it,0.89524609,1249120_41087148_49721343.wav,Open wound,1,Yes,19
+i cut my hand a couple of days ago and although i didnt think it needed stitches it hasnt closed up,0.98762906,1249120_35832653_103076924.wav,Open wound,1,Yes,21
+i cut my hand a couple of weeks ago and even though i keep using an antibiotic cream its not getting better,0.98358095,1249120_43577102_12065180.wav,Infected wound,1,Yes,22
+i cut myself and im bleeding,0.987629,1249120_43856216_52837879.wav,Open wound,1,Yes,6
+i do not feel better in my muscles,0.987629,1249120_1853182_43475712.wav,Muscle pain,0,Yes,8
+i do not know why i feel cold,0.987629,1249120_15830408_37803938.wav,Feeling cold,0,Yes,8
+i dont do anything at home instead of your exhaust,0.98762906,1249120_40401830_74177678.wav,Body feels weak,0,Yes,10
+i dont have full range of motion with my arms,0.99577647,1249120_19425875_98111797.wav,Shoulder pain,1,Yes,10
+i dont have problems taking in breath but out breath is so heavy,0.9431411,1249120_38202325_100076386.wav,Hard to breath,1,Yes,13
+i dont have the energy to do the things that i used to,0.99457163,1249120_39740177_42110171.wav,Body feels weak,0,Yes,13
+i dont know why im constantly sad,0.987629,1249120_15004831_57497759.wav,Emotional pain,0,Yes,7
+i feel a bone on bone pain in my knees when i climb stairs,0.95997375,1249120_43577102_66398329.wav,Joint pain,1,Yes,14
+i feel a burning sensation in my guts about 2 hours after each meal,0.95904511,1249120_14353703_45949288.wav,Stomach ache,1,Yes,14
+i feel a burning sensation in my shoulder muscle,0.98762906,1249120_18386513_80223762.wav,Muscle pain,1,Yes,9
+i feel a clicking sensation in my knee each time i step,0.97417498,1249120_38202325_48631172.wav,Joint pain,1,Yes,12
+i feel a great amount of pressure of my head,0.98666465,1249120_43577102_32628322.wav,Head ache,1,Yes,10
+i feel a great amount of pressure on the sides of my neck,0.95952594,1249120_43604449_60060797.wav,Shoulder pain,1,Yes,13
+if you look great pain in my shoulder joint and it does not go away,0.987629,1249120_29713479_22618609.wav,Joint pain,1,Yes,15
+i feel a great pain in my shoulder when i try to lift something heavy,0.987629,1249120_17632529_96969863.wav,Shoulder pain,0,Yes,15
+i feel a huge emotional pain after i broke up with my girlfriend,0.98946512,1249120_1853182_87286693.wav,Emotional pain,0,Yes,13
+i feel a lot of pain in the joints,0.9969213,1249120_18386513_81047658.wav,Joint pain,1,Yes,9
+i feel a pain in my back,0.98831177,1249120_6338946_35137575.wav,Back pain,1,Yes,7
+i feel a pain in my back when i sit on a chair for long,0.97862154,1249120_38042052_100934310.wav,Back pain,0,Yes,15
+i feel a pain in my neck,0.987629,1249120_35408915_103020252.wav,Neck pain,0,Yes,7
+i feel a pain on the left side of my chest where my heart is,0.98790795,1249120_18172663_93142539.wav,Heart hurts,1,Yes,15
+i feel a sharp pain in my ankle joint when i stand,0.987629,1249120_36929821_25614320.wav,Joint pain,1,Yes,12
+i feel a sharp pain in my head when i think too hard,0.987629,1249120_21665495_16983539.wav,Head ache,0,Yes,13
+i feel a sharp pain in my stomach,0.987629,1249120_38042052_46381914.wav,Internal pain,1,Yes,8
+i feel a sharp pain in the stomach after eating,0.98762906,1249120_30937687_18307176.wav,Stomach ache,1,Yes,10
+i feel a soreness in my knees when i walk,0.98762906,1249120_2171654_72266245.wav,Joint pain,1,Yes,10
+i finished strange and powerful pain inside my rib cage,0.9749198,1249120_41150153_63451844.wav,Heart hurts,1,Yes,10
+i feel tightness in my chest,0.987629,1249120_40725179_108204132.wav,Hard to breath,1,Yes,6
+i feel abdominal pain,0.98762906,1249120_43172391_34681258.wav,Stomach ache,1,Yes,4
+i feel aching on my insides,0.94389063,1249120_29672643_44035263.wav,Internal pain,0,Yes,6
+i feel back pain when i carry heavy things,0.99415505,1249120_43604449_100722191.wav,Back pain,0,Yes,9
+i feel like an ice cube my sister said that she needs,0.96174461,1249120_44142156_27934788.wav,Feeling cold,0,Yes,12
+i feel cold,0.98762912,1249120_35154350_18167720.wav,Feeling cold,0,Yes,3
+i feel cold although we are in summer,0.987629,1249120_39438102_60405187.wav,Feeling cold,1,Yes,8
+i feel cold chills even though my clothes are heavy,0.98762906,1249120_41841195_75369794.wav,Feeling cold,0,Yes,10
+i feel cold when the night comes,0.987629,1249120_43316708_50550172.wav,Feeling cold,0,Yes,7
+i feel congestion in my chest,0.987629,1249120_35408915_90746118.wav,Cough,1,Yes,6
+i feel deep tingling when i touch acne followed by bad sensor,0.94128275,1249120_43788827_73386473.wav,Acne,0,Yes,12
+i feel depressed when i see my hair falling out,0.98974627,1249120_15004831_103311186.wav,Hair falling out,0,Yes,10
+i feel discomfort throughout the body in general,0.987629,1249120_35154350_89439845.wav,Body feels weak,0,Yes,8
+i feel dizzy after doing a muscular effort,0.987629,1249120_35350617_33932430.wav,Feeling dizzy,0,Yes,8
+i feel dizzy after severe diarrhea,0.98949391,1249120_35832653_20676895.wav,Feeling dizzy,1,Yes,6
+i feel dizzy and out of sight,0.97113043,1249120_36929821_24030616.wav,Feeling dizzy,1,Yes,7
+i feel dizzy when i make sudden movements,0.987629,1249120_43665783_32187997.wav,Feeling dizzy,0,Yes,8
+laptop for an hour to possibly could be the reason,0.95507622,1249120_40571337_41381025.wav,Feeling dizzy,0,Yes,10
+i feel dizzy when i stand up,0.987629,1249120_36505751_48223474.wav,Feeling dizzy,1,Yes,7
+i feel emotionally crushed,0.93998444,1249120_29713479_92556285.wav,Emotional pain,0,Yes,4
+i feel fluid trying to come up when i cough,0.96793354,1249120_43172391_69871675.wav,Cough,1,Yes,10
+i feel great pain in my feet after playing one of the sports games,0.96864921,1249120_22423108_49763131.wav,Injury from sports,0,Yes,14
+i feel great pain in the head,0.987629,1249120_43604449_64146611.wav,Head ache,1,Yes,7
+i feel great pressure in my chest,0.987629,1249120_22423108_32412774.wav,Hard to breath,1,Yes,7
+i feel headache,0.98762912,1249120_35832653_73462744.wav,Head ache,0,Yes,3
+i feel heart pain when i walk a lot,0.98762906,1249120_6338946_15070996.wav,Heart hurts,1,Yes,9
+i feel hurt a lot of pain in my heart,0.99140006,1249120_35832653_99218935.wav,Emotional pain,1,Yes,10
+i seen her shes in my heart,0.86397076,1249120_29713479_32263651.wav,Heart hurts,1,Yes,7
+i feel increased heart rate with prick,0.987629,1249120_41203338_48393189.wav,Heart hurts,1,Yes,7
+i feel joint pain every time i move,0.97382909,1249120_41203338_53060557.wav,Joint pain,1,Yes,8
+i feel lightheaded,0.98762912,1249120_44140394_31209006.wav,Feeling dizzy,0,Yes,3
+i feel lightheaded when i stand up,0.987629,1249120_35832653_51223399.wav,Feeling dizzy,1,Yes,7
+i feel like i can hardly be,0.987629,1249120_35444693_35918864.wav,Cough,1,Yes,7
+i feel like i just cant cope anymore i feel overwhelmed and like i just cant get a break,0.98762906,1249120_36505751_103305442.wav,Emotional pain,1,Yes,19
+i feel like needles in my shoulder,0.93519175,1249120_40725179_87397845.wav,Shoulder pain,1,Yes,7
+i feel like i have always got something in my throat,0.98612022,1249120_43604449_22723006.wav,Cough,1,Yes,11
+i feel like i fell in hot water,0.987629,1249120_29672643_94072729.wav,Skin issue,1,Yes,8
+i feel like my heart is on fire,0.987629,1249120_18172663_26044172.wav,Heart hurts,1,Yes,8
+i feel like something is squeezing my lungs,0.987629,1249120_35448024_78702299.wav,Hard to breath,1,Yes,8
+i feel like,0.98762912,1249120_31349958_47405776.wav,Feeling dizzy,1,Yes,3
+i feel like the world goes round and round,0.98762906,1249120_29713479_69406519.wav,Feeling dizzy,1,Yes,9
+i feel like there is something swollen and inflamed at the back of knee,0.98430347,1249120_43665783_86075834.wav,Knee pain,1,Yes,14
+i feel muscle pain every time i make an extra effort,0.95700955,1249120_22345789_100681348.wav,Muscle pain,0,Yes,11
+i feel pain in my back,0.987629,1249120_43620482_26133157.wav,Back pain,1,Yes,6
+i feel pain in my body,0.987629,1249120_15004831_69709527.wav,Internal pain,0,Yes,6
+i feel pain in my ears with tinnitus,0.98917538,1249120_43604449_62144985.wav,Ear ache,1,Yes,8
+i feel pain in my eyes i can see fog,0.98762906,1249120_43620482_44705590.wav,Blurry vision,1,Yes,10
+i feel pain in my foot,0.99083138,1249120_18985376_38968782.wav,Foot ache,1,Yes,6
+i feel pain in my head with a vertigo,0.98762906,1249120_18172663_109717598.wav,Head ache,1,Yes,9
+i feel pain in my heart when i wake up,0.99689847,1249120_29289135_48587556.wav,Heart hurts,1,Yes,10
+i feel pain in my joint after an injury in the last football match i played,0.92655498,1249120_20518958_17644982.wav,Joint pain,1,Yes,16
+i feel pain in my knee,0.987629,1249120_43788827_82084991.wav,Knee pain,1,Yes,6
+i feel pain in my knee when i climb the stairs,0.9905104,1249120_17632529_41977164.wav,Joint pain,1,Yes,11
+i feel pain in my legs muscles after i run yesterday i took some painkillers but it doesnt help,0.98762906,1249120_39740177_66733352.wav,Muscle pain,0,Yes,19
+i feel pain in my neck,0.987629,1249120_36929821_73076924.wav,Neck pain,0,Yes,6
+i feel pain in my neck after waking up,0.98762906,1249120_44140394_45824439.wav,Neck pain,0,Yes,9
+i feel pain in my neck while im working,0.99362797,1249120_1853182_104613772.wav,Neck pain,0,Yes,9
+i feel pain in my right shoulder after the tennis match,0.987629,1249120_13842059_92379589.wav,Injury from sports,1,Yes,11
+i feel pain in my shoulders when i write on a keyboard,0.96119171,1249120_30766630_88003280.wav,Shoulder pain,0,Yes,12
+i feel pain in my stomach,0.987629,1249120_17632529_36682898.wav,Stomach ache,1,Yes,6
+i feel pain in my throat,0.98969084,1249120_40184183_53822554.wav,Cough,0,Yes,6
+i feel pain in the knee,0.987629,1249120_29672643_102683922.wav,Knee pain,1,Yes,6
+i feel pain in my knee when walking,0.987629,1249120_43604449_19781947.wav,Knee pain,0,Yes,8
+icp nana,0.98762906,1249120_43918153_37635360.wav,Back pain,1,Yes,2
+i feel pain inside and i cannot identify,0.93267441,1249120_43316708_66352356.wav,Internal pain,0,Yes,8
+i feel pain inside i do not know what it is,0.95984918,1249120_41221824_104502558.wav,Internal pain,0,Yes,11
+i feel pain when i think of her,0.987629,1249120_41203338_66240190.wav,Emotional pain,0,Yes,8
+my muscles in my lower back,0.987629,1249120_43719934_10118861.wav,Emotional pain,0,Yes,6
+i feel really sad all the time,0.987629,1249120_41956733_101547195.wav,Emotional pain,0,Yes,7
+i feel sad,0.98762912,1249120_43855932_56592055.wav,Emotional pain,0,Yes,3
+i feel sad like her pain,0.96119094,1249120_30937687_66859508.wav,Emotional pain,0,Yes,6
+i feel severe itching in the skin with redness,0.93616611,1249120_40184183_93834364.wav,Skin issue,1,Yes,9
+afib shoulder pains at intervals of time,0.99060285,1249120_21665495_17664079.wav,Shoulder pain,1,Yes,7
+i feel so sore in my stomach area,0.987629,1249120_43612961_41888412.wav,Stomach ache,1,Yes,8
+i feel something hurt me and taking breath and i cant take my breath,0.97913569,1249120_2171654_57630650.wav,Hard to breath,1,Yes,14
+i feel strong pain in my knee after it was good during the football match,0.98028868,1249120_44101988_79679432.wav,Injury from sports,1,Yes,15
+i feel suicidal,0.98762912,1249120_36929821_95368466.wav,Emotional pain,1,Yes,3
+i feel that is great pain in my left shoulder,0.98762906,1249120_43855932_69535057.wav,Shoulder pain,1,Yes,10
+i feel that its hard to breathe especially after running or making any effort,0.97440755,1249120_39438102_91676086.wav,Hard to breath,0,Yes,14
+i feel very hard to breathe,0.987629,1249120_19425875_55700950.wav,Hard to breath,1,Yes,6
+i feel very weak in my body,0.9928357,1249120_41203338_46015538.wav,Body feels weak,1,Yes,7
+i feel weak,0.98820192,1249120_1853182_95429596.wav,Body feels weak,0,Yes,3
+i feel weak all over,0.98762906,1249120_15830408_80692501.wav,Body feels weak,1,Yes,5
+i fell a stiffness in my elbow and shoulders,0.97361904,1249120_35408915_12349691.wav,Joint pain,1,Yes,9
+i fell off my bike and some sun i had hard knee pain,0.92957878,1249120_44088493_82957741.wav,Knee pain,1,Yes,13
+i fell through a window while i was cleaning it and i have a shard of glass stuck in my left eye i think it is pretty serious please help,0.987629,1249120_6338946_47713512.wav,Open wound,1,Yes,30
+i feel my heart hurts when i run for a long distance,0.97345346,1249120_15830408_20446817.wav,Heart hurts,0,Yes,12
+i get a knee pain when i walk a lot,0.96386319,1249120_14353703_103620863.wav,Knee pain,0,Yes,10
+i get an erection when it is cool,0.9270553,1249120_43453425_108454167.wav,Ear ache,0,Yes,8
+i get big patches of irritated pimples on my back and they hurt,0.94310099,1249120_43855932_68426648.wav,Acne,0,Yes,13
+i get breakouts on my chest with red patches that get more intense when i get hot,0.97652209,1249120_6338946_33732438.wav,Acne,1,Yes,17
+i get chills and aches all over,0.987629,1249120_33905644_69933569.wav,Feeling cold,0,Yes,7
+i get clusters of pimples on my face that never go away,0.99450284,1249120_34824899_40742839.wav,Acne,0,Yes,12
+i get clusters of whiteheads and blackheads on my back,0.98762906,1249120_39438102_30685949.wav,Acne,0,Yes,10
+i get a joint pain when i try to bend my leg on my arm,0.89256418,1249120_43172391_64252867.wav,Joint pain,1,Yes,15
+i get terrible headaches every few months and when i get them my vision is affected,0.98628932,1249120_18386513_93250733.wav,Head ache,1,Yes,16
+i get tired too fast i can barely put on my clothes in the morning,0.99231982,1249120_44140394_46121793.wav,Body feels weak,1,Yes,15
+i got a divorce last year and i just cant stop dwelling on how to get revenge on my exhusband,0.98762906,1249120_18386513_92126820.wav,Emotional pain,0,Yes,20
+i got acne when i ate chili,0.987629,1249120_34824899_82321207.wav,Acne,0,Yes,7
+i got injured exercising,0.98762906,1249120_19425875_103678717.wav,Injury from sports,1,Yes,4
+i had a cold the last time i traveled by plane and i still have a discomfort in my ears,0.90473431,1249120_15004831_53846275.wav,Ear ache,1,Yes,20
+i had a collision while playing soccer my knee buckled and now its unstable,0.97348326,1249120_36929821_94037054.wav,Injury from sports,1,Yes,14
+i had a couple stitches together but it is not healing it is moving green fast and birds,0.89372879,1249120_43698316_23877867.wav,Infected wound,1,Yes,18
+i had a pain in my knee when i was swimming,0.987629,1249120_29672643_99544630.wav,Knee pain,1,Yes,11
+i had a sharp pain in my stomach,0.987629,1249120_44101988_69402170.wav,Stomach ache,1,Yes,8
+i had a lot of exercise yesterday so i feel sharp muscle pains,0.97809756,1249120_38042052_53624812.wav,Muscle pain,0,Yes,13
+i had an accident in my wound was open when i arrive to hospital,0.96952611,1249120_19425875_72618137.wav,Open wound,1,Yes,14
+i had internal pain and gases when i eat spicy food yesterday,0.94927424,1249120_43855932_65418943.wav,Internal pain,0,Yes,12
+i hardly save enough strength to get up,0.987629,1249120_30766630_60977460.wav,Body feels weak,1,Yes,8
+i hate my acne,0.98762906,1249120_17632529_79689615.wav,Acne,0,Yes,4
+i have a back pain since i fell on the floor,0.987629,1249120_29289135_42853161.wav,Back pain,1,Yes,11
+i have a back pain since i turned 70 years old,0.95908064,1249120_29672643_75261138.wav,Back pain,1,Yes,11
+i have a blurry vision after my head was hit yesterday,0.98806494,1249120_44140394_85636169.wav,Blurry vision,1,Yes,11
+i have a blurry vision and i cant see in the darkness what is the reason dr,0.97225326,1249120_2171654_88522717.wav,Blurry vision,1,Yes,17
+i have a blurry vision during my swimming training in the pool why,0.97190255,1249120_35408915_88866567.wav,Blurry vision,0,Yes,13
+i have a blurry vision since i woke up this morning what could be the reason,0.987629,1249120_43918153_14638499.wav,Blurry vision,1,Yes,16
+i have a break in the skin between my thumb and my index finger and it will not close,0.97047573,1249120_43620482_97566863.wav,Open wound,0,Yes,19
+i have a break in the skin inside one of my nostrils that has become infected and is now filled with pus,0.987629,1249120_36929821_24131260.wav,Infected wound,1,Yes,22
+i have a cold and it makes me cough a lot,0.987629,1249120_39438102_79505634.wav,Cough,0,Yes,11
+i have a cut on my foot that became infected from using the showers at the gym,0.98762906,1249120_44140394_86346668.wav,Infected wound,1,Yes,17
+i have a cut that has become red and oozes pus,0.96490842,1249120_35154350_87756753.wav,Infected wound,1,Yes,11
+i have a cut that is red and swollen,0.98762906,1249120_43698316_36155159.wav,Infected wound,1,Yes,9
+i have a dry skin,0.98762906,1249120_40725179_107162666.wav,Skin issue,0,Yes,5
+i have a dry throat,0.98762906,1249120_44093303_26852380.wav,Cough,0,Yes,5
+i have adult hd in my lower back which makes it difficult,0.95966411,1249120_42557795_25258545.wav,Back pain,1,Yes,12
+i have a dull ache in my head,0.987629,1249120_35408915_87255375.wav,Head ache,1,Yes,8
+i have a dull ache in my stomach it gets worse after they eat,0.987629,1249120_43402738_21766369.wav,Internal pain,1,Yes,14
+i have an earache when i go to the pool,0.98279107,1249120_2171654_71989604.wav,Ear ache,0,Yes,10
+i have a feeling like my whole body is complaining,0.98762906,1249120_13842059_64044535.wav,Joint pain,0,Yes,10
+i have a foot ache after running 500 meters with my running shoes,0.85670632,1249120_43172391_29514686.wav,Foot ache,0,Yes,13
+i have a foot ache although i dont walk a lot,0.99095815,1249120_38202325_36620533.wav,Foot ache,0,Yes,11
+i have a foot ache in winter or when it feels cold why,0.98279864,1249120_29289135_26169687.wav,Foot ache,0,Yes,13
+i have a great pain in my foot like throbbing pain with relaxing my pain relief,0.9794873,1249120_43577102_14469778.wav,Foot ache,1,Yes,16
+i have a great pain in my thorax from heart injury,0.97700155,1249120_36929821_98119394.wav,Heart hurts,1,Yes,11
+i have a great stomach ache and i cant eat anything,0.9807049,1249120_22345789_53043670.wav,Stomach ache,1,Yes,11
+i have a hair shortage,0.98762906,1249120_43620482_50121309.wav,Hair falling out,0,Yes,5
+i have a hard muscle pain since i went to the gym,0.987629,1249120_19425875_97135079.wav,Muscle pain,0,Yes,12
+i have a hot pain in my stomach,0.95892143,1249120_43855932_21747171.wav,Stomach ache,1,Yes,8
+i have a head pain every single day,0.98590225,1249120_39142299_75788816.wav,Internal pain,0,Yes,8
+i have a headache almost everyday,0.97682589,1249120_43316708_27206788.wav,Head ache,1,Yes,6
+i have a headache every time i eat ice cream,0.98441923,1249120_2171654_21861362.wav,Head ache,0,Yes,10
+i have a knee pain when i walk alone,0.82579589,1249120_40401830_91347010.wav,Knee pain,0,Yes,9
+i have a lot of knee pain whenever i go running,0.987629,1249120_44088493_42444516.wav,Knee pain,0,Yes,11
+i have a lot of mucus when i cough,0.98530048,1249120_43577102_42454349.wav,Cough,1,Yes,9
+i have a mental suffering,0.98809016,1249120_36929821_71246328.wav,Emotional pain,0,Yes,5
+i have neck pain when i sit in front of my laptop,0.987629,1249120_19425875_39686693.wav,Neck pain,0,Yes,12
+i have pain in my elbow joint,0.987629,1249120_19425875_83921823.wav,Joint pain,0,Yes,7
+i have a pain in my head,0.987629,1249120_18172663_55656421.wav,Head ache,0,Yes,7
+i have a pain in my joint,0.9920851,1249120_18386513_25545136.wav,Joint pain,0,Yes,7
+i have a pain in my muscle,0.987629,1249120_29672643_73609673.wav,Muscle pain,0,Yes,7
+i have a pain in my stomach,0.987629,1249120_22345789_87690583.wav,Internal pain,0,Yes,7
+i have a pain in my traps,0.987629,1249120_13842059_91420763.wav,Muscle pain,0,Yes,7
+i have a pain internal,0.98762906,1249120_18172663_47339407.wav,Internal pain,1,Yes,5
+i have a pain that radiates up from my right hip to my rib cage it is at its worst when i urinate,0.89241594,1249120_43577102_33518582.wav,Internal pain,1,Yes,23
+i have a painful cramp in my feet,0.98819757,1249120_35154350_95935409.wav,Foot ache,0,Yes,8
+i have a powerful pain inside my neck,0.987629,1249120_39154234_68255930.wav,Neck pain,1,Yes,8
+i have a problem in my bag i cannot extend it,0.90897006,1249120_43788827_79200909.wav,Back pain,1,Yes,11
+i have a problem in rome italy year made by infection,0.97756296,1249120_29713479_39617116.wav,Ear ache,1,Yes,11
+i have a family,0.98762906,1249120_44027675_100349992.wav,Blurry vision,1,Yes,4
+i have a problem in the expiration because i have a bronchial asthma,0.987629,1249120_22423108_24156291.wav,Hard to breath,1,Yes,13
+i have a rash and it itches very bad,0.98259515,1249120_43402738_11039761.wav,Skin issue,1,Yes,9
+i have a rash on the skin,0.99116361,1249120_42210938_96056089.wav,Skin issue,1,Yes,7
+i have a red rash that avicii on my,0.98762906,1249120_29713479_82777486.wav,Skin issue,1,Yes,9
+i have a scab on the back of my hand that just wont go away,0.987629,1249120_43856216_86090631.wav,Skin issue,0,Yes,15
+i have a sharp pain and clicking sound in my ankle joint when i try to sand on it and walk,0.98830587,1249120_41841195_50277467.wav,Joint pain,1,Yes,21
+i have a sharp pain in my abdomen,0.987629,1249120_43577102_13088069.wav,Internal pain,1,Yes,8
+i have a sharp pain in my ear,0.98029,1249120_43857865_16365614.wav,Ear ache,1,Yes,8
+i have a sharp pain in my lower stomach,0.98762906,1249120_43577102_91093778.wav,Stomach ache,1,Yes,9
+i have a sharp pain in my neck,0.99725115,1249120_44093303_75327647.wav,Neck pain,1,Yes,8
+i have a skin rash after eating an ice cream,0.96993256,1249120_43612961_85378406.wav,Skin issue,0,Yes,10
+i have a split on my thumb that will not heal,0.99280375,1249120_35154350_22057712.wav,Open wound,1,Yes,11
+i have a strong shoulder pain,0.987629,1249120_43612961_52251557.wav,Shoulder pain,1,Yes,6
+i have a throbbing in my joints,0.987629,1249120_40571337_37835379.wav,Joint pain,0,Yes,7
+i have a very bad cough,0.98969084,1249120_43788827_73675141.wav,Cough,0,Yes,6
+i have a very rush sensation close to my arms,0.96867019,1249120_41956733_68737282.wav,Skin issue,1,Yes,10
+i have a bond between my toes that gets better overnight and then reopens every day when i wear dress shoes to work,0.89358646,1249120_43604449_48842794.wav,Open wound,0,Yes,23
+i have acne all over my face,0.987629,1249120_35408915_100241241.wav,Acne,0,Yes,7
+i have acne in my face and other problems in my derma like itching,0.95245647,1249120_22345789_71810830.wav,Skin issue,0,Yes,14
+i have acne in my face and other problems in my derma like itching,0.94479829,1249120_14353703_93481996.wav,Skin issue,0,Yes,14
+i have an earache that wont go away i dont have a cold or headache or any other symptoms just a headache,0.98697895,1249120_43620482_10437416.wav,Ear ache,1,Yes,22
+i have an earache when showering,0.98114508,1249120_28006404_107808797.wav,Ear ache,0,Yes,6
+i have an interview,0.9712767,1249120_43453425_78036374.wav,Stomach ache,0,Yes,4
+i have an internal pain i cannot describe,0.987629,1249120_1853182_68863089.wav,Internal pain,1,Yes,8
+i have an open wound in my arm,0.987629,1249120_44093303_39622828.wav,Open wound,1,Yes,8
+i have blurred vision,0.98762906,1249120_22423108_106497166.wav,Blurry vision,1,Yes,4
+i have blurry vision after i use the wrong medicine,0.98762906,1249120_22345789_87744835.wav,Blurry vision,1,Yes,10
+i have cloudy eyes,0.98762906,1249120_38042052_91178776.wav,Blurry vision,1,Yes,4
+i have constant stomach pain and bloating,0.987629,1249120_39142299_11415018.wav,Internal pain,0,Yes,7
+i have cut my finger because of playing football and i have to apply pain relief cream but it does not help,0.987629,1249120_15004831_21919890.wav,Injury from sports,0,Yes,22
+i have dark spots on my skin,0.987629,1249120_44101988_89457051.wav,Skin issue,0,Yes,7
+i have difficulty,0.98313981,1249120_35350617_44848001.wav,Hard to breath,0,Yes,3
+i have difficulty moving my neck,0.987629,1249120_34824899_60599418.wav,Neck pain,1,Yes,6
+i have disturbance in my emotion,0.98550153,1249120_41203338_89671482.wav,Emotional pain,1,Yes,6
+i have eruptions on my face that come and go,0.97638512,1249120_19425875_46584012.wav,Acne,0,Yes,10
+i have found some issues on my skin and try to use cream but it does not get better,0.86199266,1249120_35444693_109120076.wav,Skin issue,0,Yes,19
+i havent found had been and when i get it the light bothers me,0.9175725,1249120_40184183_98500675.wav,Head ache,1,Yes,14
+i have general discomfort,0.95015585,1249120_42210938_68900643.wav,Internal pain,1,Yes,4
+i have injured myself during the soccer match,0.99589252,1249120_22345789_27324558.wav,Injury from sports,1,Yes,8
+i have internal pain whenever i come down with a cold,0.987629,1249120_6338946_49284776.wav,Internal pain,0,Yes,11
+i have an issue with my skin,0.987629,1249120_38202325_33582422.wav,Skin issue,0,Yes,7
+i have muscle pain at my left leg,0.987629,1249120_18172663_43670664.wav,Muscle pain,0,Yes,8
+i have muscle pain,0.65992385,1249120_40663048_51348478.wav,Foot ache,0,Yes,4
+i have pain but i cant specify place,0.95998251,1249120_18172663_89295118.wav,Internal pain,0,Yes,8
+i have pain in my chest that saddens me,0.98762906,1249120_43698316_101462703.wav,Heart hurts,0,Yes,9
+i have been in my colon and my stomach like something cutting it,0.97908348,1249120_43665783_101335721.wav,Stomach ache,1,Yes,13
+i have pain in my stomach,0.987629,1249120_43577102_96185769.wav,Stomach ache,1,Yes,6
+i have pain like needles in my joints,0.94339287,1249120_43855932_10384449.wav,Joint pain,1,Yes,8
+i have pimples in patches along with a lot of redness on my face,0.987629,1249120_35154350_46679333.wav,Acne,0,Yes,14
+i have pimples on my back,0.987629,1249120_6338946_40270934.wav,Acne,0,Yes,6
+i have severe dry cough,0.98762906,1249120_35448024_38857406.wav,Cough,1,Yes,5
+i have severe shoulder pain,0.98762906,1249120_43604449_60024473.wav,Shoulder pain,1,Yes,5
+i have shooting pain in my knee cap after working out,0.987629,1249120_40401830_66207274.wav,Knee pain,1,Yes,11
+i have shooting pains up and down my back,0.98762906,1249120_43856216_12548576.wav,Back pain,1,Yes,9
+i have shoulder pain after doing any homework,0.987629,1249120_43350908_53109470.wav,Shoulder pain,0,Yes,8
+i have shoulder pain when i try to carry my groceries,0.987629,1249120_14353703_48660231.wav,Shoulder pain,0,Yes,11
+i have some pain when im walking around my niece,0.98762906,1249120_43856216_76437458.wav,Joint pain,0,Yes,10
+i have some terrible problems when im breathing during the night,0.97932547,1249120_43402738_81493210.wav,Cough,1,Yes,11
+i have terrible pain in my heart,0.9957512,1249120_38042052_104320582.wav,Heart hurts,1,Yes,7
+i have the impression of having no strength in my body,0.987629,1249120_43856216_94400559.wav,Body feels weak,0,Yes,11
+i have this strange rash on my arm,0.95723009,1249120_38042052_12977841.wav,Skin issue,1,Yes,8
+i have throbbing in my shoulder,0.987629,1249120_1853182_104591849.wav,Shoulder pain,1,Yes,6
+i have tried to make massage on my set,0.97748971,1249120_39438102_37794921.wav,Foot ache,0,Yes,9
+i have tried to release it but i cant,0.98762906,1249120_35408915_64227109.wav,Body feels weak,0,Yes,9
+i have whooping cough with excess mucus need mucolytic,0.98762906,1249120_43604449_14849251.wav,Cough,1,Yes,9
+i hit my head at the basketball game could i have a concussion,0.987629,1249120_43402738_63324400.wav,Injury from sports,1,Yes,13
+i hate myself and the word doesnt want to heal,0.93571663,1249120_39142299_67548099.wav,Open wound,1,Yes,10
+i hit the ground when trying to shoot a basketball,0.98762906,1249120_29713479_56491847.wav,Injury from sports,0,Yes,10
+i have cut my finger because of playing football and i to apply pain relief cream but it does not help,0.98762906,1249120_38548574_82754775.wav,Injury from sports,1,Yes,21
+i just cant seem to get warm even when everyone around me is warm i always feel cold,0.98762906,1249120_6338946_11265543.wav,Feeling cold,0,Yes,18
+i knocked my foot and it really hurts,0.95960081,1249120_35197064_63364729.wav,Foot ache,1,Yes,8
+i work a lot of my hair,0.987629,1249120_44088493_79303050.wav,Hair falling out,1,Yes,7
+i love to garden but i get a terrible twinge in my lower back when i lean over,0.98244178,1249120_14353703_49287804.wav,Back pain,0,Yes,18
+i love to walk and be outside but the bottoms of my feet get sore so quickly,0.95290172,1249120_19425875_65715714.wav,Foot ache,1,Yes,17
+im feeling cold but the temperature is high,0.97882909,1249120_35350617_26432303.wav,Feeling cold,0,Yes,8
+i made lots and lots of analysis to know the main reason for my stomach ache,0.97662574,1249120_43995026_105531790.wav,Stomach ache,1,Yes,16
+i may have overdone it,0.98762906,1249120_42210938_50121613.wav,Injury from sports,0,Yes,5
+i must see a doctor i have an open wound,0.98762906,1249120_43612961_61152731.wav,Open wound,1,Yes,10
+i need a kind of cream which make my muscles more relaxed,0.98085088,1249120_38042052_108536521.wav,Muscle pain,0,Yes,12
+i never had any acne problems,0.95887876,1249120_41336418_12513515.wav,Acne,0,Yes,6
+i noticed a lot more hair coming out than usual when i brush my hair,0.95350456,1249120_29713479_42913440.wav,Hair falling out,0,Yes,15
+i noticed an important decrease in my vision when i try to look at things up close,0.98762906,1249120_44140394_86749635.wav,Blurry vision,1,Yes,17
+i often get a sharp pain in my chest and i cant tell what im doing that might be triggering it,0.98762906,1249120_18172663_93597422.wav,Heart hurts,1,Yes,21
+i often get a stomach ache after i eat i havent been able to pinpoint which foods might be the trigger,0.98762906,1249120_38202325_62654255.wav,Stomach ache,1,Yes,21
+i read a book for a long time and when i finished reading i feel headache,0.987629,1249120_22423108_30911984.wav,Head ache,0,Yes,16
+i fight myself deeply with a knife while i was cooking,0.987629,1249120_15004831_17819347.wav,Open wound,1,Yes,11
+i started taking swimming lessons and i guess i swallowed too much water through my nose because this sinusitis is killing me now,0.96217602,1249120_2171654_72896212.wav,Injury from sports,0,Yes,23
+i stop sports because i get injury from sports,0.89491898,1249120_43604449_63659866.wav,Injury from sports,0,Yes,9
+i suffered a deep wound in my hand and i cannot stop the bleeding,0.987629,1249120_29672643_54942677.wav,Infected wound,1,Yes,14
+i think i overdid it when i carried all that lumber from the yard my lower back is killing me,0.98762906,1249120_44140394_74231117.wav,Back pain,0,Yes,20
+i think i sprained my ankle it really hurts,0.98988944,1249120_43856216_23512138.wav,Injury from sports,1,Yes,9
+i think my body temperature is very low,0.987629,1249120_36929821_81087902.wav,Feeling cold,1,Yes,8
+i think my wound is infected,0.99377698,1249120_30937687_97698429.wav,Infected wound,1,Yes,6
+i think there is fluid in my ears,0.987629,1249120_43402738_19511723.wav,Ear ache,1,Yes,8
+i think theres something wrong with my wound it does not seem to he like it should,0.948237,1249120_43612961_58304053.wav,Infected wound,1,Yes,17
+i toppled over while jumping to catch the ball,0.96064103,1249120_35170334_104105892.wav,Injury from sports,0,Yes,9
+i travel by plane a few days ago and the time during landing my ears remain clogged and painful,0.97611666,1249120_35350617_89284646.wav,Ear ache,1,Yes,19
+i tried a lot of cream but i still feel the same skin problem,0.987629,1249120_44093303_34578569.wav,Skin issue,1,Yes,14
+i tried to put my glasses to see more clear but cant find any,0.94213629,1249120_18172663_63908618.wav,Blurry vision,1,Yes,14
+i use a lot of painkillers to get better but i still feel the same back pain,0.9536981,1249120_29672643_76439873.wav,Back pain,1,Yes,17
+i used to be out of breath after 10 a dozen of stare but now i stream it to bring everyone i sit down,0.83697897,1249120_33251186_35999174.wav,Hard to breath,1,Yes,24
+i used to have acne when i was 15 years old,0.95011288,1249120_39438102_96813913.wav,Acne,0,Yes,11
+i usually have a bad cough when i get flu,0.98867476,1249120_17632529_57285505.wav,Cough,0,Yes,10
+i visited many doctors but they cant find the right treatment to get my hair back,0.9074474,1249120_43577102_20339403.wav,Hair falling out,0,Yes,16
+i wake up at night feeling cold,0.987629,1249120_30766630_35515160.wav,Feeling cold,0,Yes,7
+i wake up with a stiff neck every morning massage helps but then a couple of days later is back again,0.98762906,1249120_6338946_85634288.wav,Neck pain,0,Yes,21
+i walk everyday but now i get short of breath after going only a short way,0.94946277,1249120_35832653_46816907.wav,Hard to breath,1,Yes,16
+i walk alone 43 km i feel pain in my foot like to take,0.88357764,1249120_30937687_93193229.wav,Foot ache,0,Yes,14
+i was diagnosed with b12 deficiency anemia which explains why i always felt cold,0.978531,1249120_36929821_60221169.wav,Feeling cold,0,Yes,14
+i was diagnosed with pneumonia i cant breathe easily,0.99401158,1249120_19425875_81814829.wav,Hard to breath,1,Yes,9
+i was injured during football match i was diagnosed with cruciate ligament,0.987629,1249120_43577102_50050406.wav,Injury from sports,1,Yes,12
+i was kicked in the head playing soccer last night,0.98762906,1249120_35832653_77746569.wav,Injury from sports,1,Yes,10
+i was playing basketball yesterday i have sprained ankle,0.98762906,1249120_17632529_72644850.wav,Injury from sports,1,Yes,9
+i was playing football and injured with joint pain,0.98762906,1249120_35408915_59389253.wav,Joint pain,1,Yes,9
+i was playing soccer and i twisted my ankle,0.98762906,1249120_38202325_27202090.wav,Injury from sports,1,Yes,9
+i was traveling by ship and i feel dizzy,0.98762906,1249120_22345789_109476658.wav,Feeling dizzy,0,Yes,9
+i was very active in sports but now my body is feeling pain,0.987629,1249120_43856216_94937393.wav,Injury from sports,0,Yes,13
+i was watching tv and suddenly have blurry vision,0.98762906,1249120_19425875_84684947.wav,Blurry vision,1,Yes,9
+i wish this excruciating feelings of loss could go away,0.98762906,1249120_29713479_16864012.wav,Emotional pain,0,Yes,10
+im disappointed,0.98762906,1249120_2171654_77229012.wav,Emotional pain,0,Yes,2
+im feeling nauseous,0.98762912,1249120_44140394_75352672.wav,Stomach ache,1,Yes,3
+im having a hard time hearing,0.987629,1249120_43612961_36894452.wav,Ear ache,1,Yes,6
+im having a hard time reading because the letters are all fuzzy,0.987629,1249120_43620482_100844689.wav,Blurry vision,1,Yes,12
+i am in need for a treatment for my hair for,0.987629,1249120_43577102_98626155.wav,Hair falling out,1,Yes,11
+im injured i cant play sports,0.98939413,1249120_6338946_32796166.wav,Injury from sports,0,Yes,6
+im not feeling good i cant take my breath,0.98762906,1249120_35832653_22145064.wav,Hard to breath,1,Yes,9
+im not feeling good i get infected wound,0.987629,1249120_44140394_74979018.wav,Infected wound,1,Yes,8
+im not good i feel dizzy,0.987629,1249120_18985376_75055025.wav,Feeling dizzy,1,Yes,6
+im not feeling good im feeling so cold,0.9906143,1249120_19425875_103227792.wav,Feeling cold,0,Yes,8
+im not hearing will i have problem with my ear,0.85171092,1249120_43855932_90433740.wav,Ear ache,1,Yes,10
+im suffering from sharp cough accompanied by phlegm,0.9462868,1249120_35154350_103199506.wav,Cough,0,Yes,8
+i am very worried that ill go bald soon am i very sick,0.94285476,1249120_29672643_47139582.wav,Hair falling out,0,Yes,13
+in high school i had a lot of acne,0.98762906,1249120_43855932_65478995.wav,Acne,0,Yes,9
+in the morning my respiration is loud,0.987629,1249120_43402738_60989575.wav,Hard to breath,0,Yes,7
+is my cut infected or just healing,0.987629,1249120_33905644_42769934.wav,Infected wound,1,Yes,7
+eating peoples skin disease,0.97793758,1249120_44093933_81586584.wav,Acne,0,Yes,4
+is there a cure for acne,0.987629,1249120_42554554_40348648.wav,Acne,0,Yes,6
+it feels like i cant take a deep breath,0.99640942,1249120_18386513_45657810.wav,Hard to breath,1,Yes,9
+it feels like my heart is going to leap out of my body it hurts,0.9899261,1249120_43402738_57289122.wav,Heart hurts,1,Yes,15
+it feels like someone is hitting my head with a hammer i feel pain on the top of my head and it throbs,0.98149073,1249120_43402738_105961199.wav,Head ache,1,Yes,23
+it feels like someone stuck a knife into my shoulder,0.98762906,1249120_18172663_25677999.wav,Shoulder pain,1,Yes,10
+it hurts when i bend my arm,0.987629,1249120_43788827_17081378.wav,Joint pain,0,Yes,7
+it hurts when i raise my arm up,0.98025447,1249120_35197064_102422300.wav,Shoulder pain,0,Yes,8
+its hard to breathe when im in the underground metro station why,0.98241276,1249120_35350617_96838834.wav,Hard to breath,0,Yes,12
+it is like i have a needle pushing through my heart,0.987629,1249120_19425875_26502707.wav,Heart hurts,1,Yes,11
+it itches inside my ears,0.98762906,1249120_42557795_52539473.wav,Ear ache,0,Yes,5
+it started editing l but today the pain is throbbing and unbearable,0.86419362,1249120_43788827_93789535.wav,Ear ache,1,Yes,12
+itch at front and center of scol,0.83032018,1249120_43755034_67185695.wav,Hair falling out,0,Yes,7
+its hard to see things,0.98762906,1249120_43577102_82674022.wav,Blurry vision,1,Yes,5
+its hard to stand up and im moving very slowly,0.98762906,1249120_29289135_64421694.wav,Body feels weak,1,Yes,10
+ive always been very active but now i just dont have the strength or energy to go for even a short walk,0.987629,1249120_6338946_99675257.wav,Body feels weak,1,Yes,22
+i have been feeling very sad lately,0.987629,1249120_42557795_43432663.wav,Emotional pain,0,Yes,7
+i have been over my cold for weeks but still cough everyday,0.8907373,1249120_43402738_68494935.wav,Cough,0,Yes,12
+time to breathe am i having a heart attack,0.98762906,1249120_41956733_30129346.wav,Hard to breath,1,Yes,9
+ive had this cough for 2 weeks,0.987629,1249120_17632529_101935206.wav,Cough,0,Yes,7
+i have noticed my hair falling out,0.94900125,1249120_41087148_27535607.wav,Hair falling out,1,Yes,7
+i have tried reading books but nothing can cheer me up,0.95506233,1249120_43604449_31160322.wav,Emotional pain,0,Yes,11
+laceration rupture or opening in the skin,0.96662617,1249120_39438102_49337776.wav,Open wound,1,Yes,7
+longitudinal burning line across my back with hard respiratory movement,0.97300309,1249120_30766630_100912461.wav,Back pain,1,Yes,10
+my hair is falling out just by coming it,0.98762906,1249120_33905644_49402846.wav,Hair falling out,1,Yes,9
+my abdominal muscles have great pain since i was at gym,0.93990904,1249120_18172663_11717053.wav,Muscle pain,0,Yes,11
+my acne gets worse when it is hot,0.987629,1249120_1853182_55592493.wav,Acne,0,Yes,8
+my acne is really embarrassing its so red,0.987629,1249120_43402738_80337009.wav,Acne,0,Yes,8
+my acne itches and oozes,0.93735743,1249120_39154234_67482374.wav,Acne,0,Yes,5
+my ankle is hurting,0.98762906,1249120_21665495_61543337.wav,Joint pain,1,Yes,4
+my ankle joint,0.98762912,1249120_42210938_88579112.wav,Joint pain,1,Yes,3
+my arm hurts when i stretch,0.987629,1249120_39438102_74651627.wav,Muscle pain,1,Yes,6
+my back got injured while i was lifting at the gym,0.99206507,1249120_29289135_66741607.wav,Injury from sports,0,Yes,11
+my back hurts a lot,0.98762906,1249120_35444693_52253331.wav,Back pain,1,Yes,5
+my bike hurts me a lot,0.987629,1249120_44101988_77304055.wav,Back pain,0,Yes,6
+my back hurts me and i cant bend it or walk,0.987629,1249120_38202325_87988519.wav,Back pain,1,Yes,11
+my back hurts so much i cant bend down to tie my shoelaces,0.98004371,1249120_15004831_93767590.wav,Back pain,1,Yes,13
+my back is hurting so much,0.987629,1249120_6338946_93472974.wav,Back pain,1,Yes,6
+my bicep started aching after i went to the gym,0.82988089,1249120_41203338_82292132.wav,Muscle pain,0,Yes,10
+my body aches on the inside between my hips and shoulders,0.987629,1249120_43855932_49386781.wav,Internal pain,1,Yes,11
+my body feels like,0.98762906,1249120_35444693_32125047.wav,Feeling cold,0,Yes,4
+my body feels weak after my past day in the gym why,0.9709788,1249120_35197064_33300315.wav,Body feels weak,0,Yes,12
+my body feels weak although i eat a lot why,0.92395955,1249120_43898158_39933947.wav,Body feels weak,0,Yes,10
+my body feels weak,0.99072182,1249120_42210938_107178252.wav,Body feels weak,0,Yes,4
+my body feels weak and i think that my face is fade and i cant sleep well,0.9578051,1249120_29672643_98144523.wav,Body feels weak,0,Yes,17
+my body feels weak and i tried to make it wax it still pains me,0.95047081,1249120_35350617_73411857.wav,Body feels weak,0,Yes,15
+my calves feel like they are tight as not and are throbbing,0.96762508,1249120_2171654_72702596.wav,Muscle pain,1,Yes,12
+my cbc reports indicate 10hp i feel tired of little work,0.86038053,1249120_43612961_90934243.wav,Body feels weak,0,Yes,11
+my chest acne breaks out and never clears up,0.98762906,1249120_18172663_88508731.wav,Acne,1,Yes,9
+my chest break out with red pimples and whiteheads,0.9330703,1249120_29289135_10614469.wav,Acne,0,Yes,9
+my chest hurts when i go to take a break,0.96997374,1249120_42554554_106838636.wav,Hard to breath,1,Yes,10
+my chest hurts when i smoke,0.987629,1249120_36929821_86271478.wav,Internal pain,0,Yes,6
+my child has coughed all night she cant sleep,0.9513467,1249120_42554554_45036978.wav,Cough,1,Yes,9
+my calf is very heavy and i have mucus,0.84672368,1249120_43604449_43775054.wav,Cough,1,Yes,9
+mccarty law or greenish colored force,0.94485378,1249120_43788827_109800566.wav,Infected wound,1,Yes,6
+my daughter had her ears pierced earlobes is bright red and burning hot,0.987629,1249120_43857865_36513518.wav,Infected wound,1,Yes,13
+my daughter had her eyebrows threaded and it pulled an opening of skin and one of her brows that is now puffy and oozing,0.86593932,1249120_34824899_99592408.wav,Infected wound,1,Yes,24
+my daughter was beat by her cat and now her hand is so swollen and the only student liquid,0.9368844,1249120_20518958_28975888.wav,Infected wound,1,Yes,19
+my are ache when i am listening to music,0.94235492,1249120_13842059_99076771.wav,Ear ache,0,Yes,9
+my ear hurts and its worse when i swallow my ear is very painful and tylenol hasnt helped,0.9831866,1249120_43577102_10687547.wav,Ear ache,1,Yes,18
+my ear hurts me badly,0.98762906,1249120_41221824_26897340.wav,Ear ache,1,Yes,5
+my ear hurts when i touch it,0.99395835,1249120_30766630_69609595.wav,Ear ache,1,Yes,7
+my ear is ringing,0.98762906,1249120_39142299_20539463.wav,Ear ache,1,Yes,4
+my entire body is freezing,0.9951607,1249120_15830408_87042261.wav,Feeling cold,0,Yes,5
+my face breaks out badly every month around my cycle,0.98762906,1249120_35350617_54671464.wav,Acne,0,Yes,10
+my face has broken out in painful red spots and lumps that no matter how much i clean my face dont seem to be going away,0.98363167,1249120_43856216_80258909.wav,Acne,1,Yes,26
+my face is all broken out with pimples,0.97421479,1249120_44111844_105575644.wav,Acne,0,Yes,8
+my food has been aching since last tuesday,0.90490109,1249120_35444693_44256596.wav,Foot ache,1,Yes,8
+my foot hurts and i cant and its maybe its broken,0.97917783,1249120_43612961_62119104.wav,Foot ache,1,Yes,11
+my foot hurts me a lot of playing football,0.98762906,1249120_40725179_57476499.wav,Foot ache,0,Yes,9
+my foot is hurting so much,0.987629,1249120_43316708_74339432.wav,Foot ache,1,Yes,6
+my grandmother last year went to hospital because she was having a hard time breathing,0.987629,1249120_35408915_16754084.wav,Hard to breath,1,Yes,15
+my grandson cut his foot on a seashell in the ocean and now the foot is turning grey and is puffy,0.92864299,1249120_29289135_76611999.wav,Infected wound,1,Yes,21
+my hair always falls out and i have lost a lot of hair lately,0.95896596,1249120_43855932_43810831.wav,Hair falling out,1,Yes,14
+my hair falling out,0.98762906,1249120_18386513_26007959.wav,Hair falling out,1,Yes,4
+my hair is coming out in chunks especially when i wash,0.91049749,1249120_43995026_104290022.wav,Hair falling out,1,Yes,11
+my hair is falling out after i take a shower,0.98762906,1249120_19425875_83068521.wav,Hair falling out,1,Yes,10
+my hair is falling out in bunches,0.987629,1249120_43856216_83388292.wav,Hair falling out,1,Yes,7
+my hair is falling out in huge amount,0.97553521,1249120_40184183_51205515.wav,Hair falling out,1,Yes,8
+my hair is falling when i am coming it,0.98762906,1249120_35408915_52036297.wav,Hair falling out,1,Yes,9
+my hair is falling without a reason i can see a lot of hair on my working desk,0.98762906,1249120_15004831_41941038.wav,Hair falling out,1,Yes,18
+my hair isnt well,0.98762906,1249120_19425875_81295573.wav,Hair falling out,1,Yes,4
+my hand open wound got infected,0.987629,1249120_44088493_56870761.wav,Infected wound,1,Yes,6
+my headache since i woke up this morning,0.987629,1249120_29672643_98218564.wav,Head ache,0,Yes,8
+my head gets dizzy when i try to get up,0.98762906,1249120_35350617_87028175.wav,Feeling dizzy,0,Yes,10
+my head hurts and i lose the sensation in my face then lose sight in my eye,0.98762906,1249120_43577102_99305380.wav,Head ache,1,Yes,17
+my head hurts in the back and the pain lasts all day,0.98198509,1249120_39154234_86583253.wav,Head ache,1,Yes,12
+my head hurts me badly,0.98762906,1249120_41336418_15412005.wav,Head ache,1,Yes,5
+my head hurts when im doing this,0.987629,1249120_38042052_67922468.wav,Head ache,0,Yes,7
+my head hurts whenever i try to do something,0.99181992,1249120_21665495_108714577.wav,Head ache,0,Yes,9
+my head is so heavy i cant think normally,0.98847365,1249120_41336418_85973967.wav,Head ache,0,Yes,9
+my head is spinning when i get up,0.987629,1249120_43172391_80719853.wav,Feeling dizzy,0,Yes,8
+my heart feels like its going to explode,0.987629,1249120_43995026_76828366.wav,Heart hurts,1,Yes,8
+my heart hurts me,0.98762906,1249120_13842059_90176324.wav,Heart hurts,1,Yes,4
+my heart hurts when i exercise,0.987629,1249120_18985376_69007779.wav,Heart hurts,0,Yes,6
+my heart hurts while i am sad by,0.987629,1249120_30937687_10543328.wav,Heart hurts,0,Yes,8
+my heart is beating fast and it scares me,0.98762906,1249120_43995026_95434349.wav,Heart hurts,1,Yes,9
+my heart is pumping fast and im having a hard time to breathe,0.987629,1249120_33905644_79988299.wav,Hard to breath,1,Yes,13
+my husband has a spot on his lip that he do was cold sore but now it has broken open and leaks fluid all day,0.94696367,1249120_38202325_21762185.wav,Infected wound,1,Yes,25
+my husband left me for another woman my heart hurts so badly to the point that i cant eat or sleep,0.98762906,1249120_43856216_59977535.wav,Heart hurts,0,Yes,21
+my infected wound cause a fever,0.987629,1249120_18172663_93805814.wav,Infected wound,1,Yes,6
+my joints ache,1.0,1249120_43453425_82058133.wav,Joint pain,0,Yes,3
+my joints feel swollen,0.98762906,1249120_29713479_69443721.wav,Joint pain,1,Yes,4
+my knee is swollen which indicates,0.97487611,1249120_35444693_24131151.wav,Infected wound,1,Yes,6
+my knee catches and hurts when i first stand up after sitting,0.97255421,1249120_43855932_105242356.wav,Knee pain,0,Yes,12
+my knee doesnt want to bend well,0.9714964,1249120_43402738_87151767.wav,Knee pain,1,Yes,7
+my knee feels weak and it gave away the other day at the top of the stairs luckily there was a real to hold onto,0.94177061,1249120_43856216_22536969.wav,Knee pain,1,Yes,25
+my knee hurts when i play squash,0.987629,1249120_44140394_78670724.wav,Knee pain,0,Yes,7
+my knee hurts when i walk,0.987629,1249120_44140394_74818505.wav,Knee pain,0,Yes,6
+monday is hurting so badly,0.98762906,1249120_39740177_37893942.wav,Joint pain,1,Yes,5
+my kneecap feels like it is grading bone on bone when i walk,0.95332557,1249120_17632529_21875553.wav,Knee pain,1,Yes,13
+my knees ache on cold and rainy days,0.97970015,1249120_43883861_67210122.wav,Knee pain,0,Yes,8
+my knees hurt so bad to walk that i stay sitting more than i should,0.987629,1249120_31349958_27164977.wav,Knee pain,0,Yes,15
+my knees seem to grind as i go up or downstairs,0.83961767,1249120_43402738_90238585.wav,Knee pain,0,Yes,11
+my niece were right below the kneecap and hurt when i put weight on them,0.96771401,1249120_28006404_54952459.wav,Knee pain,1,Yes,15
+my left ear is okay but the right one feels like its being stabbed with a nail,0.98283905,1249120_38202325_69183925.wav,Ear ache,1,Yes,17
+my left side aches much,0.98762906,1249120_38202325_57751307.wav,Internal pain,1,Yes,5
+my lower back hurts but it improves if i stretch it,0.987629,1249120_28006404_24153553.wav,Muscle pain,0,Yes,11
+my lungs feel heavy like they are filled with mucus,0.98762906,1249120_6338946_50603602.wav,Cough,1,Yes,10
+my mind feels very sad as if it hurts the way i feel in my head is awful and when i think about my breakup i cry with sadness,0.9767316,1249120_43402738_63869799.wav,Emotional pain,0,Yes,29
+my muscle in my shoulder burns when i move my arm,0.99533463,1249120_36929821_68942435.wav,Muscle pain,1,Yes,11
+my muscles feel tired,0.99072182,1249120_43172391_26730989.wav,Body feels weak,0,Yes,4
+my muscles in my lower back,0.987629,1249120_43719934_82524191.wav,Infected wound,0,Yes,6
+my neck feels stiff,0.98762906,1249120_34824899_53509456.wav,Neck pain,0,Yes,4
+my neck has been so since the accident,0.93970907,1249120_43604449_42140260.wav,Neck pain,1,Yes,8
+my neck hurts me and i cant look down or up,0.987629,1249120_44093303_81005410.wav,Neck pain,1,Yes,11
+my neck hurts me and i cant stand with this pain,0.987629,1249120_30766630_51050536.wav,Neck pain,1,Yes,11
+my neck is annoying me i cant sleep because of it,0.987629,1249120_40419625_92628596.wav,Neck pain,0,Yes,11
+my nose is congested all the time and theres this gluey secretion in my throat that makes it impossible for me to sleep i often have to nap sitting down,0.97231781,1249120_42082009_86220087.wav,Hard to breath,0,Yes,30
+my right shoulder clicks when i move my arm,0.97676629,1249120_43172391_93731252.wav,Shoulder pain,0,Yes,9
+my shoulder aches when i craigslist,0.91825056,1249120_42210938_19107094.wav,Shoulder pain,0,Yes,6
+my shoulder has a great,0.98762906,1249120_14353703_46447461.wav,Shoulder pain,1,Yes,5
+my shoulder hurts me so much,0.99351144,1249120_38202325_37437935.wav,Shoulder pain,1,Yes,6
+my shoulder hurts when i try to read something about my cat,0.95446867,1249120_39154234_18490062.wav,Shoulder pain,1,Yes,12
+my shoulder is hurting me,0.99175483,1249120_43788827_74476709.wav,Shoulder pain,1,Yes,5
+my shoulder muscle hurts when i try to reach up,0.99463338,1249120_22423108_55699860.wav,Muscle pain,1,Yes,10
+my shower drain is full of hair every time,0.97350013,1249120_35154350_52523216.wav,Hair falling out,1,Yes,9
+my skin color,0.98762912,1249120_42210938_78813515.wav,Skin issue,1,Yes,3
+my skin is itching,0.98762906,1249120_43951421_108895312.wav,Skin issue,0,Yes,4
+my skin is itchy and inflamed,0.987629,1249120_43995026_89052751.wav,Skin issue,1,Yes,6
+my skin is very dry and peeling,0.987629,1249120_36505751_23947169.wav,Skin issue,0,Yes,7
+my son got a tattoo several weeks ago and the skin around it is raised and hot and it looks infected,0.95439583,1249120_43788827_78365646.wav,Infected wound,1,Yes,21
+my son had a root canal and the dentist accidentally cut the inside of his cheek and now it will not heal,0.987629,1249120_29672643_62645336.wav,Infected wound,1,Yes,22
+my son had his lip pierced and it is swollen and the skin inside on his lip is gray and looks infected,0.95824796,1249120_18386513_88896885.wav,Infected wound,1,Yes,22
+my son has a lot of acne,0.97850055,1249120_40184183_85434711.wav,Acne,0,Yes,7
+my son licked his neck with an old razor and thats what has become inflamed and looks like it is infected,0.92361695,1249120_44101988_35029528.wav,Infected wound,1,Yes,21
+my son squeezed pimple and it broke open only to scab over and now it looks like it is infected,0.92023456,1249120_44088493_45918358.wav,Infected wound,1,Yes,20
+my soul isnt healing well and its been like this for 2 weeks,0.94248974,1249120_43402738_81825705.wav,Open wound,1,Yes,13
+my sword looks like its not healing well,0.8078838,1249120_43612961_34254617.wav,Infected wound,1,Yes,8
+my stomach aches after i drink any soda drink why,0.97040975,1249120_18985376_42800481.wav,Stomach ache,0,Yes,10
+my stomach aches when i eat hot food why,0.972664,1249120_44140394_104674160.wav,Stomach ache,0,Yes,9
+my stomach feels full and upset and bloating after big meals,0.987629,1249120_33905644_76306333.wav,Stomach ache,0,Yes,11
+my stomach feels starts hurting but then it feels better after i eat something mild,0.9704743,1249120_43620482_44970608.wav,Stomach ache,0,Yes,15
+my stomach has been sore since yesterday,0.98956823,1249120_22423108_11258404.wav,Stomach ache,1,Yes,7
+my television and computer seem out of focus even though i have new glasses,0.80328792,1249120_43883861_58559098.wav,Blurry vision,0,Yes,14
+my temperature dropped and my body gets in ost,0.87143219,1249120_43577102_28130477.wav,Feeling cold,0,Yes,9
+my throat is so sore,0.98762906,1249120_43855932_60916610.wav,Neck pain,1,Yes,5
+my upper back has been sore for a week,0.98762906,1249120_13842059_25244471.wav,Back pain,1,Yes,9
+my wound opened up again,0.98762906,1249120_43172391_78880762.wav,Open wound,1,Yes,5
+my wound was infected when i was planning some flowers in my garden,0.95585155,1249120_35832653_76692212.wav,Infected wound,1,Yes,13
+need to scratch my skin every minute,0.98023099,1249120_20518958_70917723.wav,Skin issue,0,Yes,7
+oh my heart hurts me i tried to be calm and i cant,0.987629,1249120_41203338_22093899.wav,Heart hurts,1,Yes,13
+pain in the large neck,0.87879479,1249120_43788827_94993106.wav,Neck pain,0,Yes,5
+sacha inchi,0.78650284,1249120_43172391_99227112.wav,Skin issue,0,Yes,2
+redness swelling and difficulty walking,0.98313779,1249120_33251186_31770864.wav,Knee pain,1,Yes,5
+severe pain in the ear,0.98762906,1249120_43612961_109439817.wav,Ear ache,1,Yes,5
+severe pain in the upper left side of chest and may have painted back,0.97314513,1249120_28006404_50359460.wav,Heart hurts,1,Yes,14
+sharp pain and heavy breathing,0.98762906,1249120_43577102_63920169.wav,Internal pain,1,Yes,5
+since i went into the forest i have pain on my ear,0.987629,1249120_43698316_68711007.wav,Ear ache,1,Yes,12
+something dark is there on my arm,0.987629,1249120_41956733_11015705.wav,Skin issue,1,Yes,7
+sometimes i cough because i am a smoker,0.987629,1249120_13842059_28311301.wav,Cough,0,Yes,8
+sometimes i feel like a call on my chest,0.98762906,1249120_39438102_24829922.wav,Hard to breath,1,Yes,9
+sometimes my body feels weak without reason,0.97387135,1249120_43316708_73916251.wav,Body feels weak,0,Yes,7
+sometimes when it is cold outside my face hurts especially around the pimples that are ready to pop,0.98762906,1249120_19425875_19354885.wav,Acne,0,Yes,18
+standing less than 5 minutes and my bag start wag,0.89437389,1249120_43665783_19119431.wav,Back pain,0,Yes,10
+sterling silver for the egg,0.80128288,1249120_43794413_65674404.wav,Blurry vision,0,Yes,5
+stiffness inability to look right or left except by moving my whole body,0.95581776,1249120_19425875_18203949.wav,Neck pain,1,Yes,13
+stomach pain after drinking milk,0.98762906,1249120_43577102_41304047.wav,Stomach ache,0,Yes,5
+surgical wound infections,0.98762912,1249120_6338946_65481866.wav,Infected wound,1,Yes,3
+surgical wounds red firing puss painful and hot to the touch,0.79856378,1249120_43577102_82416595.wav,Infected wound,1,Yes,11
+the acne was causing me to fill embarrassed,0.96587682,1249120_35154350_21491579.wav,Acne,0,Yes,8
+the arches of my feet hurt when i wear heels,0.98069084,1249120_43788827_107201794.wav,Foot ache,0,Yes,10
+the area around my heart doesnt feel good,0.987629,1249120_19425875_74306830.wav,Heart hurts,1,Yes,8
+the crushing sensation on my heart leaves me breathless,0.98762906,1249120_2171654_40843730.wav,Heart hurts,1,Yes,9
+the feeling of coughing increases in winter states,0.95907122,1249120_43788827_26436759.wav,Cough,0,Yes,8
+the joints in my fingers are painful in the morning,0.96085656,1249120_29672643_47103727.wav,Joint pain,0,Yes,10
+the knee feels like a rusted and i suddenly cannot bend it anymore,0.8912245,1249120_30766630_39577940.wav,Knee pain,1,Yes,13
+the last time i clipped my toenails i cut them too short and now i have an infected nail,0.98762906,1249120_6338946_85710292.wav,Infected wound,1,Yes,19
+the nurse was so damaged during the operation on my ankle but i cannot stand being touched on this car,0.95025063,1249120_28006404_41087515.wav,Foot ache,1,Yes,20
+the pain feels like its right below the skin,0.98762906,1249120_36929821_13043725.wav,Muscle pain,0,Yes,9
+the pain in my back feels like a sharp knife in it,0.90308791,1249120_36505751_99422756.wav,Back pain,1,Yes,12
+the pain in my ear is unbearable,0.987629,1249120_35154350_17463047.wav,Ear ache,1,Yes,7
+the pain is intense especially when i go down the stairs,0.987629,1249120_39438102_43754649.wav,Knee pain,1,Yes,11
+the severe pain in the stomach i feel,0.987629,1249120_30766630_102035719.wav,Stomach ache,1,Yes,8
+the warming system of my house is broken and feel so cold,0.97179967,1249120_38042052_26799458.wav,Feeling cold,0,Yes,12
+the worst headache was during a hangover in my twenties i sincerely thought i was going to die from brain inflammation,0.90444481,1249120_43855932_98678990.wav,Head ache,0,Yes,21
+the only still open,0.98762906,1249120_20518958_70673281.wav,Open wound,1,Yes,4
+there are lots of hair on my pillow in the morning,0.987629,1249120_44093933_10556478.wav,Hair falling out,1,Yes,11
+there are some pimples on my face that bother me a lot,0.9959814,1249120_38202325_23412557.wav,Acne,0,Yes,12
+dark times when i see crust,0.83260232,1249120_42210938_23185904.wav,Hard to breath,1,Yes,6
+it feels like a swollen knot at my shoulder blade with pain shooting from bats,0.87009311,1249120_38042052_68857502.wav,Shoulder pain,1,Yes,15
+there is a constant tickle in my throat,0.987629,1249120_43604449_68658518.wav,Cough,0,Yes,8
+there is a red stain in my skin,0.987629,1249120_29289135_55391065.wav,Skin issue,1,Yes,8
+there is a sharp pain in my bicep,0.95227247,1249120_43604449_30877415.wav,Muscle pain,0,Yes,8
+theres a sharp pain in my bicep ive tried to apply pain relief cream but it does not help,0.98762906,1249120_18172663_99380885.wav,Muscle pain,1,Yes,19
+daddy just sharp pain in my scalp,0.93168175,1249120_43788827_97797352.wav,Muscle pain,0,Yes,7
+there is a shopping in my ear whenever i do this,0.98481542,1249120_43612961_11753185.wav,Ear ache,0,Yes,11
+there is a tingling sensation in my neck,0.987629,1249120_41956733_75287631.wav,Neck pain,0,Yes,8
+there is acne on my face,0.97425836,1249120_22423108_36981402.wav,Acne,0,Yes,6
+there is an extreme pressure below my belly button at the right which i feel every time i go out for a jog,0.94460303,1249120_22423108_58060969.wav,Internal pain,0,Yes,23
+there is an injured person,0.98762906,1249120_43612961_95318810.wav,Infected wound,1,Yes,5
+there is pain in my joints i cannot burping,0.94104934,1249120_43612961_13180273.wav,Joint pain,0,Yes,9
+there is pain in the muscles i do not know caused,0.97141176,1249120_44140394_42550429.wav,Muscle pain,0,Yes,11
+theres so much pain when i move my arm,0.94693595,1249120_18172663_15515265.wav,Shoulder pain,1,Yes,9
+there is this pain that radiates from my chest up to my left arm,0.98160183,1249120_36929821_24419265.wav,Heart hurts,1,Yes,14
+there must be something wrong with my blood circulation i have to wear socks even on the hottest days my toes are frozen,0.987629,1249120_6338946_90024404.wav,Feeling cold,1,Yes,23
+theres pain in my foot,0.98762906,1249120_35350617_65569556.wav,Foot ache,0,Yes,5
+dad is soiling in my neck and it hurts,0.98762906,1249120_44142156_10833572.wav,Neck pain,1,Yes,9
+what is it,0.8881309,1249120_42210938_54605860.wav,Skin issue,1,Yes,3
+this long scar on my left buttock is from falling off my mountain bike,0.91031015,1249120_38202325_85052531.wav,Injury from sports,0,Yes,14
+using hair tonic,0.98762912,1249120_15004831_17179802.wav,Hair falling out,0,Yes,3
+what helps scars heal faster,0.98762906,1249120_39142299_27108997.wav,Open wound,0,Yes,5
+whats the symptoms of appendicitis,0.99418765,1249120_43698316_61998620.wav,Internal pain,1,Yes,5
+when i get up i found that i have a stomach ache and i tried to take my medicine but my stomach still hurting me,0.98134303,1249120_18172663_84268084.wav,Stomach ache,1,Yes,25
+when i bend over i get a shooting pain down my back,0.987629,1249120_19425875_30353984.wav,Back pain,1,Yes,12
+when i brush my hair i noticed the performing arts in the brush,0.9075473,1249120_43918153_12929625.wav,Hair falling out,1,Yes,13
+when i carry heavy things i feel like breaking my back,0.987629,1249120_28006404_19542824.wav,Back pain,0,Yes,11
+when i do hard exercises i feel great pain in my muscles,0.98864478,1249120_15004831_108516031.wav,Muscle pain,0,Yes,12
+when i drink a lot i get architect,0.93934143,1249120_42554554_20206350.wav,Head ache,0,Yes,8
+when i eat i feel my stomach hurts,0.987629,1249120_38202325_70574927.wav,Stomach ache,1,Yes,8
+when i eat sugar i noticed my vision plus,0.95520431,1249120_40184183_68248494.wav,Blurry vision,1,Yes,9
+when i eat too much sugar my body gets weak and dizzy,0.987629,1249120_40184183_105834820.wav,Body feels weak,0,Yes,12
+when i extend my leg there is pain in knee joint,0.97538906,1249120_38042052_62855155.wav,Joint pain,1,Yes,11
+when i force my eyes to view i have blurry vision,0.97093987,1249120_14353703_109462228.wav,Blurry vision,1,Yes,11
+when it get out of bed in the morning my body feels very weak,0.987629,1249120_41150153_34847384.wav,Body feels weak,0,Yes,14
+when i get up i feel dizzy and fall down,0.98762906,1249120_35154350_86460796.wav,Feeling dizzy,1,Yes,10
+when i get up i see my skin bag,0.98554164,1249120_38202325_106074244.wav,Skin issue,0,Yes,9
+when i go to sleep im feeling cold,0.987629,1249120_43172391_42569776.wav,Feeling cold,0,Yes,8
+when i go to stand my head starts swirling,0.94620556,1249120_43620482_81814046.wav,Feeling dizzy,1,Yes,9
+when i lift my arms up i have a soreness in my shoulders,0.987629,1249120_19425875_50154428.wav,Shoulder pain,1,Yes,13
+when i move my shoulder its like lightning is being sent through my shoulder,0.95768923,1249120_18386513_14849968.wav,Shoulder pain,1,Yes,14
+when i move my shoulder pain shoots down my arm,0.98762906,1249120_19425875_54714144.wav,Shoulder pain,1,Yes,10
+when i play football i have joint pain,0.987629,1249120_35197064_83703590.wav,Joint pain,0,Yes,8
+when i play football i have muscle pain,0.97909158,1249120_30766630_83919463.wav,Muscle pain,0,Yes,8
+when i play sports i have some burning sensation in my spine,0.987629,1249120_33905644_17603413.wav,Back pain,1,Yes,12
+when i played football i dislocated my shoulder,0.95686734,1249120_18172663_30567709.wav,Injury from sports,1,Yes,8
+when i raise my hand i feel pain in my shoulder,0.96321398,1249120_14353703_99001242.wav,Shoulder pain,1,Yes,11
+when i remember how i feel down,0.987629,1249120_43612961_52780930.wav,Emotional pain,0,Yes,7
+when i sneeze very hard i feel earache,0.97017753,1249120_22423108_56376370.wav,Ear ache,0,Yes,8
+when i stand i feel dizzy i do not know why,0.987629,1249120_43604449_55847694.wav,Feeling dizzy,1,Yes,11
+when i stand up i feel like im going to fall down instantly,0.987629,1249120_30766630_16483624.wav,Feeling dizzy,1,Yes,13
+when i stand up my vision is blurry,0.96543396,1249120_20518958_79953861.wav,Blurry vision,0,Yes,8
+when i stand up too quickly i feel as though im going to faint,0.987629,1249120_43577102_30000892.wav,Feeling dizzy,0,Yes,14
+when i stand up too quickly i start to feel dizzy and lightheaded,0.98833525,1249120_40419625_101061145.wav,Feeling dizzy,0,Yes,13
+when i think of my parents i feel pain,0.96491963,1249120_6338946_71387965.wav,Emotional pain,0,Yes,9
+when i tried to answer the phone call i found that i can hear the voice of the speaker,0.96111852,1249120_43172391_30380825.wav,Ear ache,0,Yes,19
+when i tried to be warm and wear more clothes i found that i was still cold,0.98762906,1249120_44140394_58611766.wav,Feeling cold,0,Yes,17
+when i try to take care if my hair i found that it was falling out,0.987629,1249120_29672643_42421014.wav,Hair falling out,0,Yes,16
+when i wake up i am feeling cold,0.987629,1249120_19425875_56371974.wav,Feeling cold,0,Yes,8
+when i wake up in the morning i feel a soreness in my body,0.97877735,1249120_43577102_51802604.wav,Muscle pain,0,Yes,14
+when i wake up in the morning i feel dizzy,0.98762906,1249120_43316708_26840666.wav,Feeling dizzy,0,Yes,10
+when i walk i get a stabbing pain in the top of my foot,0.95391816,1249120_43604449_59605188.wav,Foot ache,1,Yes,14
+when i walk its hard to breathe,0.9539215,1249120_43857865_49221890.wav,Hard to breath,1,Yes,7
+when i walk up a flight of stairs my right knee hurts,0.987629,1249120_43402738_22269682.wav,Knee pain,1,Yes,12
+when i was washing my hair is was failing of the heavily,0.97107011,1249120_33251186_79405442.wav,Hair falling out,1,Yes,12
+when i was young i had an injury from sports in my knee,0.987629,1249120_41203338_73002436.wav,Injury from sports,0,Yes,13
+when im awake in the morning i feel strange and have vertigo,0.96229005,1249120_43698316_18502702.wav,Feeling dizzy,1,Yes,12
+when im doing sport i have pain under my skin,0.98762906,1249120_43856216_38570732.wav,Muscle pain,0,Yes,10
+when im driving my eyes seeing double,0.987629,1249120_43402738_96779187.wav,Blurry vision,1,Yes,7
+when im tired i feel my head heavy,0.987629,1249120_43402738_30245724.wav,Head ache,0,Yes,8
+when i am high i start to feel dizzy,0.95745331,1249120_29672643_42747972.wav,Feeling dizzy,0,Yes,9
+when my grandfather died i felt a hard emotional pain,0.98762906,1249120_38042052_51397205.wav,Emotional pain,0,Yes,10
+whenever i stand up i feel dizzy,0.987629,1249120_40725179_76574514.wav,Feeling dizzy,1,Yes,7
+why is my shoulder aching when i try to pick up the laundry,0.987629,1249120_22423108_32755063.wav,Shoulder pain,1,Yes,13
+yesterday i had a shoulder pain,0.98841476,1249120_41203338_74291763.wav,Shoulder pain,0,Yes,6
+you wont believe me but this infected wound on my hand is from a paper cut i didnt take seriously,0.91606301,1249120_30766630_42880428.wav,Infected wound,1,Yes,20
